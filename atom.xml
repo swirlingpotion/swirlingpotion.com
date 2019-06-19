@@ -1,0 +1,649 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>Swirling Potion</title>
+ <link href="http://localhost:4000/atom.xml" rel="self"/>
+ <link href="http://localhost:4000/"/>
+ <updated>2019-06-18T21:56:22-07:00</updated>
+ <id>http://localhost:4000</id>
+ <author>
+   <name>Dark Wraith</name>
+   <email></email>
+ </author>
+
+ 
+ <entry>
+   <title>Runes</title>
+   <link href="http://localhost:4000/elchronicle-runes/"/>
+   <updated>2019-06-18T00:00:00-07:00</updated>
+   <id>http://localhost:4000/elchronicle-runes</id>
+   <content type="html">&lt;p&gt;There are two kinds of runes, magic (regular) and ancient. The ancient runes are only usable for a specific hero. For instance there’s a “Ancient Rune for Dean”. A hero can only wear one ancient rune.&lt;/p&gt;
+
+&lt;p&gt;Magic runes can be worn by anyone.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/public/images/runes.png&quot; alt=&quot;El Chronicle Runes&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Each rune has a cost. Heroes have a max cost allowed for runes. The starting cost is 24. So if there are two runes that cost 12 each, then that hero can wear 2 of those. You may upgrade the cost to allow your hero to wear more runes or higher cost runes.&lt;/p&gt;
+
+&lt;table&gt;
+&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Type&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;strong&gt;Can wear&lt;/strong&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;Mermaid Ancient&lt;/td&gt;&lt;td&gt;LeeJiyeon, Dice, Aaren, YeryungSuhwa, Yeonhwa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;Eagle Ancient&lt;/td&gt;&lt;td&gt;Grace, Kael, AhkChungwang, BaekLicheon, Iri and &lt;strong&gt;All Assassins&lt;/strong&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;Rock Ancient&lt;/td&gt;&lt;td&gt;Mubu, Dean, Markon, Reinhart, Richard, Jango, Paeng Geumbo&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;Tiger Ancient&lt;/td&gt;&lt;td&gt;Claire, HwangBopae, Aqua, LeeJiyeon, Scarlett, Occasio, JaegalMageon&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;
+
+&lt;p&gt;Keep in mind though that when a ancient rune is created it is assigned to a specific hero.&lt;/p&gt;
+
+&lt;p&gt;Runes can be upgraded using stones. As their level increases their stats go up.&lt;/p&gt;
+
+&lt;p&gt;The ancient runes will have additional attributes that will not increase with rune level.&lt;/p&gt;
+
+&lt;p&gt;There are 9 types of runes. Each rune &lt;strong&gt;may have 1 or 2 attributes&lt;/strong&gt;. Potential attributes for runes are below.&lt;/p&gt;
+
+&lt;table&gt;
+&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Type&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;strong&gt;Attribute&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;strong&gt;Attribute&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;strong&gt;Attribute&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;strong&gt;Attribute&lt;/strong&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;Flame&lt;/td&gt;&lt;td&gt;Magic ATK&lt;/td&gt;&lt;td&gt;Crit Amount/Crit %&lt;/td&gt;&lt;td&gt;Phys ATK&lt;/td&gt;&lt;td&gt;Extra Skill DMG&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;Wolf&lt;/td&gt;&lt;td&gt;ATK Speed&lt;/td&gt;&lt;td&gt;Extra Skill DMG&lt;/td&gt;&lt;td&gt;All ATK&lt;/td&gt;&lt;td&gt;Def Penetration&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;Shield&lt;/td&gt;&lt;td&gt;Phys Def&lt;/td&gt;&lt;td&gt;Def: B ATK DMG&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;Bear&lt;/td&gt;&lt;td&gt;All Def&lt;/td&gt;&lt;td&gt;HP&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;Breeze&lt;/td&gt;&lt;td&gt;Evasion&lt;/td&gt;&lt;td&gt;Shorter Skill Cooldown&lt;/td&gt;&lt;td&gt;Accuracy&lt;/td&gt;&lt;td&gt;Movement Speed&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;Mermaid Ancient&lt;/td&gt;&lt;td&gt;All ATK&lt;/td&gt;&lt;td&gt;All Def&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;Eagle Ancient&lt;/td&gt;&lt;td&gt;All ATK&lt;/td&gt;&lt;td&gt;Legendary&lt;/td&gt;&lt;td&gt;Extra Skill Dmg&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;Rock Ancient&lt;/td&gt;&lt;td&gt;Phys Def&lt;/td&gt;&lt;td&gt;Def Crit DMG&lt;/td&gt;&lt;td&gt;HP&lt;/td&gt;&lt;td&gt;Magic Def&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;Tiger Ancient&lt;/td&gt;&lt;td&gt;All ATK&lt;/td&gt;&lt;td&gt;Addnl B. Atk DMG&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;
+
+&lt;p&gt;Runes can be acquired from the &lt;code class=&quot;highlighter-rouge&quot;&gt;summon shop&lt;/code&gt; (chance), or you can buy a specific rune type from the &lt;code class=&quot;highlighter-rouge&quot;&gt;honor shop&lt;/code&gt;. Runes can also be acquired from &lt;code class=&quot;highlighter-rouge&quot;&gt;rune chests&lt;/code&gt; (rewarded for achievements) or &lt;code class=&quot;highlighter-rouge&quot;&gt;crafted&lt;/code&gt;.&lt;/p&gt;
+
+&lt;p&gt;To craft a rune you must aquire gold, essence (&lt;a href=&quot;/elchronicle-alchemy/&quot;&gt;alchemy&lt;/a&gt;), ingredients from the raid shop, and some other ingredients from adventuring. Ancient runes require &lt;code class=&quot;highlighter-rouge&quot;&gt;Ellium&lt;/code&gt; to be created which can be bought using crystals.&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Daily Objectives</title>
+   <link href="http://localhost:4000/elchronicle-dailies/"/>
+   <updated>2019-06-11T00:00:00-07:00</updated>
+   <id>http://localhost:4000/elchronicle-dailies</id>
+   <content type="html">&lt;p&gt;There is a lot to do in El Chronicle. Here is a list of daily objectives you can try to complete.&lt;/p&gt;
+
+&lt;h3 id=&quot;free-stuff&quot;&gt;Free Stuff&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Collect free gift from Event &amp;gt; Daily Check-in&lt;/li&gt;
+  &lt;li&gt;Get one free summon from Shop &amp;gt; Summon shop. This has a chance of pulling great loot, so pick 4 heroes you need equipment for and hopefully you get something good for 1 of them. You can pick a tank, assassin, a defensive supporter, and an offensive supporter.&lt;/li&gt;
+  &lt;li&gt;Collect any rewards from the day before such as PVP rank reward, guild rank reward etc. Do 3 PVP battles (costs 0 energy).&lt;/li&gt;
+  &lt;li&gt;Complete all the Inn &amp;gt; Request Center quests. These cost no energy and give great rewards.&lt;/li&gt;
+  &lt;li&gt;Make sure to go to the inn and the heroes lounge and use your 10 free greets a day on a hero. That’ll give you around 150 favor to earn that hero. Even the most expensive heroes can be won in 4 days with just freely greeting them.&lt;/li&gt;
+  &lt;li&gt;Check mail. GMs often give out free things.&lt;/li&gt;
+  &lt;li&gt;Do the Mini Game if you have it open. Gives you 10 free upgrade stones a day.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;farming&quot;&gt;Farming&lt;/h3&gt;
+
+&lt;p&gt;Stuff you can do once daily to help you gain resources and items.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Do all your daily quests found in Event &amp;gt; Achievement &amp;gt; Daily menu.&lt;/li&gt;
+  &lt;li&gt;Challenges. Missions, Blitz, and Domain Defense all provide great rewards but have a limit on how many times you can do it daily.&lt;/li&gt;
+  &lt;li&gt;Compete lets you in the Colosseum and Infinite Fortress. You want to rank as high as you can here to earn more &lt;code class=&quot;highlighter-rouge&quot;&gt;honor&lt;/code&gt; and &lt;code class=&quot;highlighter-rouge&quot;&gt;champion points&lt;/code&gt;. Which can be used to buy things in the shop.&lt;/li&gt;
+  &lt;li&gt;Raid. You get a limited amount of free raid tickets a day depending on your level. First each hero has a question to finish each raid 3 times, so working on this will give you extra rewards. Second the higher level raids can earn you nice T4 equipment, so it’s a great place to gear up and even make a set. Third you earn &lt;code class=&quot;highlighter-rouge&quot;&gt;guild points&lt;/code&gt; and &lt;code class=&quot;highlighter-rouge&quot;&gt;raid points&lt;/code&gt; which helps you earn gold and buy things in the shop.&lt;/li&gt;
+  &lt;li&gt;Alchemy takes 24 hours to complete one cycle. Make sure to check it and get something going there.&lt;/li&gt;
+  &lt;li&gt;When you get to the stages &lt;code class=&quot;highlighter-rouge&quot;&gt;Forbidden Prison&lt;/code&gt;, &lt;code class=&quot;highlighter-rouge&quot;&gt;Floating Garden&lt;/code&gt;, &lt;code class=&quot;highlighter-rouge&quot;&gt;Grave of Bitter Grief&lt;/code&gt;, &lt;code class=&quot;highlighter-rouge&quot;&gt;Elixer Room&lt;/code&gt;, and higher you will see challenges you can complete a max of 3 times a day. A lot of these challenges offer valuable materials and hero pieces and are worth doing 3x a day.&lt;/li&gt;
+&lt;/ul&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Hero Lily and her Side Quest Walkthrough</title>
+   <link href="http://localhost:4000/elchronicle-lily/"/>
+   <updated>2019-06-10T00:00:00-07:00</updated>
+   <id>http://localhost:4000/elchronicle-lily</id>
+   <content type="html">&lt;p&gt;Lily is a great hero. At times and in certain battles she can put out more damage than any other hero. It’s depends on the situation.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/public/images/lily.png&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;lilys-skills&quot;&gt;Lily’s Skills&lt;/h2&gt;
+
+&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;Critical Ambush&lt;/code&gt; is a 3 tap attack. Each tap of this skill will cause Lily to dash behind and stab them. With the right timing you can dash behind someone just as they swing towards you missing their attacks. Each of these attacks are AoE meaning they hit multiple targets that are in front of her.&lt;/p&gt;
+
+&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;Reaper's Contract&lt;/code&gt; is an invisibility skill. It completely removes aggro. But then it also causes basic attacks to do additional dmg while hiding. It’s an amazing escape trick.&lt;/p&gt;
+
+&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;Swift Strike&lt;/code&gt; is a two step attack. Step 1 is charge only, step 2 is high powered attack. This also causes extra damage if done while hiding. This is another super way to dodge out of incoming attacks, slip behind someone and attack from the rear. This attack is also AoE for enemies in front of her.&lt;/p&gt;
+
+&lt;h2 id=&quot;lilys-tactics&quot;&gt;Lily’s tactics&lt;/h2&gt;
+
+&lt;p&gt;Enter combat invisible, open with Swift Strike, transition to Critical Ambush, then finish again with Swift Strike, and boom, you’ve just hit the target 10+ times in a short time. She has explosive attacks that cause serious damage that anyone should fear. She’s also very fast. She can outrun many enemies, and while invisible run even faster. But she bounces around the battle field like nobody else.&lt;/p&gt;
+
+&lt;p&gt;It seems hard to control Lily at first, but eventually you can get the hang of her. Use her to quickly take down any weak adds or smaller enemies like healers. She’ll decimate them quickly. Then assist the main tank take down the target, being careful to stay behind the target to not get hit.&lt;/p&gt;
+
+&lt;h2 id=&quot;lilys-side-quest-assassin-of-bloody-moon&quot;&gt;Lily’s Side Quest “Assassin of Bloody Moon”&lt;/h2&gt;
+
+&lt;p&gt;Access her quest by going to the Inn &amp;gt; Request Center &amp;gt; Side Story and select Assassin of the Bloody Moon.&lt;/p&gt;
+
+&lt;p&gt;By completing this story you’ll learn how to effectively use Lily.&lt;/p&gt;
+
+&lt;h3 id=&quot;1st-battle-mission-514&quot;&gt;1st Battle (Mission 5/14)&lt;/h3&gt;
+
+&lt;p&gt;Name: &lt;code class=&quot;highlighter-rouge&quot;&gt;Mission Impossible&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;Squad limited to: &lt;code class=&quot;highlighter-rouge&quot;&gt;Just Lily&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;Lily’s 2nd skill is invisibility. Use it to run past everything lol. This mission is to sneak into the building.&lt;/p&gt;
+
+&lt;h3 id=&quot;2nd-battle-mission-614&quot;&gt;2nd Battle (Mission 6/14)&lt;/h3&gt;
+
+&lt;p&gt;Name: &lt;code class=&quot;highlighter-rouge&quot;&gt;Red Sparrow&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;Squad limited to: &lt;code class=&quot;highlighter-rouge&quot;&gt;Just Lily&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;The first room you get to is full of guards. These will all kill Lily in 1 hit. So you stealth, go invis and run past them. Run through that room and facing south, down the stairs.&lt;/p&gt;
+
+&lt;p&gt;Once past those guards, you’ll find some weaker guards. Kill them with your first skill dashing in and out.&lt;/p&gt;
+
+&lt;h3 id=&quot;3rd-battle-mission-714&quot;&gt;3rd Battle (Mission 7/14)&lt;/h3&gt;
+
+&lt;p&gt;Name: &lt;code class=&quot;highlighter-rouge&quot;&gt;Stealth is What Makes Infiltrations&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;Squad limited to: &lt;code class=&quot;highlighter-rouge&quot;&gt;Just Lily&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;Kill the guards.&lt;/p&gt;
+
+&lt;p&gt;The trick to this one, kill the guard next to the cannon, the cannon becomes friendly and will fire at the boss for you. The boss will attempt to kill the cannon and that’s when you unload on the the boss.&lt;/p&gt;
+
+&lt;h3 id=&quot;4th-battle-mission-814&quot;&gt;4th Battle (Mission 8/14)&lt;/h3&gt;
+
+&lt;p&gt;Name: &lt;code class=&quot;highlighter-rouge&quot;&gt;Undetected Maneuver&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;Recommended power: &lt;code class=&quot;highlighter-rouge&quot;&gt;16,400&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;Squad limited to: &lt;code class=&quot;highlighter-rouge&quot;&gt;Just Lily&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;You start with &lt;code class=&quot;highlighter-rouge&quot;&gt;3 guards&lt;/code&gt; coming at you, disappear, then use your first skill to dash back and forth killing them all together.&lt;/p&gt;
+
+&lt;p&gt;Soon as those guys die &lt;code class=&quot;highlighter-rouge&quot;&gt;2 guards&lt;/code&gt; come at you, followed by &lt;code class=&quot;highlighter-rouge&quot;&gt;2 more guards&lt;/code&gt;. These guys are slow, so one tactic is to run circles around them to bunch them up. If you can get all 4 together closely, wait for your cooldown to reset on your first attack, you can disappear, then dash around them attacking them with your AoE dash attack, killing all 4 at once.&lt;/p&gt;
+
+&lt;p&gt;These 4 guards drop &lt;code class=&quot;highlighter-rouge&quot;&gt;2 healing potions&lt;/code&gt;. Make sure to grab them when they die! I love potions!&lt;/p&gt;
+
+&lt;p&gt;Next there are &lt;code class=&quot;highlighter-rouge&quot;&gt;2 Boss guards&lt;/code&gt;. Just run past them and &lt;code class=&quot;highlighter-rouge&quot;&gt;Devildog&lt;/code&gt; will spawn. When Devildog spawns the 2 boss guards run away.&lt;/p&gt;
+
+&lt;p&gt;Devildog is easy to kite. He gives plenty of warning to his attack so you can run away. Far away, so cooldowns can reset and you can think. Run away, wait for skills to reset, then jump in, attack, then run away.&lt;/p&gt;
+
+&lt;p&gt;When Devildog gets to 75% &lt;code class=&quot;highlighter-rouge&quot;&gt;a cannon and guard&lt;/code&gt; will appear in the top right corner of the map. Kill the guard and then cannon becomes friendly. This will annoy Devildog and he’ll go attack cannon. This is your chance to really unleash on him while he bangs on the cannon.&lt;/p&gt;
+
+&lt;h3 id=&quot;5th-battle-mission-1214&quot;&gt;5th Battle (Mission 12/14)&lt;/h3&gt;
+
+&lt;p&gt;Name: &lt;code class=&quot;highlighter-rouge&quot;&gt;Who is the Thief&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;Recommended power: &lt;code class=&quot;highlighter-rouge&quot;&gt;18,000&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;Squad limited to: &lt;code class=&quot;highlighter-rouge&quot;&gt;Just Lily&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;In this battle you get Scarlett on your side. She’s the little snow/frost wizard. It’s important to know what her skills are:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;When she jumps on a snowball and rolls it, it will freeze anyone she touches. Great time to jump in and attack whoever is frozen.&lt;/li&gt;
+  &lt;li&gt;When she turns into a snowman, if you go near her you’ll heal up.&lt;/li&gt;
+  &lt;li&gt;When she casts a circle around you, you’ll heal a little and get a buff.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Now it’s important to know how this &lt;code class=&quot;highlighter-rouge&quot;&gt;thief boss&lt;/code&gt; attacks. He throws fire bombs at you, which hurt really bad, taking off 20% or more of your life. But, the trick to his fire bombs is just to run away. They only go so far and then they explode on the ground. And you can outrun them if you’re quick.&lt;/p&gt;
+
+&lt;p&gt;First kill the two brutes by grouping them and dashing around them with your first skill.&lt;/p&gt;
+
+&lt;p&gt;Let Scarlett take the aggro and tank the thief boss. She’s got tons of hp and heals herself so she’s fine. The problem is though she doesn’t hold aggro very well. So watch for things like her rolling snowball and when he’s frozen jump that guy and stab him as hard as you can.&lt;/p&gt;
+
+&lt;p&gt;As the thief’s life goes down more enemies will spawn. Just stay out of combat, running around in big circles and going invisible. Then pick off anyone who’s on the outside with a quick dash attack, then go back to running around.&lt;/p&gt;
+
+&lt;p&gt;Victory is accomplished once the thief boss dies.&lt;/p&gt;
+
+&lt;h3 id=&quot;6th-battle-mission-1314&quot;&gt;6th Battle (Mission 13/14)&lt;/h3&gt;
+
+&lt;p&gt;Name: &lt;code class=&quot;highlighter-rouge&quot;&gt;New Vain Holies&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;Recommended power: &lt;code class=&quot;highlighter-rouge&quot;&gt;18,000&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;Squad limited to: &lt;code class=&quot;highlighter-rouge&quot;&gt;Just Lily&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;Well. You face off here against a &lt;code class=&quot;highlighter-rouge&quot;&gt;Big Ghoul&lt;/code&gt;. Each time you kill one of his &lt;code class=&quot;highlighter-rouge&quot;&gt;little ghouls&lt;/code&gt; they just come right back. Big Ghoul is easy to kite since he slowly hops around and you can see where he’s going and be ready to attack him.&lt;/p&gt;
+
+&lt;p&gt;After about 20 seconds &lt;code class=&quot;highlighter-rouge&quot;&gt;Thomas&lt;/code&gt; spawns. &lt;strong&gt;If Thomas dies you fail.&lt;/strong&gt; Thomas will somehow generate a lot of aggro and the ghouls all will attack him. Thomas doesn’t do a shred of damage so he’s a real liability. Because of this you have sort of a timer before he dies and you fail the mission. So you better have your attack power up for this one.&lt;/p&gt;
+
+&lt;p&gt;After you kill about 5 mini-ghouls or possibly when the Big Ghoul gets to 60%, a big ogre will spawn at the top of the stairs. And if you kill that ogre, 2 more ogres will spawn.&lt;/p&gt;
+
+&lt;p&gt;Kill the big ghoul for victory. It’s not easy so really power up Lily before doing it. Get to to 19k+ power.&lt;/p&gt;
+
+&lt;p&gt;Good luck.&lt;/p&gt;
+
+&lt;p&gt;Win this battle and complete her side quest.&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Heroes Guide and Tips</title>
+   <link href="http://localhost:4000/elchronicle-heroes/"/>
+   <updated>2019-06-10T00:00:00-07:00</updated>
+   <id>http://localhost:4000/elchronicle-heroes</id>
+   <content type="html">&lt;h2 id=&quot;best-heroes&quot;&gt;Best Heroes&lt;/h2&gt;
+
+&lt;p&gt;What heroes are great? What heroes should I work on? Nobody knows yet. The game is too new to know. So for now they are all great so pick one you like and gets you excited to play. If you can’t decide, a good strategy is to work on Dean, Gwen, Claire, and JaeglWoon since these are your starter heroes and there seems to be plenty of hero pieces for them to help you upgrade, and these heroes are great.&lt;/p&gt;
+
+&lt;p&gt;Now with that said, if you can score a hero specific weapon, that hero will have significant strength over other heroes. So I would use that hero to carry you through missions. You can get hero specific weapons through the daily free summon shop, or from crafting.&lt;/p&gt;
+
+&lt;p&gt;You can browse the top combat rated heroes in the game by going to Hero &amp;gt; Hero Book &amp;gt; Rank. From here you can sometimes click on the little “i” button in the bottom left to see their equipment, skills, and stats. This is fun to snoop on top players to see how they set up their character. It’s also a handy way to look at heroes you don’t have to see their skills.&lt;/p&gt;
+
+&lt;h2 id=&quot;squad&quot;&gt;Squad&lt;/h2&gt;
+
+&lt;p&gt;At first your squad will consist of 3 people. So pick a tank, someone who can heal, and a damage dealer.&lt;/p&gt;
+
+&lt;p&gt;Later on your squad will consist of 5 people. Again it’s crucial to have a tank, healer, and damage dealer, but the other 2 members is really up to you. Pick 2 more damage dealers for a quick fight. Pick a secondary tank to off tank some of the additional enemies, pick a support person, doesn’t matter. Find someone cool and throw them in.&lt;/p&gt;
+
+&lt;p&gt;You might wonder “Do I need more than 5 heroes?” Ya you do. Here’s some reasons.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Later on you get a chance to have your spare heroes join you in battles called “interrupt”. It’s nice to have good solid heroes that will really help you clear levels quick.&lt;/li&gt;
+  &lt;li&gt;There’s a challenge called &lt;code class=&quot;highlighter-rouge&quot;&gt;blitz&lt;/code&gt; but it only let’s you clear a level once per team. But you can make 3 squads and each squad can do the level. So you need 15 heroes to finish your blitz level if you want to do that.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/elchronicle-alchemy/&quot;&gt;Alchemy&lt;/a&gt; takes up a ton of heroes so the more you have the better there.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;So you might as well go nuts and recruit every hero from the Inn when you get a chance. Don’t worry about bad heroes interrupting your adventures. First I’ve noticed that the top heroes join in on those interrupts, not level 1s. Second, there’s more benefits to having a bunch of heroes.&lt;/p&gt;
+
+&lt;h2 id=&quot;types-of-heroes&quot;&gt;Types of Heroes&lt;/h2&gt;
+
+&lt;p&gt;There are 3 types of heroes. Warrior, DPS (Assassins), and Specialist. Warriors are tanks, they are who you want to get hit during battle as they should have a lot of HP and def. Assassins are going to do the most damage, taking down targets quickly. And Specialists are a mix. They might be healers, buffers, offensive tanks, or some mix of that.&lt;/p&gt;
+
+&lt;h4 id=&quot;tanks&quot;&gt;Tanks&lt;/h4&gt;
+
+&lt;p&gt;There are two types of tanks, offensive and defensive. The offensive one can take a lot of blows but have a high damage output. The defensive ones can take a lot more damage without a problem but don’t put out as much damage.&lt;/p&gt;
+
+&lt;p&gt;Tanks also generate a high amount of aggro keeping the enemies on them and not on assassins or healers.
+Defensive Tanks:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Dean&lt;/li&gt;
+  &lt;li&gt;Richard&lt;/li&gt;
+  &lt;li&gt;Mubu&lt;/li&gt;
+  &lt;li&gt;Markon&lt;/li&gt;
+  &lt;li&gt;Paeng Geumbo&lt;/li&gt;
+  &lt;li&gt;Reinhardt&lt;/li&gt;
+  &lt;li&gt;Jango&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Offensive Tanks:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;AhkChungwang&lt;/li&gt;
+  &lt;li&gt;Kael&lt;/li&gt;
+  &lt;li&gt;BaekLicheon&lt;/li&gt;
+  &lt;li&gt;Grace&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;It’s not clear who the best tanks are. Each are built pretty well. So find one you think looks cool has fun skills and is exciting to play. I personally like sticking with Dean since his hero pieces are more available in the game than other tanks.&lt;/p&gt;
+
+&lt;h4 id=&quot;assassins&quot;&gt;Assassins&lt;/h4&gt;
+
+&lt;p&gt;There are two types of assassins, ranged and melee.&lt;/p&gt;
+
+&lt;p&gt;Ranged assassins:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Gwen&lt;/li&gt;
+  &lt;li&gt;Jade&lt;/li&gt;
+  &lt;li&gt;Isha&lt;/li&gt;
+  &lt;li&gt;Julia&lt;/li&gt;
+  &lt;li&gt;MaSeolin&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Melee assassins:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Lily&lt;/li&gt;
+  &lt;li&gt;Wolyung&lt;/li&gt;
+  &lt;li&gt;JaealWoon&lt;/li&gt;
+  &lt;li&gt;Varia&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;I think Ranged dealers have a slight advantage. They stay out of combat range which keeps them alive longer. They can switch targets quickly without having to run over to the new target. And they can continue to deal damage when the enemy is doing some kind of AOE attack and the melee units have to run away for a second. However I have also seen solid melee dealers completely out damage a ranged dealer. For the most part a melee dealer will stay out of any AOE damage, and not take aggro from a tank.&lt;/p&gt;
+
+&lt;h4 id=&quot;supporters--specialists&quot;&gt;Supporters &amp;amp; Specialists&lt;/h4&gt;
+
+&lt;p&gt;Honestly I can’t tell the difference between supporters and specialists. Healers appear in both classes, DPS’ers appear in both classes, and buffers appear in both classes. There’s even a offensive tanker here what!?&lt;/p&gt;
+
+&lt;p&gt;Supporters:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;LeeJiyeon (healer)&lt;/li&gt;
+  &lt;li&gt;Dice (defensive support/healer)&lt;/li&gt;
+  &lt;li&gt;Claire (offensive support/healer)&lt;/li&gt;
+  &lt;li&gt;Aaren (defensive support/healer)&lt;/li&gt;
+  &lt;li&gt;YeryungSuhwa (defensive support)&lt;/li&gt;
+  &lt;li&gt;HwangBopae (offensive support)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Specialists:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Iri (offensive tanker)&lt;/li&gt;
+  &lt;li&gt;Scarlett (offensive support)&lt;/li&gt;
+  &lt;li&gt;Occasio (offensive support)&lt;/li&gt;
+  &lt;li&gt;Maeho (offensive support)&lt;/li&gt;
+  &lt;li&gt;Aqua (offensive support)&lt;/li&gt;
+  &lt;li&gt;Yeonhwa (defensive support/healer)&lt;/li&gt;
+  &lt;li&gt;JaegalMageon (offensive support)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;LeeJiyeon is the best healer in the game. She has 2 AOE heals, and a trait which heals an ally. So nobody touches her in healing. Which sounds great and it is! But you may not need a fully defensive tank and the best healer. It is probably overkill for most fights. So consider a balance like heavy healer + offensive tanker. Or Heavy tanker but light healer. On really tough fights you may need heavy healer and heavy tanker.&lt;/p&gt;
+
+&lt;p&gt;The &lt;strong&gt;offensive supporter&lt;/strong&gt; heros will be good damage dealers and maybe even buff the team to improve damage even more.&lt;/p&gt;
+
+&lt;p&gt;The &lt;strong&gt;defensive supporters&lt;/strong&gt; often will heal or have defensive buffs for the party such as increased defense or hp.&lt;/p&gt;
+
+&lt;h2 id=&quot;who-to-focus-on&quot;&gt;Who to Focus On&lt;/h2&gt;
+
+&lt;p&gt;When deciding who to upgrade or give that nice equipment to here is a general guide. First upgrade your &lt;code class=&quot;highlighter-rouge&quot;&gt;tank&lt;/code&gt;. They really do keep the team alive and if they fall the whole team falls. But if your DPS falls you can still make it through many missions. The main tank should be the buffest one in your squad and consider crafting a hero specific weapon for them.&lt;/p&gt;
+
+&lt;p&gt;After your tank is good, improve your &lt;code class=&quot;highlighter-rouge&quot;&gt;assassin&lt;/code&gt;. After that upgrade your &lt;code class=&quot;highlighter-rouge&quot;&gt;healer&lt;/code&gt;. After that upgrade your &lt;code class=&quot;highlighter-rouge&quot;&gt;specialists&lt;/code&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;upgrading&quot;&gt;Upgrading&lt;/h2&gt;
+
+&lt;p&gt;Before you can Evolve a hero you have to upgrade them to the max. To upgrade a hero you need hero pieces. These can be acquired through adventuring, achievements, or bought in a shop.&lt;/p&gt;
+
+&lt;p&gt;Under your hero, click upgrade. If you have enough pieces and gold you can upgrade them. Each +1 they are upgraded their base stats rise and they become buffer.&lt;/p&gt;
+
+&lt;p&gt;A quick way to get a bunch of hero pieces is to complete that heroes challenges. Go to Event &amp;gt; Achievement &amp;gt; Challenge and select the hero. Here you will see a bunch of quests for them to do which rewards you with hero pieces.&lt;/p&gt;
+
+&lt;h2 id=&quot;evolving&quot;&gt;Evolving&lt;/h2&gt;
+
+&lt;p&gt;A hero starts at 1 star and can evolve to 6 stars. It is expensive to evolve a hero so look at what items are needed and think about farming those items and saving them up.&lt;/p&gt;
+
+&lt;p&gt;When a hero is evolved to the next star they gain in base stats. They also unlock new things.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;2 stars - gain 1st passive skill&lt;/li&gt;
+  &lt;li&gt;3 stars - gain 1st trait&lt;/li&gt;
+  &lt;li&gt;4 stars - gain 2nd passive skill&lt;/li&gt;
+  &lt;li&gt;5 stars - gain 2nd trait, get new outfit&lt;/li&gt;
+  &lt;li&gt;6 stars - gain 3rd passive skill&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Vines&lt;/strong&gt; and &lt;strong&gt;Tearblooms&lt;/strong&gt; are farmable from many of the adventure missions. The other ingredients are farmable in later missions but only will allow you to do it a few times a day. You may also get ingredients from the challenge missions. Stock up on all ingredients because upgrading is really expensive.&lt;/p&gt;
+
+&lt;h2 id=&quot;awakening&quot;&gt;Awakening&lt;/h2&gt;
+
+&lt;p&gt;After a hero reaches 6 stars they can be awakened. There are 3 stages to awakening W1, W2, and W3. This is extremely expensive to accomplish and will take quite a while. But awakened heroes will gain more in base stats, be allowed to level higher (up to 80), and open more abilities.&lt;/p&gt;
+
+&lt;h2 id=&quot;hero-challenges&quot;&gt;Hero Challenges&lt;/h2&gt;
+
+&lt;p&gt;A great way to get upgrade pieces for heroes is to do the Hero Challenges. you Can find this under the &lt;code class=&quot;highlighter-rouge&quot;&gt;Event&lt;/code&gt; &amp;gt; &lt;code class=&quot;highlighter-rouge&quot;&gt;Achievement&lt;/code&gt; &amp;gt; &lt;code class=&quot;highlighter-rouge&quot;&gt;Challenges&lt;/code&gt; menu. You can earn hundreds of hero pieces, hundreds of thousands of gold, and tons of upgrade materials. In this is such a great place that whenever I get a new hero from the Inn I’ll run them through 3 or 4 challenges to quickly get them starred up. A few quick exp potions a suit of armor and they are ready to join the squad.&lt;/p&gt;
+
+&lt;h2 id=&quot;side-quests&quot;&gt;Side Quests&lt;/h2&gt;
+
+&lt;p&gt;Side quests allow you to learn more about how to use your hero and their history while earning some helpful items.&lt;/p&gt;
+
+&lt;p&gt;As of Jun 11 2019 heroes in the side quest are fully upgraded with max equipment. They are not dependent on your actual heroes skill or level. So feel free to run these quests whenever they open up because it’s the same difficulty and reward no matter what level your heroes are.&lt;/p&gt;
+
+&lt;p&gt;Find the side quests at Inn &amp;gt; Request Center &amp;gt; Side Story.&lt;/p&gt;
+
+&lt;h2 id=&quot;equipment&quot;&gt;Equipment&lt;/h2&gt;
+
+&lt;p&gt;See the guide on &lt;a href=&quot;/elchronicle-equipment/&quot;&gt;equipment&lt;/a&gt; to equip your heroes.&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Equipment Tips and Strategies</title>
+   <link href="http://localhost:4000/elchronicle-equipment/"/>
+   <updated>2019-06-10T00:00:00-07:00</updated>
+   <id>http://localhost:4000/elchronicle-equipment</id>
+   <content type="html">&lt;p&gt;Random tips, ideas, and strategies about the equipment in El Chronicle.&lt;/p&gt;
+
+&lt;p&gt;Equipment as obtained from rewards in battle, raiding, doing challenges, completing requests, crafting, and the shop.&lt;/p&gt;
+
+&lt;p&gt;A hero has 6 equipment slots: &lt;code class=&quot;highlighter-rouge&quot;&gt;helmet&lt;/code&gt;, &lt;code class=&quot;highlighter-rouge&quot;&gt;breastplate&lt;/code&gt;, &lt;code class=&quot;highlighter-rouge&quot;&gt;shield/boots&lt;/code&gt;, &lt;code class=&quot;highlighter-rouge&quot;&gt;hero specific weapon&lt;/code&gt;, &lt;code class=&quot;highlighter-rouge&quot;&gt;normal weapon&lt;/code&gt;, &lt;code class=&quot;highlighter-rouge&quot;&gt;normal accessory&lt;/code&gt;, &lt;code class=&quot;highlighter-rouge&quot;&gt;treasure accessory&lt;/code&gt;, and &lt;code class=&quot;highlighter-rouge&quot;&gt;hero specific treasure accessory&lt;/code&gt;.&lt;/p&gt;
+
+&lt;p&gt;Teasure accessories are obtainable when you get to raid hunter level 18.&lt;/p&gt;
+
+&lt;p&gt;Additionally a hero can wear &lt;code class=&quot;highlighter-rouge&quot;&gt;runes&lt;/code&gt;. There are also &lt;code class=&quot;highlighter-rouge&quot;&gt;hero specific runes&lt;/code&gt; that can only be used by a specific hero.&lt;/p&gt;
+
+&lt;h2 id=&quot;tiers&quot;&gt;Tiers&lt;/h2&gt;
+
+&lt;p&gt;There are 6 tiers of equipment. T1, T2, T3, T4, T5, and T6.&lt;/p&gt;
+
+&lt;table&gt;
+&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Tier&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;strong&gt;Color&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;strong&gt;Quality&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;&lt;strong&gt;Max Lvl&lt;/strong&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;T1&lt;/td&gt;&lt;td&gt;Gray&lt;/td&gt;&lt;td&gt;Poor&lt;/td&gt;&lt;td&gt;15&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;T2&lt;/td&gt;&lt;td&gt;Green&lt;/td&gt;&lt;td&gt;Common&lt;/td&gt;&lt;td&gt;20&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;T3&lt;/td&gt;&lt;td&gt;Blue&lt;/td&gt;&lt;td&gt;Rare&lt;/td&gt;&lt;td&gt;30&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;T4&lt;/td&gt;&lt;td&gt;Purple&lt;/td&gt;&lt;td&gt;Epic&lt;/td&gt;&lt;td&gt;40&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;T5&lt;/td&gt;&lt;td&gt;Orange&lt;/td&gt;&lt;td&gt;Legendary&lt;/td&gt;&lt;td&gt;50&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;T6&lt;/td&gt;&lt;td&gt;Yellow&lt;/td&gt;&lt;td&gt;Legendary&lt;/td&gt;&lt;td&gt;50&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;
+
+&lt;p&gt;The higher the tier the higher quality the item is. It will have higher stats, higher maximum level to upgrade it to, more stats to unlock as you upgrade etc.&lt;/p&gt;
+
+&lt;h2 id=&quot;grades&quot;&gt;Grades&lt;/h2&gt;
+
+&lt;p&gt;Equipment (weapons, armor, accessories, runes) all have a grade which may be &lt;code class=&quot;highlighter-rouge&quot;&gt;D&lt;/code&gt;, &lt;code class=&quot;highlighter-rouge&quot;&gt;C&lt;/code&gt;, &lt;code class=&quot;highlighter-rouge&quot;&gt;B&lt;/code&gt;, &lt;code class=&quot;highlighter-rouge&quot;&gt;A&lt;/code&gt;, &lt;code class=&quot;highlighter-rouge&quot;&gt;S&lt;/code&gt;, or &lt;code class=&quot;highlighter-rouge&quot;&gt;SS&lt;/code&gt;, where &lt;code class=&quot;highlighter-rouge&quot;&gt;SS&lt;/code&gt; is the highest grade, and &lt;code class=&quot;highlighter-rouge&quot;&gt;D&lt;/code&gt; is the lowest. That is if you have 2 of the exact same item one having SS grade and 1 having F grade, the SS grade item will have more stats than the other.&lt;/p&gt;
+
+&lt;p&gt;Equipment will randomly be given a grade upon acquiring it. It’s random. Doesn’t matter on level or anything else when crafting it.&lt;/p&gt;
+
+&lt;p&gt;It’s possible to increase the grade but it’s very expensive. To increase the grade you need to &lt;a href=&quot;https://global.elchronicle.io/archives/4042&quot;&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;Transcend&lt;/code&gt;&lt;/a&gt; the item 3 times.&lt;/p&gt;
+
+&lt;h2 id=&quot;upgrades&quot;&gt;Upgrades&lt;/h2&gt;
+
+&lt;p&gt;Equipment can be upgraded in the &lt;code class=&quot;highlighter-rouge&quot;&gt;Workshop&lt;/code&gt;. When an item is upgrade to level &lt;code class=&quot;highlighter-rouge&quot;&gt;11&lt;/code&gt; it will gain a bonus stat. When an item is upgraded to level &lt;code class=&quot;highlighter-rouge&quot;&gt;21&lt;/code&gt; it will gain another bonus stat. T1 items cannot gain a bonus stat. A bonus stat is whole new effect the item provides such as HP or +DEF. Because of these bonus stats it’s good to try to upgrade equipment to level 11 or 21 to get these bonus stats.&lt;/p&gt;
+
+&lt;p&gt;You upgrade armor by using other armor you aren’t using or an &lt;code class=&quot;highlighter-rouge&quot;&gt;upgrade stone&lt;/code&gt;. There are 3 types of &lt;code class=&quot;highlighter-rouge&quot;&gt;upgrade stones&lt;/code&gt;: low, medium and high. Upgrade stones can be created through &lt;a href=&quot;/elchronicle-alchemy/&quot;&gt;alchemy&lt;/a&gt;, or acquired through adventuring in the game. So with old equipment that you won’t use, especially T1 equipment, you can use it to upgrade the good equipment you have. This is preferred since the only other option is to sell it and it’s fairly easy to acquire gold in the game.&lt;/p&gt;
+
+&lt;h2 id=&quot;general-tips&quot;&gt;General Tips&lt;/h2&gt;
+
+&lt;p&gt;T4 equipment can hold you over well into the late game. It’s very hard and you have to be very lucky to get T6 items. So if you acquire a T4 item, you can safely invest in upgrading it even if you are a lower level.&lt;/p&gt;
+
+&lt;p&gt;T1-T3 cannot be Tiered up. But a T4 item can be increased to T5 and T6. So again, if you find a good T4 item, upgrade it without worry.&lt;/p&gt;
+
+&lt;p&gt;Check your bags in the consumables section. You sometimes get chests that contains equipment and you have to open them there. There’s no difference in opening these chests when you’re low level or high, so open em when you get em.&lt;/p&gt;
+
+&lt;h2 id=&quot;farming&quot;&gt;Farming&lt;/h2&gt;
+
+&lt;p&gt;Raids are a great way to get some decent gear. You can get T4 stuff to drop in there and you can even see which raids drop what before doing the raid. Keep in mind that&lt;/p&gt;
+
+&lt;p&gt;You can save up your honor and buy a T4 summon chest in the honor shop. This will contain a random T4 item. You can also buy ancient rune chests which will summon a random rune specific for a hero.&lt;/p&gt;
+
+&lt;p&gt;Or with some Alchemy, and some Raiding, you can craft some equipment.&lt;/p&gt;
+
+&lt;h2 id=&quot;crafting&quot;&gt;Crafting&lt;/h2&gt;
+
+&lt;p&gt;Equipment can be crafted in the workshop. Armor, weapons, and accessories are fairly common to acquire while adventuring. But what isn’t so common is to see hero specific weapons drop. So it’s a good idea to craft these.&lt;/p&gt;
+
+&lt;p&gt;It’s safe to craft items at any point in the game as your level has no affect on the quality of equipment you craft.&lt;/p&gt;
+
+&lt;p&gt;Crafting a hero specific weapon is a great way to increase the hero’s power another 2,000 points pretty quick. Hero’s have 2 weapons, a general weapon and a hero specific weapon. When looking at the hero’s equipment, the slot in the bottom left corner is exclusive for hero specific weapons.&lt;/p&gt;
+
+&lt;p&gt;To craft a hero specific weapon you will need &lt;code class=&quot;highlighter-rouge&quot;&gt;100 hero pieces&lt;/code&gt;, &lt;code class=&quot;highlighter-rouge&quot;&gt;5x Essence&lt;/code&gt;, and &lt;code class=&quot;highlighter-rouge&quot;&gt;4 monster ingredients&lt;/code&gt;. The essence can be created through &lt;a href=&quot;/elchronicle-alchemy/&quot;&gt;alchemy&lt;/a&gt;, and the monster ingredients are all sold in the raid shop and will cost you around 100k raid points to buy it all. The raid shop is the only place you can acquire these monster ingredients so saving you raid points for crafting is a good strategy.&lt;/p&gt;
+
+&lt;p&gt;It’s also a good strategy to craft a hero specific weapon early in the game as it’ll help you get through a large part of the game and carry you well into the late game. Heroes with their own weapon perform significantly better than those without it.&lt;/p&gt;
+
+&lt;h2 id=&quot;transcend&quot;&gt;Transcend&lt;/h2&gt;
+
+&lt;p&gt;If at some point you get a duplicate weapon or piece of armor or even rune you can choose to transcend it. By combining the two items together your item may get a bonus stat if transcended. If it fails your item will gain mileage which will allow you to transcend it after a certain mileage has been gained.&lt;/p&gt;
+
+&lt;h2 id=&quot;runes&quot;&gt;Runes&lt;/h2&gt;
+
+&lt;p&gt;See &lt;a href=&quot;/elchronicle-runes/&quot;&gt;Rune guide&lt;/a&gt;.&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Alchemy Guide and Tips</title>
+   <link href="http://localhost:4000/elchronicle-alchemy/"/>
+   <updated>2019-06-10T00:00:00-07:00</updated>
+   <id>http://localhost:4000/elchronicle-alchemy</id>
+   <content type="html">&lt;p&gt;Official Alchemy Game Guide: &lt;a href=&quot;https://global.elchronicle.io/archives/2229&quot;&gt;https://global.elchronicle.io/archives/2229&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;By navigating to Inn &amp;gt; Alchemy&amp;amp;Cooking you can begin your Alchemy career.&lt;/p&gt;
+
+&lt;p&gt;You have the option to make 4 things: &lt;code class=&quot;highlighter-rouge&quot;&gt;gold&lt;/code&gt;, &lt;code class=&quot;highlighter-rouge&quot;&gt;crystals&lt;/code&gt;, &lt;code class=&quot;highlighter-rouge&quot;&gt;essence&lt;/code&gt;, and &lt;code class=&quot;highlighter-rouge&quot;&gt;upgrade stones&lt;/code&gt;.&lt;/p&gt;
+
+&lt;p&gt;Gold I think is easy to obtain. Some players like farming crystals through alchemy. But I think lower players will need essence to &lt;a href=&quot;/elchronicle-equipment/&quot;&gt;craft equipment&lt;/a&gt;, and it’s a good place to start. Later on it’s also good to create upgrade stones.&lt;/p&gt;
+
+&lt;p&gt;To create something you do the following:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Choose what you want to create&lt;/li&gt;
+  &lt;li&gt;Pick who you want to create it&lt;/li&gt;
+  &lt;li&gt;Get the materials needed to create it&lt;/li&gt;
+  &lt;li&gt;Hit create then wait 24 hours&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Now when you pick a hero to help create the alchemy item, that hero will be tied up creating that for 24 hours. Which only means they can’t create any other Alchemy item. You can still use that hero anywhere else.&lt;/p&gt;
+
+&lt;p&gt;The number of items created for each alchemy recipe depends on the &lt;code class=&quot;highlighter-rouge&quot;&gt;hero's stars&lt;/code&gt;. Here is the breakdown:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;1* = 4%&lt;/li&gt;
+  &lt;li&gt;2* = 8%&lt;/li&gt;
+  &lt;li&gt;3* = 12%&lt;/li&gt;
+  &lt;li&gt;4* = 16%&lt;/li&gt;
+  &lt;li&gt;5* = 20%&lt;/li&gt;
+  &lt;li&gt;6* = 25%&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;For simplicity sake, let’s say you want to create upgrade stones which says you can create 1-10 of them. If you put 4 heroes that are 6* each on that recipe, that will be 4 x 25% = 100%, which will yield all 10/10 stones.&lt;/p&gt;
+
+&lt;p&gt;Depending on how many heroes you put into a recipe and how many stars they have will change the yield of how many items you get out of that recipe. The rough breakdown for essences is like this:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;20% = 2 essence&lt;/li&gt;
+  &lt;li&gt;30% = 3 essence&lt;/li&gt;
+  &lt;li&gt;41% = 4 essence&lt;/li&gt;
+  &lt;li&gt;60% = 5 essence&lt;/li&gt;
+  &lt;li&gt;75% = 6 essence&lt;/li&gt;
+  &lt;li&gt;9?% = 7 essence&lt;/li&gt;
+  &lt;li&gt;100% = 8 essence&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Now personally, since it cost some raid points and 3 energy to create something and it takes a whole day to finish, I aim to get to 60% for each of my crafting. Which is 3x 4* heroes and 1x 3* hero (16% + 16% + 16% + 12% = 60%). This gives me 5 essence or 6 stones which is a hefty little reward. And I think getting a hero to 4 stars isn’t that painful. After a few weeks of gameplay it should be easy to get them up pretty quick. If you need more hero pieces to upgrade them do their special hero achievements.&lt;/p&gt;
+
+&lt;p&gt;The more you do alchemy the more slots you can open to create more things at once.&lt;/p&gt;
+
+&lt;p&gt;The more heroes you have the more stuff you can create in alchemy at once.&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>New Player Guide</title>
+   <link href="http://localhost:4000/elchronicle-guide/"/>
+   <updated>2019-06-09T00:00:00-07:00</updated>
+   <id>http://localhost:4000/elchronicle-guide</id>
+   <content type="html">&lt;h2 id=&quot;game-description&quot;&gt;Game Description&lt;/h2&gt;
+
+&lt;p&gt;El Chronicle is a great game for mobile phones. It allows you collect and build up heroes, battle enemies, complete quests, earn loot, and conquer in PVP. The graphics are great, the sound is great (each hero has their own unique theme song), and the gameplay is great.&lt;/p&gt;
+
+&lt;p&gt;There are in app purchase options, which are really expensive ($10 for a costume, $30 for more gold or crystals), but none of it is required to still progress quickly through the game and feel satisfied playing it.&lt;/p&gt;
+
+&lt;p&gt;Within about a month of free to play, you can progress far enough to end game content. You can have high level heroes, with some of the best gear in the game, rank high in pvp and complete most of the game’s challenges.&lt;/p&gt;
+
+&lt;p&gt;At first you are allowed to use 3 heroes in your &lt;code class=&quot;highlighter-rouge&quot;&gt;squad&lt;/code&gt; which is your group. As the game progresses you can have 5 in your squad.&lt;/p&gt;
+
+&lt;p&gt;Your heroes have multiple stats. This includes, level, stars, upgrade value, hp/def/atk power, and all this adds up to total &lt;code class=&quot;highlighter-rouge&quot;&gt;combat power&lt;/code&gt;. Your combat power helps you guess if you can complete a battle or not. Gain exp (by finishing battles alive or drinking exp potions) to gain levels. Use hero pieces to upgrade your hero. Use ingredients to give your hero more stars. Each new star level gives the hero a new skill or tier or something. See &lt;a href=&quot;/elchronicle-heroes/&quot;&gt;heroes guide&lt;/a&gt; for more info.&lt;/p&gt;
+
+&lt;p&gt;Equipment can be obtained from battles, raids, and the shop. It will significantly boost your heroes combat power. Equipment can be crafted and upgraded. T4 equipment can be brought up to T5 and T6. But T1, T2, and T3 items cannot tier up. So if you find a T4 item early in the game, you can safely upgrade it because you may use it the whole game. Learn more about &lt;a href=&quot;/elchronicle-equipment/&quot;&gt;equipment here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;gameplay&quot;&gt;Gameplay&lt;/h2&gt;
+
+&lt;p&gt;The game starts you out by going on adventures. You are given a battle in which you must complete. You get to pick who is in your squad. Upon winning the battle you are given exp for your party and your surviving heroes and rewards for completing it. Progress through the game by completing the adventures.&lt;/p&gt;
+
+&lt;p&gt;Story adventures can only be completed once. But there’s a little portal statue thing that you can visit called stages, and those battles you can do repeatedly. From the battle menu you can go right or left to choose older battles or newer ones and you can see what rewards there are for completing. This is a great way to farm for items you need or get a hero more exp.&lt;/p&gt;
+
+&lt;p&gt;If you complete a stage level with the 3 objectives of keep everyone alive and finish in 1:30 you get a bonus SS reward of some crystals. So it’s a good idea to go back and make sure all stages are SS cleared.&lt;/p&gt;
+
+&lt;p&gt;By the way ratings in the game go from D, C, B, A, S, and SS. Where SS is the highest rating. This applies to equipment and stage clearing.&lt;/p&gt;
+
+&lt;p&gt;You get 5 heroes near the beginning of the game to play with free. Dean, Gwen, JaeleWoon, Clair, and Maeho. These are great heroes to use the whole game if you want. Each hero is good, but with these you get a little added hero pieces to help you upgrade.&lt;/p&gt;
+
+&lt;p&gt;There are dozens more heroes. To get them visit the Inn &amp;gt; Heroes Lounge. As you progress through the game more heroes will show up in the Connect menu here. Find one you like and click connect. You now have to earn their favor for them to permanently join you. You earn their favor by greeting them, giving them gold, giving them ingredients, giving them food, or just giving them crystals. The most expensive heroes are 900 favor which can be earned in 4 days completely free by doing the free greet 10x a day. Oh yes, all of the allowances reset each night allowing you to do the methods again the next day. Learn more about &lt;a href=&quot;/elchronicle-heroes/&quot;&gt;heroes&lt;/a&gt; here.&lt;/p&gt;
+
+&lt;p&gt;A solid party consists of a tank, damage dealer, and healer. Each hero has it’s qualities so find one that suits you and you’re excited about and use it. They are all good. But if you can score a hero specific weapon for one, that hero will be significantly stronger than the others because the hero specific weapon gives another 2,000 combat power.&lt;/p&gt;
+
+&lt;p&gt;There are a lot of free things to get each day so make sure to pay attention to your &lt;a href=&quot;http://127.0.0.1:4000/elchronicle-dailies/&quot;&gt;daily objectives&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Join the highest level guild you can. The higher the level the more gold they earn a day which is free gold for you. Help the guild out by participating in raids.&lt;/p&gt;
+
+&lt;h2 id=&quot;strategiesgeneral-tips&quot;&gt;Strategies/General Tips&lt;/h2&gt;
+
+&lt;p&gt;You’re going to need a lot of ingredients for evolving heroes. Stock up on them, farm them, grab them anywhere you can. The vine and tearbloom can be farmed from most lower level stages whenever you want. As you progress to higher stages you can find more places to farm ingredients but they will have limited repeatable runs.&lt;/p&gt;
+
+&lt;p&gt;Run through the adventures to further yourself in the game. As you adventure further you will unlock new heroes in the inn, collect more supplies for upgrades, and level up.&lt;/p&gt;
+
+&lt;p&gt;As you progress you will unlock Raids, Challenges, and Compete. You get a limited amount of raid tickets each day so use them up, you get great loot there which can equip your heroes and gives you raid points. PVP doesn’t use any energy and can earn you honor which you need. So all these extra things are worth doing when your heroes are big enough.&lt;/p&gt;
+
+&lt;p&gt;When your hero gets to around 18-20k combat power, have them do their side story. It’s fun and gives good rewards.&lt;/p&gt;
+
+&lt;p&gt;Eventually you get Lulu to give you additional loot.  Basically every 3 stage battles she will give you an extra bonus drop. Once she is there for 30 stage battles you have to reselect which perk you want. At first select her clapper as this will give you trait materials you will likely use before the other materials. Always keep her support on because this extra gold and perk is great over time.&lt;/p&gt;
+
+&lt;p&gt;The first time you do a level you won’t have to go through it manually. Then you will be able to full auto it once you complete it. If you complete it with an SS score, you can then auto it on repeat without any interaction. You can cancel your auto repeat by hitting the little door icon and you’ll get back the energy it says next to the door icon.&lt;/p&gt;
+
+&lt;p&gt;If you are having trouble passing a certain battle, go and improve your heroes. Upgrade their armor, give them better armor, level up their skills, upgrade them, evolve them, or give them more traits. Then try the battle again once you’re upgraded.&lt;/p&gt;
+
+&lt;p&gt;“Help I still can’t beat a certain level!” Ya just keep raising your combat power. Farm more items, upgrade and level up your heroes and try again. It might take you a few days to improve your heroes to pass a mission, or even a few weeks. That’s ok that’s part of the fun, feeling like it got hard but you got past it. Everything can be solved by just improving your heroes combat power.&lt;/p&gt;
+
+&lt;p&gt;Once you start a mission you are charged energy. But if you fail a mission you can retry it over and over without any extra energy cost.&lt;/p&gt;
+
+&lt;h2 id=&quot;resources&quot;&gt;Resources&lt;/h2&gt;
+
+&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;Gold&lt;/code&gt; comes and goes fast. In just a few weeks of playing you’ll be able to make a million gold in a day. When you run out of gold it sucks, but if you can just wait until tomorrow, chances are you’ll have enough for whatever you wanted. Do the &lt;a href=&quot;/elchronicle-dailies/&quot;&gt;Daily Objectives&lt;/a&gt; and you’ll be good. &lt;a href=&quot;https://www.youtube.com/watch?v=r0A3YAtwCJg&quot;&gt;Watch this video&lt;/a&gt; to see how it adds up quick. Strangely enough you don’t buy anything with gold. It’s used when upgrading heroes, evolving them, awakening them, upgrading equipment, crafting equipment, hiring mercenaries in raids, and gaining favor with new heroes in the inn.&lt;/p&gt;
+
+&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;Energy&lt;/code&gt; runs out quick. You get 1 more every 5 minutes. There is a daily quest which gives you an extra 240 energy so make sure to grab that and use it all up every day on your daily objectives.&lt;/p&gt;
+
+&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;Honor&lt;/code&gt; is used to buy things in the honor shop. You can get honor from the following places:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Compete &amp;gt; Colosseum&lt;/li&gt;
+  &lt;li&gt;Compete &amp;gt; Infinite Fortress&lt;/li&gt;
+  &lt;li&gt;Raid &amp;gt; World Boss&lt;/li&gt;
+  &lt;li&gt;Guild ranking rewards&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;Raid points&lt;/code&gt; are earned when completing raids. Raids also can grant guild points and subjugation scores. These are used to help your guild buy things and you can buy things to help you defeat world bosses.&lt;/p&gt;
+
+&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;Champion points&lt;/code&gt; are earned when ranking really high in either of the Compete areas.&lt;/p&gt;
+
+&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;Thread&lt;/code&gt; only acquired through in game purchases.&lt;/p&gt;
+
+&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;Mileage&lt;/code&gt; perhaps only through in game purchases.&lt;/p&gt;
+
+&lt;h2 id=&quot;shops&quot;&gt;Shops&lt;/h2&gt;
+
+&lt;p&gt;There are 4 shops &lt;code class=&quot;highlighter-rouge&quot;&gt;summon&lt;/code&gt;, &lt;code class=&quot;highlighter-rouge&quot;&gt;wandering&lt;/code&gt;, &lt;code class=&quot;highlighter-rouge&quot;&gt;honor&lt;/code&gt;, &lt;code class=&quot;highlighter-rouge&quot;&gt;champion&lt;/code&gt;, &lt;code class=&quot;highlighter-rouge&quot;&gt;raid&lt;/code&gt;, &lt;code class=&quot;highlighter-rouge&quot;&gt;costume&lt;/code&gt;, and &lt;code class=&quot;highlighter-rouge&quot;&gt;mileage&lt;/code&gt;.&lt;/p&gt;
+
+&lt;p&gt;The summon shop gives you a free chance to get a good item for one of the heroes selected each day. Make sure to take this free pull daily and choose heroes you really want new equipment for.&lt;/p&gt;
+
+&lt;p&gt;The wandering shop lets you buy ingredients with crystals. Probably best to save your crystals for when your trying to get your hero awakened because materials are so hard to acquire for that.&lt;/p&gt;
+
+&lt;p&gt;The honor shop lets you buy ingredients with honor points. This shop is great for finding pieces you need to upgrade heroes or equipment. In fact you can buy equipment chests here too.&lt;/p&gt;
+
+&lt;p&gt;The champion shop lets you cash in your champion points for random equipment T4-T6.&lt;/p&gt;
+
+&lt;p&gt;The raid shop lets you purchase ingredients used to craft equipment or cook food.&lt;/p&gt;
+
+&lt;p&gt;The costume shop lets you buy new outfits for your characters. Keep in mind your character gets a new outfit at 5 stars and again at Awakening 1.&lt;/p&gt;
+
+&lt;p&gt;Mileage shop let’s you buy treasures. These are items your heroes can wear.&lt;/p&gt;
+
+&lt;h2 id=&quot;more-links&quot;&gt;More links&lt;/h2&gt;
+
+&lt;p&gt;Official game guide &lt;a href=&quot;https://global.elchronicle.io/archives/category/global/game-guide&quot;&gt;https://global.elchronicle.io/archives/category/global/game-guide&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Reddit &lt;a href=&quot;https://www.reddit.com/r/El_chronicle&quot;&gt;https://www.reddit.com/r/El_chronicle&lt;/a&gt;&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+
+</feed>
