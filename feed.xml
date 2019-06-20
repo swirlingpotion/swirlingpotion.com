@@ -1,4 +1,8 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-06-19T14:25:59-07:00</updated><id>http://localhost:4000/</id><title type="html">Swirling Potion</title><subtitle>Drink this.</subtitle><author><name>Dark Wraith</name></author><entry><title type="html">Runes</title><link href="http://localhost:4000/elchronicle-runes/" rel="alternate" type="text/html" title="Runes" /><published>2019-06-18T00:00:00-07:00</published><updated>2019-06-18T00:00:00-07:00</updated><id>http://localhost:4000/elchronicle-runes</id><content type="html" xml:base="http://localhost:4000/elchronicle-runes/">&lt;p&gt;There are two kinds of runes, magic (regular) and ancient. The ancient runes are only usable for a specific hero. For instance there’s a “Ancient Rune for Dean”. A hero can only wear one ancient rune.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="https://swirlingpotion.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://swirlingpotion.com/" rel="alternate" type="text/html" /><updated>2019-06-19T20:34:07-07:00</updated><id>https://swirlingpotion.com/</id><title type="html">Swirling Potion</title><subtitle>Drink this.</subtitle><author><name>Dark Wraith</name></author><entry><title type="html">Rune Guide</title><link href="https://swirlingpotion.com/elchronicle-runes/" rel="alternate" type="text/html" title="Rune Guide" /><published>2019-06-18T00:00:00-07:00</published><updated>2019-06-18T00:00:00-07:00</updated><id>https://swirlingpotion.com/elchronicle-runes</id><content type="html" xml:base="https://swirlingpotion.com/elchronicle-runes/">&lt;p&gt;Runes are extra pieces of &lt;a href=&quot;/elchronicle-equipment/&quot;&gt;equipment&lt;/a&gt; a hero can wear which gives extra stats and abilities.&lt;/p&gt;
+
+&lt;p&gt;There are two kinds of runes, magic (regular) and ancient. The ancient runes are only usable for a specific hero. For instance there’s a “Ancient Rune for Dean”. A hero can only wear one ancient rune.&lt;/p&gt;
+
+&lt;p&gt;Ancient runes gives base stats and an extra ability to the hero while a regular magic rune only gives base stats.&lt;/p&gt;
 
 &lt;p&gt;Magic runes can be worn by anyone.&lt;/p&gt;
 
@@ -16,7 +20,7 @@
 
 &lt;p&gt;Keep in mind though that when a ancient rune is created it is assigned to a specific hero.&lt;/p&gt;
 
-&lt;p&gt;Runes can be upgraded using stones. As their level increases their stats go up.&lt;/p&gt;
+&lt;p&gt;Runes can be upgraded using stones or other runes. As their level increases their stats go up.&lt;/p&gt;
 
 &lt;p&gt;The ancient runes will have additional attributes that will not increase with rune level.&lt;/p&gt;
 
@@ -37,7 +41,7 @@
 
 &lt;p&gt;Runes can be acquired from the &lt;code class=&quot;highlighter-rouge&quot;&gt;summon shop&lt;/code&gt; (chance), or you can buy a specific rune type from the &lt;code class=&quot;highlighter-rouge&quot;&gt;honor shop&lt;/code&gt;. Runes can also be acquired from &lt;code class=&quot;highlighter-rouge&quot;&gt;rune chests&lt;/code&gt; (rewarded for achievements) or &lt;code class=&quot;highlighter-rouge&quot;&gt;crafted&lt;/code&gt;.&lt;/p&gt;
 
-&lt;p&gt;To craft a rune you must aquire gold, essence (&lt;a href=&quot;/elchronicle-alchemy/&quot;&gt;alchemy&lt;/a&gt;), ingredients from the raid shop, and some other ingredients from adventuring. Ancient runes require &lt;code class=&quot;highlighter-rouge&quot;&gt;Ellium&lt;/code&gt; to be created which can be bought using crystals.&lt;/p&gt;</content><author><name>Dark Wraith</name></author><summary type="html">There are two kinds of runes, magic (regular) and ancient. The ancient runes are only usable for a specific hero. For instance there’s a “Ancient Rune for Dean”. A hero can only wear one ancient rune.</summary></entry><entry><title type="html">Daily Objectives</title><link href="http://localhost:4000/elchronicle-dailies/" rel="alternate" type="text/html" title="Daily Objectives" /><published>2019-06-11T00:00:00-07:00</published><updated>2019-06-11T00:00:00-07:00</updated><id>http://localhost:4000/elchronicle-dailies</id><content type="html" xml:base="http://localhost:4000/elchronicle-dailies/">&lt;p&gt;There is a lot to do in El Chronicle. Here is a list of daily objectives you can try to complete.&lt;/p&gt;
+&lt;p&gt;To craft a rune you must aquire gold, essence (&lt;a href=&quot;/elchronicle-alchemy/&quot;&gt;alchemy&lt;/a&gt;), ingredients from the raid shop, and some other ingredients from adventuring. Ancient runes require &lt;code class=&quot;highlighter-rouge&quot;&gt;Ellium&lt;/code&gt; to be created which can be bought using crystals.&lt;/p&gt;</content><author><name>Dark Wraith</name></author><summary type="html">Runes are extra pieces of equipment a hero can wear which gives extra stats and abilities.</summary></entry><entry><title type="html">Daily Objectives</title><link href="https://swirlingpotion.com/elchronicle-dailies/" rel="alternate" type="text/html" title="Daily Objectives" /><published>2019-06-11T00:00:00-07:00</published><updated>2019-06-11T00:00:00-07:00</updated><id>https://swirlingpotion.com/elchronicle-dailies</id><content type="html" xml:base="https://swirlingpotion.com/elchronicle-dailies/">&lt;p&gt;There is a lot to do in El Chronicle. Here is a list of daily objectives you can try to complete.&lt;/p&gt;
 
 &lt;h3 id=&quot;free-stuff&quot;&gt;Free Stuff&lt;/h3&gt;
 
@@ -62,7 +66,7 @@
   &lt;li&gt;Raid. You get a limited amount of free raid tickets a day depending on your level. First each hero has a question to finish each raid 3 times, so working on this will give you extra rewards. Second the higher level raids can earn you nice T4 equipment, so it’s a great place to gear up and even make a set. Third you earn &lt;code class=&quot;highlighter-rouge&quot;&gt;guild points&lt;/code&gt; and &lt;code class=&quot;highlighter-rouge&quot;&gt;raid points&lt;/code&gt; which helps you earn gold and buy things in the shop.&lt;/li&gt;
   &lt;li&gt;Alchemy takes 24 hours to complete one cycle. Make sure to check it and get something going there.&lt;/li&gt;
   &lt;li&gt;When you get to the stages &lt;code class=&quot;highlighter-rouge&quot;&gt;Forbidden Prison&lt;/code&gt;, &lt;code class=&quot;highlighter-rouge&quot;&gt;Floating Garden&lt;/code&gt;, &lt;code class=&quot;highlighter-rouge&quot;&gt;Grave of Bitter Grief&lt;/code&gt;, &lt;code class=&quot;highlighter-rouge&quot;&gt;Elixer Room&lt;/code&gt;, and higher you will see challenges you can complete a max of 3 times a day. A lot of these challenges offer valuable materials and hero pieces and are worth doing 3x a day.&lt;/li&gt;
-&lt;/ul&gt;</content><author><name>Dark Wraith</name></author><summary type="html">There is a lot to do in El Chronicle. Here is a list of daily objectives you can try to complete.</summary></entry><entry><title type="html">Hero Lily and her Side Quest Walkthrough</title><link href="http://localhost:4000/elchronicle-lily/" rel="alternate" type="text/html" title="Hero Lily and her Side Quest Walkthrough" /><published>2019-06-10T00:00:00-07:00</published><updated>2019-06-10T00:00:00-07:00</updated><id>http://localhost:4000/elchronicle-lily</id><content type="html" xml:base="http://localhost:4000/elchronicle-lily/">&lt;p&gt;Lily is a great hero. At times and in certain battles she can put out more damage than any other hero. It’s depends on the situation.&lt;/p&gt;
+&lt;/ul&gt;</content><author><name>Dark Wraith</name></author><summary type="html">There is a lot to do in El Chronicle. Here is a list of daily objectives you can try to complete.</summary></entry><entry><title type="html">Hero Lily and her Side Quest Walkthrough</title><link href="https://swirlingpotion.com/elchronicle-lily/" rel="alternate" type="text/html" title="Hero Lily and her Side Quest Walkthrough" /><published>2019-06-10T00:00:00-07:00</published><updated>2019-06-10T00:00:00-07:00</updated><id>https://swirlingpotion.com/elchronicle-lily</id><content type="html" xml:base="https://swirlingpotion.com/elchronicle-lily/">&lt;p&gt;Lily is a great hero. At times and in certain battles she can put out more damage than any other hero. It’s depends on the situation.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/public/images/lily.png&quot; /&gt;&lt;/p&gt;
 
@@ -178,11 +182,13 @@
 
 &lt;p&gt;Good luck.&lt;/p&gt;
 
-&lt;p&gt;Win this battle and complete her side quest.&lt;/p&gt;</content><author><name>Dark Wraith</name></author><summary type="html">Lily is a great hero. At times and in certain battles she can put out more damage than any other hero. It’s depends on the situation.</summary></entry><entry><title type="html">Heroes Guide and Tips</title><link href="http://localhost:4000/elchronicle-heroes/" rel="alternate" type="text/html" title="Heroes Guide and Tips" /><published>2019-06-10T00:00:00-07:00</published><updated>2019-06-10T00:00:00-07:00</updated><id>http://localhost:4000/elchronicle-heroes</id><content type="html" xml:base="http://localhost:4000/elchronicle-heroes/">&lt;h2 id=&quot;best-heroes&quot;&gt;Best Heroes&lt;/h2&gt;
+&lt;p&gt;Win this battle and complete her side quest.&lt;/p&gt;</content><author><name>Dark Wraith</name></author><summary type="html">Lily is a great hero. At times and in certain battles she can put out more damage than any other hero. It’s depends on the situation.</summary></entry><entry><title type="html">Heroes Guide and Tips</title><link href="https://swirlingpotion.com/elchronicle-heroes/" rel="alternate" type="text/html" title="Heroes Guide and Tips" /><published>2019-06-10T00:00:00-07:00</published><updated>2019-06-10T00:00:00-07:00</updated><id>https://swirlingpotion.com/elchronicle-heroes</id><content type="html" xml:base="https://swirlingpotion.com/elchronicle-heroes/">&lt;h2 id=&quot;best-heroes&quot;&gt;Best Heroes&lt;/h2&gt;
 
 &lt;p&gt;What heroes are great? What heroes should I work on? Nobody knows yet. The game is too new to know. So for now they are all great so pick one you like and gets you excited to play. If you can’t decide, a good strategy is to work on Dean, Gwen, Claire, and JaeglWoon since these are your starter heroes and there seems to be plenty of hero pieces for them to help you upgrade, and these heroes are great.&lt;/p&gt;
 
-&lt;p&gt;Now with that said, if you can score a hero specific weapon, that hero will have significant strength over other heroes. So I would use that hero to carry you through missions. You can get hero specific weapons through the daily free summon shop, or from crafting.&lt;/p&gt;
+&lt;p&gt;Now with that said, if you can score a hero specific weapon in the early-mid game, that hero will have significant strength over your other heroes. So I would use that hero to carry you through missions. You can get hero specific weapons through the daily free summon shop, or from crafting.&lt;/p&gt;
+
+&lt;p&gt;In fact what most high level players use is the hero they have the best gear for. You can get them some pretty sweet gear in the summon shop, using crystals to summon a 10 pack. And if you&lt;/p&gt;
 
 &lt;p&gt;You can browse the top combat rated heroes in the game by going to Hero &amp;gt; Hero Book &amp;gt; Rank. From here you can sometimes click on the little “i” button in the bottom left to see their equipment, skills, and stats. This is fun to snoop on top players to see how they set up their character. It’s also a handy way to look at heroes you don’t have to see their skills.&lt;/p&gt;
 
@@ -204,7 +210,7 @@
 
 &lt;h2 id=&quot;types-of-heroes&quot;&gt;Types of Heroes&lt;/h2&gt;
 
-&lt;p&gt;There are 3 types of heroes. Warrior, DPS (Assassins), and Specialist. Warriors are tanks, they are who you want to get hit during battle as they should have a lot of HP and def. Assassins are going to do the most damage, taking down targets quickly. And Specialists are a mix. They might be healers, buffers, offensive tanks, or some mix of that.&lt;/p&gt;
+&lt;p&gt;There are 4 types of heroes. Warrior, DPS (Assassins), Supporter, and Specialist. Warriors are tanks, they are who you want to get hit during battle as they should have a lot of HP and def. Assassins are going to do the most damage, taking down targets quickly. And Supporters and Specialists are a mix. They might be healers, buffers, offensive tanks, or some mix of that.&lt;/p&gt;
 
 &lt;h4 id=&quot;tanks&quot;&gt;Tanks&lt;/h4&gt;
 
@@ -261,7 +267,7 @@ Defensive Tanks:&lt;/p&gt;
 
 &lt;h4 id=&quot;supporters--specialists&quot;&gt;Supporters &amp;amp; Specialists&lt;/h4&gt;
 
-&lt;p&gt;Honestly I can’t tell the difference between supporters and specialists. Healers appear in both classes, DPS’ers appear in both classes, and buffers appear in both classes. There’s even a offensive tanker here what!?&lt;/p&gt;
+&lt;p&gt;Honestly I can’t tell the difference between supporters and specialists. Healers appear in both classes, DPS’ers appear in both classes, and buffers appear in both classes. I can’t find any clear thing that seperates the two other than their classification. There’s even a offensive tanker here what!?&lt;/p&gt;
 
 &lt;p&gt;Supporters:&lt;/p&gt;
 
@@ -286,7 +292,7 @@ Defensive Tanks:&lt;/p&gt;
   &lt;li&gt;JaegalMageon (offensive support)&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;LeeJiyeon is the best healer in the game. She has 2 AOE heals, and a trait which heals an ally. So nobody touches her in healing. Which sounds great and it is! But you may not need a fully defensive tank and the best healer. It is probably overkill for most fights. So consider a balance like heavy healer + offensive tanker. Or Heavy tanker but light healer. On really tough fights you may need heavy healer and heavy tanker.&lt;/p&gt;
+&lt;p&gt;LeeJiyeon is the best healer in the game. She has 2 AOE heals, and traits and equipment which heals an ally. So nobody touches her in healing. Which sounds great and it is! But you may not need a fully defensive tank and the best healer. It is probably overkill for most fights. So consider a balance like heavy healer + offensive tanker. Or Heavy tanker but 2 light healers. On really tough fights where you’re really under the combat power recommendation you may need heavy healer and heavy tanker.&lt;/p&gt;
 
 &lt;p&gt;The &lt;strong&gt;offensive supporter&lt;/strong&gt; heros will be good damage dealers and maybe even buff the team to improve damage even more.&lt;/p&gt;
 
@@ -340,7 +346,7 @@ Defensive Tanks:&lt;/p&gt;
 
 &lt;h2 id=&quot;equipment&quot;&gt;Equipment&lt;/h2&gt;
 
-&lt;p&gt;See the guide on &lt;a href=&quot;/elchronicle-equipment/&quot;&gt;equipment&lt;/a&gt; to equip your heroes.&lt;/p&gt;</content><author><name>Dark Wraith</name></author><summary type="html">Best Heroes</summary></entry><entry><title type="html">Equipment Tips and Strategies</title><link href="http://localhost:4000/elchronicle-equipment/" rel="alternate" type="text/html" title="Equipment Tips and Strategies" /><published>2019-06-10T00:00:00-07:00</published><updated>2019-06-10T00:00:00-07:00</updated><id>http://localhost:4000/elchronicle-equipment</id><content type="html" xml:base="http://localhost:4000/elchronicle-equipment/">&lt;p&gt;Random tips, ideas, and strategies about the equipment in El Chronicle.&lt;/p&gt;
+&lt;p&gt;See the guide on &lt;a href=&quot;/elchronicle-equipment/&quot;&gt;equipment&lt;/a&gt; to equip your heroes.&lt;/p&gt;</content><author><name>Dark Wraith</name></author><summary type="html">Best Heroes</summary></entry><entry><title type="html">Equipment Tips and Strategies</title><link href="https://swirlingpotion.com/elchronicle-equipment/" rel="alternate" type="text/html" title="Equipment Tips and Strategies" /><published>2019-06-10T00:00:00-07:00</published><updated>2019-06-10T00:00:00-07:00</updated><id>https://swirlingpotion.com/elchronicle-equipment</id><content type="html" xml:base="https://swirlingpotion.com/elchronicle-equipment/">&lt;p&gt;Random tips, ideas, and strategies about the equipment in El Chronicle.&lt;/p&gt;
 
 &lt;p&gt;Equipment as obtained from rewards in battle, raiding, doing challenges, completing requests, crafting, and the shop.&lt;/p&gt;
 
@@ -388,13 +394,15 @@ Defensive Tanks:&lt;/p&gt;
 
 &lt;p&gt;Check your bags in the consumables section. You sometimes get chests that contains equipment and you have to open them there. There’s no difference in opening these chests when you’re low level or high, so open em when you get em.&lt;/p&gt;
 
-&lt;h2 id=&quot;farming&quot;&gt;Farming&lt;/h2&gt;
+&lt;h2 id=&quot;farming--gearing-up&quot;&gt;Farming / Gearing up&lt;/h2&gt;
 
-&lt;p&gt;Raids are a great way to get some decent gear. You can get T4 stuff to drop in there and you can even see which raids drop what before doing the raid. Keep in mind that&lt;/p&gt;
+&lt;p&gt;Raids are a great way to get some decent gear. You can get T4 stuff to drop in there and you can even see which raids drop what before doing the raid.&lt;/p&gt;
 
-&lt;p&gt;You can save up your honor and buy a T4 summon chest in the honor shop. This will contain a random T4 item. You can also buy ancient rune chests which will summon a random rune specific for a hero.&lt;/p&gt;
+&lt;p&gt;It’s also a good idea to save up crystal and go to the summon shop to summon 10x cards. This summon can pull T3, T4, and T6 equipment and runes. This is a great way to gear up a hero.&lt;/p&gt;
 
-&lt;p&gt;Or with some Alchemy, and some Raiding, you can craft some equipment.&lt;/p&gt;
+&lt;p&gt;You can also save up your honor and buy a T4 summon chest in the honor shop. This will contain a random T4 item. You can also buy ancient rune chests which will summon a random rune specific for a hero. Since the summon card pulls also grant this, it’s probably best to save your honor for upgrade materials.&lt;/p&gt;
+
+&lt;p&gt;Or with some Alchemy, and some raiding to get raid points for the shop, and adventuring to get ingredients, you can craft some equipment.&lt;/p&gt;
 
 &lt;h2 id=&quot;crafting&quot;&gt;Crafting&lt;/h2&gt;
 
@@ -414,7 +422,7 @@ Defensive Tanks:&lt;/p&gt;
 
 &lt;h2 id=&quot;runes&quot;&gt;Runes&lt;/h2&gt;
 
-&lt;p&gt;See &lt;a href=&quot;/elchronicle-runes/&quot;&gt;Rune guide&lt;/a&gt;.&lt;/p&gt;</content><author><name>Dark Wraith</name></author><summary type="html">Random tips, ideas, and strategies about the equipment in El Chronicle.</summary></entry><entry><title type="html">Alchemy Guide and Tips</title><link href="http://localhost:4000/elchronicle-alchemy/" rel="alternate" type="text/html" title="Alchemy Guide and Tips" /><published>2019-06-10T00:00:00-07:00</published><updated>2019-06-10T00:00:00-07:00</updated><id>http://localhost:4000/elchronicle-alchemy</id><content type="html" xml:base="http://localhost:4000/elchronicle-alchemy/">&lt;p&gt;Official Alchemy Game Guide: &lt;a href=&quot;https://global.elchronicle.io/archives/2229&quot;&gt;https://global.elchronicle.io/archives/2229&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;See &lt;a href=&quot;/elchronicle-runes/&quot;&gt;Rune guide&lt;/a&gt;.&lt;/p&gt;</content><author><name>Dark Wraith</name></author><summary type="html">Random tips, ideas, and strategies about the equipment in El Chronicle.</summary></entry><entry><title type="html">Alchemy Guide and Tips</title><link href="https://swirlingpotion.com/elchronicle-alchemy/" rel="alternate" type="text/html" title="Alchemy Guide and Tips" /><published>2019-06-10T00:00:00-07:00</published><updated>2019-06-10T00:00:00-07:00</updated><id>https://swirlingpotion.com/elchronicle-alchemy</id><content type="html" xml:base="https://swirlingpotion.com/elchronicle-alchemy/">&lt;p&gt;Official Alchemy Game Guide: &lt;a href=&quot;https://global.elchronicle.io/archives/2229&quot;&gt;https://global.elchronicle.io/archives/2229&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;By navigating to Inn &amp;gt; Alchemy&amp;amp;Cooking you can begin your Alchemy career.&lt;/p&gt;
 
@@ -462,13 +470,15 @@ Defensive Tanks:&lt;/p&gt;
 
 &lt;p&gt;The more you do alchemy the more slots you can open to create more things at once.&lt;/p&gt;
 
-&lt;p&gt;The more heroes you have the more stuff you can create in alchemy at once.&lt;/p&gt;</content><author><name>Dark Wraith</name></author><summary type="html">Official Alchemy Game Guide: https://global.elchronicle.io/archives/2229</summary></entry><entry><title type="html">New Player Guide</title><link href="http://localhost:4000/elchronicle-guide/" rel="alternate" type="text/html" title="New Player Guide" /><published>2019-06-09T00:00:00-07:00</published><updated>2019-06-09T00:00:00-07:00</updated><id>http://localhost:4000/elchronicle-guide</id><content type="html" xml:base="http://localhost:4000/elchronicle-guide/">&lt;h2 id=&quot;game-description&quot;&gt;Game Description&lt;/h2&gt;
+&lt;p&gt;The more heroes you have the more stuff you can create in alchemy at once.&lt;/p&gt;</content><author><name>Dark Wraith</name></author><summary type="html">Official Alchemy Game Guide: https://global.elchronicle.io/archives/2229</summary></entry><entry><title type="html">New Player Guide</title><link href="https://swirlingpotion.com/elchronicle-guide/" rel="alternate" type="text/html" title="New Player Guide" /><published>2019-06-09T00:00:00-07:00</published><updated>2019-06-09T00:00:00-07:00</updated><id>https://swirlingpotion.com/elchronicle-guide</id><content type="html" xml:base="https://swirlingpotion.com/elchronicle-guide/">&lt;h2 id=&quot;game-description&quot;&gt;Game Description&lt;/h2&gt;
 
 &lt;p&gt;El Chronicle is a great game for mobile phones. It allows you collect and build up heroes, battle enemies, complete quests, earn loot, and conquer in PVP. The graphics are great, the sound is great (each hero has their own unique theme song), and the gameplay is great.&lt;/p&gt;
 
 &lt;p&gt;There are in app purchase options, which are really expensive ($10 for a costume, $30 for more gold or crystals), but none of it is required to still progress quickly through the game and feel satisfied playing it.&lt;/p&gt;
 
-&lt;p&gt;Within about a month of free to play, you can progress far enough to end game content. You can have high level heroes, with some of the best gear in the game, rank high in pvp and complete most of the game’s challenges.&lt;/p&gt;
+&lt;p&gt;Within 1 to 2 months as a free player you can begin doing late game objectives. You can have all heroes acquired, gear up your team, awaken them and complete all scenarios in this time. The late game content allows players to level up to 70 (which is really hard to reach), and keep looking for better equipment, and try to kill harder raid bosses.&lt;/p&gt;
+
+&lt;p&gt;There is a PVP system which allows players to attack other players in an automated way. You can’t control your heros during PVP. This system lets you try out different strategies and hero combinations to attempt to rank higher on the ladder. Highest ranked players will get more rewards than lower ranked players.&lt;/p&gt;
 
 &lt;p&gt;At first you are allowed to use 3 heroes in your &lt;code class=&quot;highlighter-rouge&quot;&gt;squad&lt;/code&gt; which is your group. As the game progresses you can have 5 in your squad.&lt;/p&gt;
 
@@ -490,17 +500,17 @@ Defensive Tanks:&lt;/p&gt;
 
 &lt;p&gt;There are dozens more heroes. To get them visit the Inn &amp;gt; Heroes Lounge. As you progress through the game more heroes will show up in the Connect menu here. Find one you like and click connect. You now have to earn their favor for them to permanently join you. You earn their favor by greeting them, giving them gold, giving them ingredients, giving them food, or just giving them crystals. The most expensive heroes are 900 favor which can be earned in 4 days completely free by doing the free greet 10x a day. Oh yes, all of the allowances reset each night allowing you to do the methods again the next day. Learn more about &lt;a href=&quot;/elchronicle-heroes/&quot;&gt;heroes&lt;/a&gt; here.&lt;/p&gt;
 
-&lt;p&gt;A solid party consists of a tank, damage dealer, and healer. Each hero has it’s qualities so find one that suits you and you’re excited about and use it. They are all good. But if you can score a hero specific weapon for one, that hero will be significantly stronger than the others because the hero specific weapon gives another 2,000 combat power.&lt;/p&gt;
+&lt;p&gt;A solid party consists of a tank, damage dealer, and healer. Each hero has its qualities so find one that suits you and you’re excited about and use it. They are all good. But if you can score a hero specific weapon for one, that hero will be significantly stronger than the others because the hero specific weapon gives another 2,000 combat power.&lt;/p&gt;
 
-&lt;p&gt;There are a lot of free things to get each day so make sure to pay attention to your &lt;a href=&quot;http://127.0.0.1:4000/elchronicle-dailies/&quot;&gt;daily objectives&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;There are a lot of free things to get each day so make sure to pay attention to your &lt;a href=&quot;/elchronicle-dailies/&quot;&gt;daily objectives&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;Join the highest level guild you can. The higher the level the more gold they earn a day which is free gold for you. Help the guild out by participating in raids.&lt;/p&gt;
+&lt;p&gt;Join the highest level guild you can. The higher the level the more gold they earn a day which is free gold for you. Help the guild out by participating in raids. Whenever your party level goes up 5 levels consider quitting your guild and finding a higher level guild.&lt;/p&gt;
 
 &lt;h2 id=&quot;strategiesgeneral-tips&quot;&gt;Strategies/General Tips&lt;/h2&gt;
 
 &lt;p&gt;You’re going to need a lot of ingredients for evolving heroes. Stock up on them, farm them, grab them anywhere you can. The vine and tearbloom can be farmed from most lower level stages whenever you want. As you progress to higher stages you can find more places to farm ingredients but they will have limited repeatable runs.&lt;/p&gt;
 
-&lt;p&gt;Run through the adventures to further yourself in the game. As you adventure further you will unlock new heroes in the inn, collect more supplies for upgrades, and level up.&lt;/p&gt;
+&lt;p&gt;Run through the adventures to further yourself in the game. As you adventure further you will unlock new heroes in the inn, collect more supplies for upgrades, and level up. New content will be unlocked as you progress through the adventures too. Such as raiding, pvp, and missions.&lt;/p&gt;
 
 &lt;p&gt;As you progress you will unlock Raids, Challenges, and Compete. You get a limited amount of raid tickets each day so use them up, you get great loot there which can equip your heroes and gives you raid points. PVP doesn’t use any energy and can earn you honor which you need. So all these extra things are worth doing when your heroes are big enough.&lt;/p&gt;
 
@@ -508,7 +518,7 @@ Defensive Tanks:&lt;/p&gt;
 
 &lt;p&gt;Eventually you get Lulu to give you additional loot.  Basically every 3 stage battles she will give you an extra bonus drop. Once she is there for 30 stage battles you have to reselect which perk you want. At first select her clapper as this will give you trait materials you will likely use before the other materials. Always keep her support on because this extra gold and perk is great over time.&lt;/p&gt;
 
-&lt;p&gt;The first time you do a level you won’t have to go through it manually. Then you will be able to full auto it once you complete it. If you complete it with an SS score, you can then auto it on repeat without any interaction. You can cancel your auto repeat by hitting the little door icon and you’ll get back the energy it says next to the door icon.&lt;/p&gt;
+&lt;p&gt;The first time you do a level you will have to go through it manually. Then you will be able to full auto it once you complete it. If you complete it with an SS score, you can then auto it on repeat without any interaction. You can cancel your auto repeat by hitting the little door icon and you’ll get back the energy it says next to the door icon.&lt;/p&gt;
 
 &lt;p&gt;If you are having trouble passing a certain battle, go and improve your heroes. Upgrade their armor, give them better armor, level up their skills, upgrade them, evolve them, or give them more traits. Then try the battle again once you’re upgraded.&lt;/p&gt;
 
@@ -543,22 +553,26 @@ Defensive Tanks:&lt;/p&gt;
 
 &lt;p&gt;There are 4 shops &lt;code class=&quot;highlighter-rouge&quot;&gt;summon&lt;/code&gt;, &lt;code class=&quot;highlighter-rouge&quot;&gt;wandering&lt;/code&gt;, &lt;code class=&quot;highlighter-rouge&quot;&gt;honor&lt;/code&gt;, &lt;code class=&quot;highlighter-rouge&quot;&gt;champion&lt;/code&gt;, &lt;code class=&quot;highlighter-rouge&quot;&gt;raid&lt;/code&gt;, &lt;code class=&quot;highlighter-rouge&quot;&gt;costume&lt;/code&gt;, and &lt;code class=&quot;highlighter-rouge&quot;&gt;mileage&lt;/code&gt;.&lt;/p&gt;
 
-&lt;p&gt;The summon shop gives you a free chance to get a good item for one of the heroes selected each day. Make sure to take this free pull daily and choose heroes you really want new equipment for.&lt;/p&gt;
+&lt;p&gt;The summon shop gives you a free chance to get a good item for one of the heroes selected each day. Make sure to take this free pull daily and choose heroes you really want new equipment for. Some players recommend saving your crystals to buy the 10x summon card pulls. A few of these can really help gear up your squad as it gives you T3-T6 equipment and runes.&lt;/p&gt;
 
-&lt;p&gt;The wandering shop lets you buy ingredients with crystals. Probably best to save your crystals for when your trying to get your hero awakened because materials are so hard to acquire for that.&lt;/p&gt;
+&lt;p&gt;The wandering shop lets you buy ingredients with crystals.&lt;/p&gt;
 
-&lt;p&gt;The honor shop lets you buy ingredients with honor points. This shop is great for finding pieces you need to upgrade heroes or equipment. In fact you can buy equipment chests here too.&lt;/p&gt;
+&lt;p&gt;The honor shop lets you buy ingredients with honor points. It’s recommended to use honor to buy ingredients for upgrades and crafting. Missing hero pieces, ingredients for alechemy, ingredients for evolving heroes. Or it’s not a bad idea to buy more energy or raid tickets or even gold here too. It’s just not advised to spend honor on items you can farm.&lt;/p&gt;
 
-&lt;p&gt;The champion shop lets you cash in your champion points for random equipment T4-T6.&lt;/p&gt;
+&lt;p&gt;The champion shop lets you cash in your champion points for random equipment T4-T6. Champion points are awarded to the top 12% of PVP ranked players in the highest tier.&lt;/p&gt;
 
-&lt;p&gt;The raid shop lets you purchase ingredients used to craft equipment or cook food.&lt;/p&gt;
+&lt;p&gt;The raid shop lets you purchase ingredients used to craft equipment or cook food. When crafting equipment it may cost 100k in raid points to buy all the items. A lot of items used in crafting can only be purchased in the raid shop.&lt;/p&gt;
 
-&lt;p&gt;The costume shop lets you buy new outfits for your characters. Keep in mind your character gets a new outfit at 5 stars and again at Awakening 1.&lt;/p&gt;
+&lt;p&gt;The costume shop lets you buy new outfits for your characters. Keep in mind your character gets a new outfit at 5 stars and again at Awakening 1. Thread for costumes can only be purchased for real money.&lt;/p&gt;
 
-&lt;p&gt;Mileage shop let’s you buy treasures. These are items your heroes can wear.&lt;/p&gt;
+&lt;p&gt;Mileage shop let’s you buy treasures. These are items your heroes can wear. I think mileage can only be purchased with real money. But treasures can be found in the summon shop and in certain raids.&lt;/p&gt;
 
 &lt;h2 id=&quot;more-links&quot;&gt;More links&lt;/h2&gt;
 
 &lt;p&gt;Official game guide &lt;a href=&quot;https://global.elchronicle.io/archives/category/global/game-guide&quot;&gt;https://global.elchronicle.io/archives/category/global/game-guide&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;Reddit &lt;a href=&quot;https://www.reddit.com/r/El_chronicle&quot;&gt;https://www.reddit.com/r/El_chronicle&lt;/a&gt;&lt;/p&gt;</content><author><name>Dark Wraith</name></author><summary type="html">Game Description</summary></entry></feed>
+&lt;p&gt;Reddit &lt;a href=&quot;https://www.reddit.com/r/El_chronicle&quot;&gt;https://www.reddit.com/r/El_chronicle&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;YouTube Guides and Videos &lt;a href=&quot;https://www.youtube.com/user/SacredxForever/videos&quot;&gt;https://www.youtube.com/user/SacredxForever/videos&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Active discussions on Discord &lt;a href=&quot;https://discord.gg/Trg6qcS&quot;&gt;https://discord.gg/Trg6qcS&lt;/a&gt;&lt;/p&gt;</content><author><name>Dark Wraith</name></author><summary type="html">Game Description</summary></entry></feed>
