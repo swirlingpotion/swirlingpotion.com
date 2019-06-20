@@ -220,7 +220,7 @@ tbody tr:nth-child(odd) th {
   font-size: 1.5rem;
   display: inline;
 }
-.sidebar-about img {
+.sidebar-img {
   float: left;
   margin: 5px;
 }
@@ -422,4 +422,8 @@ a.sidebar-nav-item:focus {
 }
 ::-webkit-scrollbar-thumb:hover {
   background: #7d7d7d;
+}
+
+img {
+  display: inline-block;
 }
