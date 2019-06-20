@@ -4,7 +4,7 @@
  <title>Swirling Potion</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2019-06-20T11:53:19-07:00</updated>
+ <updated>2019-06-20T12:40:09-07:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Dark Wraith</name>
@@ -231,7 +231,9 @@
    <link href="http://localhost:4000/elchronicle-heroes/"/>
    <updated>2019-06-10T00:00:00-07:00</updated>
    <id>http://localhost:4000/elchronicle-heroes</id>
-   <content type="html">&lt;p&gt;&lt;img src=&quot;/public/images/dean.jpg&quot; alt=&quot;Dean&quot; width=&quot;100px&quot; /&gt;
+   <content type="html">&lt;p&gt;There are over 30 heroes in El Chronicle to choose from. Each hero has a unique set of skills and abilities and uses.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/public/images/dean.jpg&quot; alt=&quot;Dean&quot; width=&quot;100px&quot; /&gt;
 &lt;img src=&quot;/public/images/richard.jpg&quot; alt=&quot;Richard&quot; width=&quot;100px&quot; /&gt;
 &lt;img src=&quot;/public/images/mubu.jpg&quot; width=&quot;100px&quot; /&gt;
 &lt;img src=&quot;/public/images/markon.jpg&quot; width=&quot;100px&quot; /&gt;
