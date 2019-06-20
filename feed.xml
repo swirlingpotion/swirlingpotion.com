@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="https://swirlingpotion.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://swirlingpotion.com/" rel="alternate" type="text/html" /><updated>2019-06-19T22:12:18-07:00</updated><id>https://swirlingpotion.com/</id><title type="html">Swirling Potion</title><subtitle>Drink this.</subtitle><author><name>Dark Wraith</name></author><entry><title type="html">Rune Guide</title><link href="https://swirlingpotion.com/elchronicle-runes/" rel="alternate" type="text/html" title="Rune Guide" /><published>2019-06-18T00:00:00-07:00</published><updated>2019-06-18T00:00:00-07:00</updated><id>https://swirlingpotion.com/elchronicle-runes</id><content type="html" xml:base="https://swirlingpotion.com/elchronicle-runes/">&lt;p&gt;Runes are extra pieces of &lt;a href=&quot;/elchronicle-equipment/&quot;&gt;equipment&lt;/a&gt; a hero can wear which gives extra stats and abilities.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="https://swirlingpotion.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://swirlingpotion.com/" rel="alternate" type="text/html" /><updated>2019-06-20T11:46:12-07:00</updated><id>https://swirlingpotion.com/</id><title type="html">Swirling Potion</title><subtitle>Drink this.</subtitle><author><name>Dark Wraith</name></author><entry><title type="html">Rune Guide</title><link href="https://swirlingpotion.com/elchronicle-runes/" rel="alternate" type="text/html" title="Rune Guide" /><published>2019-06-18T00:00:00-07:00</published><updated>2019-06-18T00:00:00-07:00</updated><id>https://swirlingpotion.com/elchronicle-runes</id><content type="html" xml:base="https://swirlingpotion.com/elchronicle-runes/">&lt;p&gt;Runes are extra pieces of &lt;a href=&quot;/elchronicle-equipment/&quot;&gt;equipment&lt;/a&gt; a hero can wear which gives extra stats and abilities.&lt;/p&gt;
 
 &lt;p&gt;There are two kinds of runes, magic (regular) and ancient. The ancient runes are only usable for a specific hero. For instance there’s a “Ancient Rune for Dean”. A hero can only wear one ancient rune.&lt;/p&gt;
 
@@ -254,32 +254,32 @@
 
 &lt;p&gt;There are two types of tanks, offensive and defensive. The offensive one can take a lot of blows but have a high damage output. The defensive ones can take a lot more damage without a problem but don’t put out as much damage.&lt;/p&gt;
 
-&lt;p&gt;Tanks also generate a high amount of aggro keeping the enemies on them and not on assassins or healers.
-Defensive Tanks:&lt;/p&gt;
+&lt;p&gt;Tanks also generate a high amount of aggro keeping the enemies on them and not on assassins or healers.&lt;/p&gt;
 
-&lt;p&gt;Dean&lt;br /&gt; &lt;img src=&quot;/public/images/dean.jpg&quot; alt=&quot;Dean&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Defensive Tanks:&lt;/p&gt;
 
-&lt;p&gt;Richard&lt;br /&gt; &lt;img src=&quot;/public/images/richard.jpg&quot; alt=&quot;Richard&quot; /&gt;&lt;/p&gt;
+&lt;div class=&quot;parent&quot;&gt;	
+	&lt;div class=&quot;column&quot;&gt;Dean&lt;br /&gt; &lt;img src=&quot;/public/images/dean.jpg&quot; alt=&quot;Dean&quot; /&gt;&lt;/div&gt;
+	&lt;div class=&quot;column&quot;&gt;Richard&lt;br /&gt; &lt;img src=&quot;/public/images/richard.jpg&quot; alt=&quot;Richard&quot; /&gt;&lt;/div&gt;
+	&lt;div class=&quot;column&quot;&gt;Mubu&lt;br /&gt; &lt;img src=&quot;/public/images/mubu.jpg&quot; /&gt;&lt;/div&gt;
+	&lt;div class=&quot;column&quot;&gt;Markon&lt;br /&gt; &lt;img src=&quot;/public/images/markon.jpg&quot; /&gt;&lt;/div&gt;
+&lt;/div&gt;
 
-&lt;p&gt;Mubu&lt;br /&gt; &lt;img src=&quot;/public/images/mubu.jpg&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Markon&lt;br /&gt; &lt;img src=&quot;/public/images/markon.jpg&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Paeng Geumbo&lt;br /&gt; &lt;img src=&quot;/public/images/paenggeumbo.jpg&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Reinhardt&lt;br /&gt; &lt;img src=&quot;/public/images/reinhardt.jpg&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Jango&lt;br /&gt; &lt;img src=&quot;/public/images/jango.jpg&quot; /&gt;&lt;/p&gt;
+&lt;div class=&quot;parent&quot;&gt;	
+	&lt;div class=&quot;column&quot;&gt;PaengGeumbo&lt;br /&gt; &lt;img src=&quot;/public/images/paenggeumbo.jpg&quot; /&gt;&lt;/div&gt;
+	&lt;div class=&quot;column&quot;&gt;Jango&lt;br /&gt; &lt;img src=&quot;/public/images/jango.jpg&quot; /&gt;&lt;/div&gt;	
+	&lt;div class=&quot;column&quot;&gt;Reinhardt&lt;br /&gt; &lt;img src=&quot;/public/images/reinhardt.jpg&quot; /&gt;&lt;/div&gt;
+	&lt;div class=&quot;column&quot;&gt;&lt;/div&gt;
+&lt;/div&gt;
 
 &lt;p&gt;Offensive Tanks:&lt;/p&gt;
 
-&lt;p&gt;AhkChungwang&lt;br /&gt; &lt;img src=&quot;/public/images/ahkchungwang.jpg&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Kael&lt;br /&gt; &lt;img src=&quot;/public/images/kael.jpg&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;BaekLicheon&lt;br /&gt; &lt;img src=&quot;/public/images/baeklicheon.jpg&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Grace&lt;br /&gt; &lt;img src=&quot;/public/images/grace.jpg&quot; /&gt;&lt;/p&gt;
+&lt;div class=&quot;parent&quot;&gt;
+	&lt;div class=&quot;column&quot;&gt;AhkChungwang&lt;br /&gt; &lt;img src=&quot;/public/images/ahkchungwang.jpg&quot; /&gt;&lt;/div&gt;
+	&lt;div class=&quot;column&quot;&gt;Kael&lt;br /&gt; &lt;img src=&quot;/public/images/kael.jpg&quot; /&gt;&lt;/div&gt;
+	&lt;div class=&quot;column&quot;&gt;BaekLicheon&lt;br /&gt; &lt;img src=&quot;/public/images/baeklicheon.jpg&quot; /&gt;&lt;/div&gt;
+	&lt;div class=&quot;column&quot;&gt;Grace&lt;br /&gt; &lt;img src=&quot;/public/images/grace.jpg&quot; /&gt;&lt;/div&gt;
+&lt;/div&gt;
 
 &lt;p&gt;It’s not clear who the best tanks are. Each are built pretty well. So find one you think looks cool has fun skills and is exciting to play. I personally like sticking with Dean since his hero pieces are more available in the game than other tanks.&lt;/p&gt;
 
@@ -289,25 +289,27 @@ Defensive Tanks:&lt;/p&gt;
 
 &lt;p&gt;Ranged assassins:&lt;/p&gt;
 
-&lt;p&gt;Gwen&lt;br /&gt; &lt;img src=&quot;/public/images/gwen.jpg&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Jade&lt;br /&gt; &lt;img src=&quot;/public/images/jade.jpg&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Isha&lt;br /&gt; &lt;img src=&quot;/public/images/isha.jpg&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Julia&lt;br /&gt; &lt;img src=&quot;/public/images/julia.jpg&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;MaSeolin&lt;br /&gt; &lt;img src=&quot;/public/images/maseolin.jpg&quot; /&gt;&lt;/p&gt;
+&lt;div class=&quot;parent&quot;&gt;
+	&lt;div class=&quot;column&quot;&gt;Gwen&lt;br /&gt; &lt;img src=&quot;/public/images/gwen.jpg&quot; /&gt;&lt;/div&gt;
+	&lt;div class=&quot;column&quot;&gt;Jade&lt;br /&gt; &lt;img src=&quot;/public/images/jade.jpg&quot; /&gt;&lt;/div&gt;
+	&lt;div class=&quot;column&quot;&gt;Isha&lt;br /&gt; &lt;img src=&quot;/public/images/isha.jpg&quot; /&gt;&lt;/div&gt;
+	&lt;div class=&quot;column&quot;&gt;Julia&lt;br /&gt; &lt;img src=&quot;/public/images/julia.jpg&quot; /&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;parent&quot;&gt;
+	&lt;div class=&quot;column&quot;&gt;MaSeolin&lt;br /&gt; &lt;img src=&quot;/public/images/maseolin.jpg&quot; /&gt;&lt;/div&gt;
+	&lt;div class=&quot;column&quot;&gt;&lt;/div&gt;
+	&lt;div class=&quot;column&quot;&gt;&lt;/div&gt;
+	&lt;div class=&quot;column&quot;&gt;&lt;/div&gt;
+&lt;/div&gt;
 
 &lt;p&gt;Melee assassins:&lt;/p&gt;
 
-&lt;p&gt;Lily&lt;br /&gt; &lt;img src=&quot;/public/images/lily.jpg&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Wolyung&lt;br /&gt; &lt;img src=&quot;/public/images/wolyung.jpg&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;JaegalWoon&lt;br /&gt; &lt;img src=&quot;/public/images/jaegalwoon.jpg&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Varia&lt;br /&gt; &lt;img src=&quot;/public/images/varia.jpg&quot; /&gt;&lt;/p&gt;
+&lt;div class=&quot;parent&quot;&gt;
+	&lt;div class=&quot;column&quot;&gt;Lily&lt;br /&gt; &lt;img src=&quot;/public/images/lily.jpg&quot; /&gt;&lt;/div&gt;
+	&lt;div class=&quot;column&quot;&gt;Wolyung&lt;br /&gt; &lt;img src=&quot;/public/images/wolyung.jpg&quot; /&gt;&lt;/div&gt;
+	&lt;div class=&quot;column&quot;&gt;JaegalWoon&lt;br /&gt; &lt;img src=&quot;/public/images/jaegalwoon.jpg&quot; /&gt;&lt;/div&gt;
+	&lt;div class=&quot;column&quot;&gt;Varia&lt;br /&gt; &lt;img src=&quot;/public/images/varia.jpg&quot; /&gt;&lt;/div&gt;
+&lt;/div&gt;
 
 &lt;p&gt;I think Ranged dealers have a slight advantage. They stay out of combat range which keeps them alive longer. They can switch targets quickly without having to run over to the new target. And they can continue to deal damage when the enemy is doing some kind of AOE attack and the melee units have to run away for a second. However I have also seen solid melee dealers completely out damage a ranged dealer. For the most part a melee dealer will stay out of any AOE damage, and not take aggro from a tank.&lt;/p&gt;
 
@@ -317,33 +319,33 @@ Defensive Tanks:&lt;/p&gt;
 
 &lt;p&gt;Supporters:&lt;/p&gt;
 
-&lt;p&gt;LeeJiyeon (healer)&lt;br /&gt; &lt;img src=&quot;/public/images/leejiyeon.jpg&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Dice (defensive support/healer)&lt;br /&gt; &lt;img src=&quot;/public/images/dice.jpg&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Claire (offensive support/healer)&lt;br /&gt; &lt;img src=&quot;/public/images/claire.jpg&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Aaren (defensive support/healer)&lt;br /&gt; &lt;img src=&quot;/public/images/aaren.jpg&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;YeryungSuhwa (defensive support)&lt;br /&gt; &lt;img src=&quot;/public/images/yeryungsuhwa.jpg&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;HwangBopae (offensive support)&lt;br /&gt; &lt;img src=&quot;/public/images/hwangbopae.jpg&quot; /&gt;&lt;/p&gt;
+&lt;div class=&quot;parent&quot;&gt;
+	&lt;div class=&quot;column&quot;&gt;LeeJiyeon (healer)&lt;br /&gt; &lt;img src=&quot;/public/images/leejiyeon.jpg&quot; /&gt;&lt;/div&gt;
+	&lt;div class=&quot;column&quot;&gt;Dice (defensive support/healer)&lt;br /&gt; &lt;img src=&quot;/public/images/dice.jpg&quot; /&gt;&lt;/div&gt;
+	&lt;div class=&quot;column&quot;&gt;Claire (offensive support/healer)&lt;br /&gt; &lt;img src=&quot;/public/images/claire.jpg&quot; /&gt;&lt;/div&gt;
+	&lt;div class=&quot;column&quot;&gt;Aaren (defensive support/healer)&lt;br /&gt; &lt;img src=&quot;/public/images/aaren.jpg&quot; /&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;parent&quot;&gt;
+	&lt;div class=&quot;column&quot;&gt;YeryungSuhwa (defensive support)&lt;br /&gt; &lt;img src=&quot;/public/images/yeryungsuhwa.jpg&quot; /&gt;&lt;/div&gt;
+	&lt;div class=&quot;column&quot;&gt;HwangBopae (offensive support)&lt;br /&gt; &lt;img src=&quot;/public/images/hwangbopae.jpg&quot; /&gt;&lt;/div&gt;
+	&lt;div class=&quot;column&quot;&gt;&lt;/div&gt;
+	&lt;div class=&quot;column&quot;&gt;&lt;/div&gt;
+&lt;/div&gt;
 
 &lt;p&gt;Specialists:&lt;/p&gt;
 
-&lt;p&gt;Iri (offensive tanker)&lt;br /&gt; &lt;img src=&quot;/public/images/iri.jpg&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Scarlett (offensive support)&lt;br /&gt; &lt;img src=&quot;/public/images/scarlett.jpg&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Occasio (offensive support)&lt;br /&gt; &lt;img src=&quot;/public/images/occasio.jpg&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Maeho (offensive support)&lt;br /&gt; &lt;img src=&quot;/public/images/maeho.jpg&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Aqua (offensive support)&lt;br /&gt; &lt;img src=&quot;/public/images/aqua.jpg&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Yeonhwa (defensive support/healer)&lt;br /&gt; &lt;img src=&quot;/public/images/yeonhwa.jpg&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;JaegalMageon (offensive support)&lt;br /&gt; &lt;img src=&quot;/public/images/jaegalmageon.jpg&quot; /&gt;&lt;/p&gt;
+&lt;div class=&quot;parent&quot;&gt;
+	&lt;div class=&quot;column&quot;&gt;Iri&lt;br /&gt;(offensive tanker)&lt;br /&gt; &lt;img src=&quot;/public/images/iri.jpg&quot; /&gt;&lt;/div&gt;
+	&lt;div class=&quot;column&quot;&gt;Scarlett&lt;br /&gt;(offensive support)&lt;br /&gt; &lt;img src=&quot;/public/images/scarlett.jpg&quot; /&gt;&lt;/div&gt;
+	&lt;div class=&quot;column&quot;&gt;Occasio&lt;br /&gt;(offensive support)&lt;br /&gt; &lt;img src=&quot;/public/images/occasio.jpg&quot; /&gt;&lt;/div&gt;
+	&lt;div class=&quot;column&quot;&gt;Maeho&lt;br /&gt;(offensive support)&lt;br /&gt; &lt;img src=&quot;/public/images/maeho.jpg&quot; /&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;parent&quot;&gt;
+	&lt;div class=&quot;column&quot;&gt;Aqua&lt;br /&gt;(offensive support)&lt;br /&gt; &lt;img src=&quot;/public/images/aqua.jpg&quot; /&gt;&lt;/div&gt;
+	&lt;div class=&quot;column&quot;&gt;Yeonhwa&lt;br /&gt;(defensive support/healer)&lt;br /&gt; &lt;img src=&quot;/public/images/yeonhwa.jpg&quot; /&gt;&lt;/div&gt;
+	&lt;div class=&quot;column&quot;&gt;JaegalMageon&lt;br /&gt;(offensive support)&lt;br /&gt; &lt;img src=&quot;/public/images/jaegalmageon.jpg&quot; /&gt;&lt;/div&gt;
+	&lt;div class=&quot;column&quot;&gt;&lt;/div&gt;
+&lt;/div&gt;
 
 &lt;p&gt;LeeJiyeon is the best healer in the game. She has 2 AOE heals, and traits and equipment which heals an ally. So nobody touches her in healing. Which sounds great and it is! But you may not need a fully defensive tank and the best healer. It is probably overkill for most fights. So consider a balance like heavy healer + offensive tanker. Or Heavy tanker but 2 light healers. On really tough fights where you’re really under the combat power recommendation you may need heavy healer and heavy tanker.&lt;/p&gt;
 

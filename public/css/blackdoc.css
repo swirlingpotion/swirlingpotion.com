@@ -424,6 +424,30 @@ a.sidebar-nav-item:focus {
   background: #7d7d7d;
 }
 
+
+/* custom css */
+
 img {
   display: inline-block;
+}
+
+/* simple column method */
+.parent {
+  padding-right: 10px;
+  padding-left: 10px;
+}
+.column {
+  padding-left: 5px;
+  padding-right: 5px;
+  margin-left: 5px;
+  margin-right: 5px;
+}
+
+@media only screen and (min-width: 641px){
+  .parent {
+    display: flex;
+  }
+  .column {
+    flex: 1;
+  }
 }
