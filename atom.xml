@@ -4,7 +4,7 @@
  <title>Swirling Potion</title>
  <link href="https://swirlingpotion.com/atom.xml" rel="self"/>
  <link href="https://swirlingpotion.com/"/>
- <updated>2019-06-20T12:53:20-07:00</updated>
+ <updated>2019-06-20T14:06:56-07:00</updated>
  <id>https://swirlingpotion.com</id>
  <author>
    <name>Dark Wraith</name>
@@ -483,7 +483,8 @@
 &lt;tr&gt;&lt;td&gt;T3&lt;/td&gt;&lt;td&gt;Blue&lt;/td&gt;&lt;td&gt;Rare&lt;/td&gt;&lt;td&gt;30&lt;/td&gt;&lt;/tr&gt;
 &lt;tr&gt;&lt;td&gt;T4&lt;/td&gt;&lt;td&gt;Purple&lt;/td&gt;&lt;td&gt;Epic&lt;/td&gt;&lt;td&gt;40&lt;/td&gt;&lt;/tr&gt;
 &lt;tr&gt;&lt;td&gt;T5&lt;/td&gt;&lt;td&gt;Orange&lt;/td&gt;&lt;td&gt;Legendary&lt;/td&gt;&lt;td&gt;50&lt;/td&gt;&lt;/tr&gt;
-&lt;tr&gt;&lt;td&gt;T6&lt;/td&gt;&lt;td&gt;Yellow&lt;/td&gt;&lt;td&gt;Legendary&lt;/td&gt;&lt;td&gt;50&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;T6&lt;/td&gt;&lt;td&gt;Yellow&lt;/td&gt;&lt;td&gt;Legendary&lt;/td&gt;&lt;td&gt;60&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;T7&lt;/td&gt;&lt;td&gt;White&lt;/td&gt;&lt;td&gt;Artifact&lt;/td&gt;&lt;td&gt;70&lt;/td&gt;&lt;/tr&gt;
 &lt;/table&gt;
 
 &lt;p&gt;The higher the tier the higher quality the item is. It will have higher stats, higher maximum level to upgrade it to, more stats to unlock as you upgrade etc.&lt;/p&gt;
