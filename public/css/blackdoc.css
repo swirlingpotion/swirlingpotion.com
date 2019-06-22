@@ -455,3 +455,28 @@ img {
 .highlight {
     color: #ffff99;
 }
+
+.highlight-green {
+    color: #99ff99;
+}
+.highlight-yellow {
+    color: #ffff99;
+}
+.highlight-red {
+    color: #ff9999;
+}
+.highlight-orange {
+    color: orange;
+}
+.highlight-white {
+    color: white;
+}
+.highlight-blue {
+    color: #9999ff;
+}
+.highlight-thistle {
+    color: #D8BFD8;
+}
+.highlight-gold {
+    color: #FFD700;
+}
