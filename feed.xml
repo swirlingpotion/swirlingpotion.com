@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="https://swirlingpotion.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://swirlingpotion.com/" rel="alternate" type="text/html" /><updated>2019-06-22T14:50:51-07:00</updated><id>https://swirlingpotion.com/</id><title type="html">Swirling Potion</title><subtitle>Drink this.</subtitle><author><name>Dark Wraith</name></author><entry><title type="html">Squad Builds</title><link href="https://swirlingpotion.com/elchronicle-squad-builds/" rel="alternate" type="text/html" title="Squad Builds" /><published>2019-06-22T00:00:00-07:00</published><updated>2019-06-22T00:00:00-07:00</updated><id>https://swirlingpotion.com/elchronicle-squad-builds</id><content type="html" xml:base="https://swirlingpotion.com/elchronicle-squad-builds/">&lt;p&gt;If you go to Compete &amp;gt; Colosseum then click rank then choose master then click the little (i) on each rank you can see what people’s squads consist of. Now this is just their PVP squad, but I have a strong suspicion that this is also their main squad for doing raids and such too. This gives us a great glimpse into what some of the top squads are made of and let’s us understand what makes a good squad.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="https://swirlingpotion.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://swirlingpotion.com/" rel="alternate" type="text/html" /><updated>2019-06-24T11:03:38-07:00</updated><id>https://swirlingpotion.com/</id><title type="html">Swirling Potion</title><subtitle>Drink this.</subtitle><author><name>Dark Wraith</name></author><entry><title type="html">Squad Builds</title><link href="https://swirlingpotion.com/elchronicle-squad-builds/" rel="alternate" type="text/html" title="Squad Builds" /><published>2019-06-22T00:00:00-07:00</published><updated>2019-06-22T00:00:00-07:00</updated><id>https://swirlingpotion.com/elchronicle-squad-builds</id><content type="html" xml:base="https://swirlingpotion.com/elchronicle-squad-builds/">&lt;p&gt;If you go to Compete &amp;gt; Colosseum then click rank then choose master then click the little (i) on each rank you can see what people’s squads consist of. Now this is just their PVP squad, but I have a strong suspicion that this is also their main squad for doing raids and such too. This gives us a great glimpse into what some of the top squads are made of and let’s us understand what makes a good squad.&lt;/p&gt;
 
 &lt;p&gt;This is not meant to prove who is the best hero or best squad. It’s simply interesting to look at what some other players are using and what the makeup of their squad is.&lt;/p&gt;
 
@@ -15,166 +15,168 @@
 	&lt;/tr&gt;
 	&lt;tr&gt;
 		&lt;td&gt;#1&lt;/td&gt;
-		&lt;td&gt;Richard&lt;br /&gt; &lt;img src=&quot;/public/images/richard.jpg&quot; alt=&quot;Richard&quot; /&gt;&lt;/td&gt;
-		&lt;td&gt;LeeJiyeon&lt;br /&gt; &lt;img src=&quot;/public/images/leejiyeon.jpg&quot; /&gt;&lt;/td&gt;
-		&lt;td&gt;Wolyung&lt;br /&gt; &lt;img src=&quot;/public/images/wolyung.jpg&quot; /&gt;&lt;/td&gt;
-		&lt;td&gt;Jade&lt;br /&gt; &lt;img src=&quot;/public/images/jade.jpg&quot; /&gt;&lt;/td&gt;
-		&lt;td&gt;Aaren&lt;br /&gt; &lt;img src=&quot;/public/images/aaren.jpg&quot; /&gt;&lt;/td&gt;
+		&lt;td&gt;Richard (P)&lt;br /&gt; &lt;img src=&quot;/public/images/richard.jpg&quot; alt=&quot;Richard&quot; /&gt;&lt;/td&gt;
+		&lt;td&gt;Lee J (M)&lt;br /&gt; &lt;img src=&quot;/public/images/leejiyeon.jpg&quot; /&gt;&lt;/td&gt;
+		&lt;td&gt;Wolyung (M)&lt;br /&gt; &lt;img src=&quot;/public/images/wolyung.jpg&quot; /&gt;&lt;/td&gt;
+		&lt;td&gt;Jade (P)&lt;br /&gt; &lt;img src=&quot;/public/images/jade.jpg&quot; /&gt;&lt;/td&gt;
+		&lt;td&gt;Aaren (M)&lt;br /&gt; &lt;img src=&quot;/public/images/aaren.jpg&quot; /&gt;&lt;/td&gt;
 	&lt;/tr&gt;
 	&lt;tr&gt;
 		&lt;td&gt;#2&lt;/td&gt;
-		&lt;td&gt;Richard&lt;br /&gt; &lt;img src=&quot;/public/images/richard.jpg&quot; alt=&quot;Richard&quot; /&gt;&lt;/td&gt;
-		&lt;td&gt;LeeJiyeon&lt;br /&gt; &lt;img src=&quot;/public/images/leejiyeon.jpg&quot; /&gt;&lt;/td&gt;
-		&lt;td&gt;Julia&lt;br /&gt; &lt;img src=&quot;/public/images/julia.jpg&quot; /&gt;&lt;/td&gt;
-		&lt;td&gt;BaekLicheon&lt;br /&gt; &lt;img src=&quot;/public/images/baeklicheon.jpg&quot; /&gt;&lt;/td&gt;
-		&lt;td&gt;Yeonhwa&lt;br /&gt; &lt;img src=&quot;/public/images/yeonhwa.jpg&quot; /&gt;&lt;/td&gt;
+		&lt;td&gt;Richard (P)&lt;br /&gt; &lt;img src=&quot;/public/images/richard.jpg&quot; alt=&quot;Richard&quot; /&gt;&lt;/td&gt;
+		&lt;td&gt;Lee J (M)&lt;br /&gt; &lt;img src=&quot;/public/images/leejiyeon.jpg&quot; /&gt;&lt;/td&gt;
+		&lt;td&gt;Julia (P)&lt;br /&gt; &lt;img src=&quot;/public/images/julia.jpg&quot; /&gt;&lt;/td&gt;
+		&lt;td&gt;Baek L (M)&lt;br /&gt; &lt;img src=&quot;/public/images/baeklicheon.jpg&quot; /&gt;&lt;/td&gt;
+		&lt;td&gt;Yeonhwa (M)&lt;br /&gt; &lt;img src=&quot;/public/images/yeonhwa.jpg&quot; /&gt;&lt;/td&gt;
 	&lt;/tr&gt;
 	&lt;tr&gt;
 		&lt;td&gt;#3&lt;/td&gt;
-		&lt;td&gt;Richard&lt;br /&gt; &lt;img src=&quot;/public/images/richard.jpg&quot; alt=&quot;Richard&quot; /&gt;&lt;/td&gt;
-		&lt;td&gt;LeeJiyeon&lt;br /&gt; &lt;img src=&quot;/public/images/leejiyeon.jpg&quot; /&gt;&lt;/td&gt;
-		&lt;td&gt;Jade&lt;br /&gt; &lt;img src=&quot;/public/images/jade.jpg&quot; /&gt;&lt;/td&gt;
-		&lt;td&gt;BaekLicheon&lt;br /&gt; &lt;img src=&quot;/public/images/baeklicheon.jpg&quot; /&gt;&lt;/td&gt;
-		&lt;td&gt;Aaren&lt;br /&gt; &lt;img src=&quot;/public/images/aaren.jpg&quot; /&gt;&lt;/td&gt;
+		&lt;td&gt;Richard (P)&lt;br /&gt; &lt;img src=&quot;/public/images/richard.jpg&quot; alt=&quot;Richard&quot; /&gt;&lt;/td&gt;
+		&lt;td&gt;Lee J (M)&lt;br /&gt; &lt;img src=&quot;/public/images/leejiyeon.jpg&quot; /&gt;&lt;/td&gt;
+		&lt;td&gt;Jade (P)&lt;br /&gt; &lt;img src=&quot;/public/images/jade.jpg&quot; /&gt;&lt;/td&gt;
+		&lt;td&gt;Baek L (M)&lt;br /&gt; &lt;img src=&quot;/public/images/baeklicheon.jpg&quot; /&gt;&lt;/td&gt;
+		&lt;td&gt;Aaren (M)&lt;br /&gt; &lt;img src=&quot;/public/images/aaren.jpg&quot; /&gt;&lt;/td&gt;
 	&lt;/tr&gt;
 	&lt;tr&gt;
 		&lt;td&gt;#4&lt;/td&gt;
-		&lt;td&gt;Markon&lt;br /&gt; &lt;img src=&quot;/public/images/markon.jpg&quot; /&gt;&lt;/td&gt;
-		&lt;td&gt;Aaren&lt;br /&gt; &lt;img src=&quot;/public/images/aaren.jpg&quot; /&gt;&lt;/td&gt;
-		&lt;td&gt;Lily&lt;br /&gt; &lt;img src=&quot;/public/images/lily.jpg&quot; /&gt;&lt;/td&gt;
-		&lt;td&gt;AhkChungwang&lt;br /&gt; &lt;img src=&quot;/public/images/ahkchungwang.jpg&quot; /&gt;&lt;/td&gt;
-		&lt;td&gt;Yeonhwa&lt;br /&gt; &lt;img src=&quot;/public/images/yeonhwa.jpg&quot; /&gt;&lt;/td&gt;
+		&lt;td&gt;Markon (M)&lt;br /&gt; &lt;img src=&quot;/public/images/markon.jpg&quot; /&gt;&lt;/td&gt;
+		&lt;td&gt;Aaren (M)&lt;br /&gt; &lt;img src=&quot;/public/images/aaren.jpg&quot; /&gt;&lt;/td&gt;
+		&lt;td&gt;Lily (P)&lt;br /&gt; &lt;img src=&quot;/public/images/lily.jpg&quot; /&gt;&lt;/td&gt;
+		&lt;td&gt;Ahk C (P)&lt;br /&gt; &lt;img src=&quot;/public/images/ahkchungwang.jpg&quot; /&gt;&lt;/td&gt;
+		&lt;td&gt;Yeonhwa (M)&lt;br /&gt; &lt;img src=&quot;/public/images/yeonhwa.jpg&quot; /&gt;&lt;/td&gt;
 	&lt;/tr&gt;
 	&lt;tr&gt;
 		&lt;td&gt;#5&lt;/td&gt;
-		&lt;td&gt;Richard&lt;br /&gt; &lt;img src=&quot;/public/images/richard.jpg&quot; alt=&quot;Richard&quot; /&gt;&lt;/td&gt;
-		&lt;td&gt;LeeJiyeon&lt;br /&gt; &lt;img src=&quot;/public/images/leejiyeon.jpg&quot; /&gt;&lt;/td&gt;
-		&lt;td&gt;Occasio&lt;br /&gt; &lt;img src=&quot;/public/images/occasio.jpg&quot; /&gt;&lt;/td&gt;
-		&lt;td&gt;Iri&lt;br /&gt; &lt;img src=&quot;/public/images/iri.jpg&quot; /&gt;&lt;/td&gt;
-		&lt;td&gt;Aaren&lt;br /&gt; &lt;img src=&quot;/public/images/aaren.jpg&quot; /&gt;&lt;/td&gt;
+		&lt;td&gt;Richard (P)&lt;br /&gt; &lt;img src=&quot;/public/images/richard.jpg&quot; alt=&quot;Richard&quot; /&gt;&lt;/td&gt;
+		&lt;td&gt;Lee J (M)&lt;br /&gt; &lt;img src=&quot;/public/images/leejiyeon.jpg&quot; /&gt;&lt;/td&gt;
+		&lt;td&gt;Occasio (M)&lt;br /&gt; &lt;img src=&quot;/public/images/occasio.jpg&quot; /&gt;&lt;/td&gt;
+		&lt;td&gt;Iri (M)&lt;br /&gt; &lt;img src=&quot;/public/images/iri.jpg&quot; /&gt;&lt;/td&gt;
+		&lt;td&gt;Aaren (M)&lt;br /&gt; &lt;img src=&quot;/public/images/aaren.jpg&quot; /&gt;&lt;/td&gt;
 	&lt;/tr&gt;
 	&lt;tr&gt;
 		&lt;td&gt;#6&lt;/td&gt;
-		&lt;td&gt;Grace&lt;br /&gt; &lt;img src=&quot;/public/images/grace.jpg&quot; /&gt;&lt;/td&gt;
-		&lt;td&gt;Scarlett&lt;br /&gt; &lt;img src=&quot;/public/images/scarlett.jpg&quot; /&gt;&lt;/td&gt;
-		&lt;td&gt;Iri&lt;br /&gt; &lt;img src=&quot;/public/images/iri.jpg&quot; /&gt;&lt;/td&gt;
-		&lt;td&gt;YeryungSuhwa&lt;br /&gt; &lt;img src=&quot;/public/images/yeryungsuhwa.jpg&quot; /&gt;&lt;/td&gt;
-		&lt;td&gt;Aaren&lt;br /&gt; &lt;img src=&quot;/public/images/aaren.jpg&quot; /&gt;&lt;/td&gt;
+		&lt;td&gt;Grace (P)&lt;br /&gt; &lt;img src=&quot;/public/images/grace.jpg&quot; /&gt;&lt;/td&gt;
+		&lt;td&gt;Scarlett (M)&lt;br /&gt; &lt;img src=&quot;/public/images/scarlett.jpg&quot; /&gt;&lt;/td&gt;
+		&lt;td&gt;Iri (M)&lt;br /&gt; &lt;img src=&quot;/public/images/iri.jpg&quot; /&gt;&lt;/td&gt;
+		&lt;td&gt;Yeryung S (M)&lt;br /&gt; &lt;img src=&quot;/public/images/yeryungsuhwa.jpg&quot; /&gt;&lt;/td&gt;
+		&lt;td&gt;Aaren (M)&lt;br /&gt; &lt;img src=&quot;/public/images/aaren.jpg&quot; /&gt;&lt;/td&gt;
 	&lt;/tr&gt;
 	&lt;tr&gt;
 		&lt;td&gt;#7&lt;/td&gt;
-		&lt;td&gt;Iri&lt;br /&gt; &lt;img src=&quot;/public/images/iri.jpg&quot; /&gt;&lt;/td&gt;
-		&lt;td&gt;Scarlett&lt;br /&gt; &lt;img src=&quot;/public/images/scarlett.jpg&quot; /&gt;&lt;/td&gt;
-		&lt;td&gt;Occasio&lt;br /&gt; &lt;img src=&quot;/public/images/occasio.jpg&quot; /&gt;&lt;/td&gt;
-		&lt;td&gt;Maeho&lt;br /&gt; &lt;img src=&quot;/public/images/maeho.jpg&quot; /&gt;&lt;/td&gt;
-		&lt;td&gt;Yeonhwa&lt;br /&gt; &lt;img src=&quot;/public/images/yeonhwa.jpg&quot; /&gt;&lt;/td&gt;
+		&lt;td&gt;Iri (M)&lt;br /&gt; &lt;img src=&quot;/public/images/iri.jpg&quot; /&gt;&lt;/td&gt;
+		&lt;td&gt;Scarlett (M)&lt;br /&gt; &lt;img src=&quot;/public/images/scarlett.jpg&quot; /&gt;&lt;/td&gt;
+		&lt;td&gt;Occasio (M)&lt;br /&gt; &lt;img src=&quot;/public/images/occasio.jpg&quot; /&gt;&lt;/td&gt;
+		&lt;td&gt;Maeho (M)&lt;br /&gt; &lt;img src=&quot;/public/images/maeho.jpg&quot; /&gt;&lt;/td&gt;
+		&lt;td&gt;Yeonhwa (M)&lt;br /&gt; &lt;img src=&quot;/public/images/yeonhwa.jpg&quot; /&gt;&lt;/td&gt;
 	&lt;/tr&gt;
 	&lt;tr&gt;
 		&lt;td&gt;#8&lt;/td&gt;
-		&lt;td&gt;Dean&lt;br /&gt; &lt;img src=&quot;/public/images/dean.jpg&quot; alt=&quot;Dean&quot; /&gt;&lt;/td&gt;
-		&lt;td&gt;LeeJiyeon&lt;br /&gt; &lt;img src=&quot;/public/images/leejiyeon.jpg&quot; /&gt;&lt;/td&gt;
-		&lt;td&gt;Lily&lt;br /&gt; &lt;img src=&quot;/public/images/lily.jpg&quot; /&gt;&lt;/td&gt;
-		&lt;td&gt;Richard&lt;br /&gt; &lt;img src=&quot;/public/images/richard.jpg&quot; alt=&quot;Richard&quot; /&gt;&lt;/td&gt;
-		&lt;td&gt;Scarlett&lt;br /&gt; &lt;img src=&quot;/public/images/scarlett.jpg&quot; /&gt;&lt;/td&gt;
+		&lt;td&gt;Dean (P)&lt;br /&gt; &lt;img src=&quot;/public/images/dean.jpg&quot; alt=&quot;Dean&quot; /&gt;&lt;/td&gt;
+		&lt;td&gt;Lee J (M)&lt;br /&gt; &lt;img src=&quot;/public/images/leejiyeon.jpg&quot; /&gt;&lt;/td&gt;
+		&lt;td&gt;Lily (P)&lt;br /&gt; &lt;img src=&quot;/public/images/lily.jpg&quot; /&gt;&lt;/td&gt;
+		&lt;td&gt;Richard (P)&lt;br /&gt; &lt;img src=&quot;/public/images/richard.jpg&quot; alt=&quot;Richard&quot; /&gt;&lt;/td&gt;
+		&lt;td&gt;Scarlett (M)&lt;br /&gt; &lt;img src=&quot;/public/images/scarlett.jpg&quot; /&gt;&lt;/td&gt;
 	&lt;/tr&gt;
 	&lt;tr&gt;
 		&lt;td&gt;#9&lt;/td&gt;
-		&lt;td&gt;AhkChungwang&lt;br /&gt; &lt;img src=&quot;/public/images/ahkchungwang.jpg&quot; /&gt;&lt;/td&gt;
-		&lt;td&gt;LeeJiyeon&lt;br /&gt; &lt;img src=&quot;/public/images/leejiyeon.jpg&quot; /&gt;&lt;/td&gt;
-		&lt;td&gt;Lily&lt;br /&gt; &lt;img src=&quot;/public/images/lily.jpg&quot; /&gt;&lt;/td&gt;
-		&lt;td&gt;BaekLicheon&lt;br /&gt; &lt;img src=&quot;/public/images/baeklicheon.jpg&quot; /&gt;&lt;/td&gt;
-		&lt;td&gt;Wolyung&lt;br /&gt; &lt;img src=&quot;/public/images/wolyung.jpg&quot; /&gt;&lt;/td&gt;
+		&lt;td&gt;Ahk C (P)&lt;br /&gt; &lt;img src=&quot;/public/images/ahkchungwang.jpg&quot; /&gt;&lt;/td&gt;
+		&lt;td&gt;Lee J (M)&lt;br /&gt; &lt;img src=&quot;/public/images/leejiyeon.jpg&quot; /&gt;&lt;/td&gt;
+		&lt;td&gt;Lily (P)&lt;br /&gt; &lt;img src=&quot;/public/images/lily.jpg&quot; /&gt;&lt;/td&gt;
+		&lt;td&gt;Baek L (M)&lt;br /&gt; &lt;img src=&quot;/public/images/baeklicheon.jpg&quot; /&gt;&lt;/td&gt;
+		&lt;td&gt;Wolyung (M)&lt;br /&gt; &lt;img src=&quot;/public/images/wolyung.jpg&quot; /&gt;&lt;/td&gt;
 	&lt;/tr&gt;
 	&lt;tr&gt;
 		&lt;td&gt;#10&lt;/td&gt;
-		&lt;td&gt;Reinhardt&lt;br /&gt; &lt;img src=&quot;/public/images/reinhardt.jpg&quot; alt=&quot;Richard&quot; /&gt;&lt;/td&gt;
-		&lt;td&gt;LeeJiyeon&lt;br /&gt; &lt;img src=&quot;/public/images/leejiyeon.jpg&quot; /&gt;&lt;/td&gt;
-		&lt;td&gt;Isha&lt;br /&gt; &lt;img src=&quot;/public/images/isha.jpg&quot; /&gt;&lt;/td&gt;
-		&lt;td&gt;Occasio&lt;br /&gt; &lt;img src=&quot;/public/images/occasio.jpg&quot; /&gt;&lt;/td&gt;
-		&lt;td&gt;Yeonhwa&lt;br /&gt; &lt;img src=&quot;/public/images/yeonhwa.jpg&quot; /&gt;&lt;/td&gt;
+		&lt;td&gt;Reinhardt (P)&lt;br /&gt; &lt;img src=&quot;/public/images/reinhardt.jpg&quot; alt=&quot;Richard&quot; /&gt;&lt;/td&gt;
+		&lt;td&gt;Lee J (M)&lt;br /&gt; &lt;img src=&quot;/public/images/leejiyeon.jpg&quot; /&gt;&lt;/td&gt;
+		&lt;td&gt;Isha (P)&lt;br /&gt; &lt;img src=&quot;/public/images/isha.jpg&quot; /&gt;&lt;/td&gt;
+		&lt;td&gt;Occasio (M)&lt;br /&gt; &lt;img src=&quot;/public/images/occasio.jpg&quot; /&gt;&lt;/td&gt;
+		&lt;td&gt;Yeonhwa (M)&lt;br /&gt; &lt;img src=&quot;/public/images/yeonhwa.jpg&quot; /&gt;&lt;/td&gt;
 	&lt;/tr&gt;
 	&lt;tr&gt;
 		&lt;td&gt;#11&lt;/td&gt;
-		&lt;td&gt;Richard&lt;br /&gt; &lt;img src=&quot;/public/images/richard.jpg&quot; alt=&quot;Richard&quot; /&gt;&lt;/td&gt;
-		&lt;td&gt;LeeJiyeon&lt;br /&gt; &lt;img src=&quot;/public/images/leejiyeon.jpg&quot; /&gt;&lt;/td&gt;
-		&lt;td&gt;Wolyung&lt;br /&gt; &lt;img src=&quot;/public/images/wolyung.jpg&quot; /&gt;&lt;/td&gt;
-		&lt;td&gt;Occasio&lt;br /&gt; &lt;img src=&quot;/public/images/occasio.jpg&quot; /&gt;&lt;/td&gt;
-		&lt;td&gt;Isha&lt;br /&gt; &lt;img src=&quot;/public/images/isha.jpg&quot; /&gt;&lt;/td&gt;
+		&lt;td&gt;Richard (P)&lt;br /&gt; &lt;img src=&quot;/public/images/richard.jpg&quot; alt=&quot;Richard&quot; /&gt;&lt;/td&gt;
+		&lt;td&gt;Lee J (M)&lt;br /&gt; &lt;img src=&quot;/public/images/leejiyeon.jpg&quot; /&gt;&lt;/td&gt;
+		&lt;td&gt;Wolyung (M)&lt;br /&gt; &lt;img src=&quot;/public/images/wolyung.jpg&quot; /&gt;&lt;/td&gt;
+		&lt;td&gt;Occasio (M)&lt;br /&gt; &lt;img src=&quot;/public/images/occasio.jpg&quot; /&gt;&lt;/td&gt;
+		&lt;td&gt;Isha (P)&lt;br /&gt; &lt;img src=&quot;/public/images/isha.jpg&quot; /&gt;&lt;/td&gt;
 	&lt;/tr&gt;
 	&lt;tr&gt;
 		&lt;td&gt;#12&lt;/td&gt;
-		&lt;td&gt;Richard&lt;br /&gt; &lt;img src=&quot;/public/images/richard.jpg&quot; alt=&quot;Richard&quot; /&gt;&lt;/td&gt;
-		&lt;td&gt;LeeJiyeon&lt;br /&gt; &lt;img src=&quot;/public/images/leejiyeon.jpg&quot; /&gt;&lt;/td&gt;
-		&lt;td&gt;Lily&lt;br /&gt; &lt;img src=&quot;/public/images/lily.jpg&quot; /&gt;&lt;/td&gt;
-		&lt;td&gt;Yeonhwa&lt;br /&gt; &lt;img src=&quot;/public/images/yeonhwa.jpg&quot; /&gt;&lt;/td&gt;
-		&lt;td&gt;Aaren&lt;br /&gt; &lt;img src=&quot;/public/images/aaren.jpg&quot; /&gt;&lt;/td&gt;
+		&lt;td&gt;Richard (P)&lt;br /&gt; &lt;img src=&quot;/public/images/richard.jpg&quot; alt=&quot;Richard&quot; /&gt;&lt;/td&gt;
+		&lt;td&gt;Lee J (M)&lt;br /&gt; &lt;img src=&quot;/public/images/leejiyeon.jpg&quot; /&gt;&lt;/td&gt;
+		&lt;td&gt;Lily (P)&lt;br /&gt; &lt;img src=&quot;/public/images/lily.jpg&quot; /&gt;&lt;/td&gt;
+		&lt;td&gt;Yeonhwa (M)&lt;br /&gt; &lt;img src=&quot;/public/images/yeonhwa.jpg&quot; /&gt;&lt;/td&gt;
+		&lt;td&gt;Aaren (M)&lt;br /&gt; &lt;img src=&quot;/public/images/aaren.jpg&quot; /&gt;&lt;/td&gt;
 	&lt;/tr&gt;
 	&lt;tr&gt;
 		&lt;td&gt;#13&lt;/td&gt;
-		&lt;td&gt;Kael&lt;br /&gt; &lt;img src=&quot;/public/images/kael.jpg&quot; /&gt;&lt;/td&gt;
-		&lt;td&gt;LeeJiyeon&lt;br /&gt; &lt;img src=&quot;/public/images/leejiyeon.jpg&quot; /&gt;&lt;/td&gt;
-		&lt;td&gt;Jade&lt;br /&gt; &lt;img src=&quot;/public/images/jade.jpg&quot; /&gt;&lt;/td&gt;
-		&lt;td&gt;Occasio&lt;br /&gt; &lt;img src=&quot;/public/images/occasio.jpg&quot; /&gt;&lt;/td&gt;
-		&lt;td&gt;Aaren&lt;br /&gt; &lt;img src=&quot;/public/images/aaren.jpg&quot; /&gt;&lt;/td&gt;
+		&lt;td&gt;Kael (P)&lt;br /&gt; &lt;img src=&quot;/public/images/kael.jpg&quot; /&gt;&lt;/td&gt;
+		&lt;td&gt;Lee J (M)&lt;br /&gt; &lt;img src=&quot;/public/images/leejiyeon.jpg&quot; /&gt;&lt;/td&gt;
+		&lt;td&gt;Jade (P)&lt;br /&gt; &lt;img src=&quot;/public/images/jade.jpg&quot; /&gt;&lt;/td&gt;
+		&lt;td&gt;Occasio (M)&lt;br /&gt; &lt;img src=&quot;/public/images/occasio.jpg&quot; /&gt;&lt;/td&gt;
+		&lt;td&gt;Aaren (M)&lt;br /&gt; &lt;img src=&quot;/public/images/aaren.jpg&quot; /&gt;&lt;/td&gt;
 	&lt;/tr&gt;
 	&lt;tr&gt;
 		&lt;td&gt;#14&lt;/td&gt;
-		&lt;td&gt;Richard&lt;br /&gt; &lt;img src=&quot;/public/images/richard.jpg&quot; alt=&quot;Richard&quot; /&gt;&lt;/td&gt;
-		&lt;td&gt;Yeonhwa&lt;br /&gt; &lt;img src=&quot;/public/images/yeonhwa.jpg&quot; /&gt;&lt;/td&gt;
-		&lt;td&gt;Jade&lt;br /&gt; &lt;img src=&quot;/public/images/jade.jpg&quot; /&gt;&lt;/td&gt;
-		&lt;td&gt;AhkChungwang&lt;br /&gt; &lt;img src=&quot;/public/images/ahkchungwang.jpg&quot; /&gt;&lt;/td&gt;
-		&lt;td&gt;Varia&lt;br /&gt; &lt;img src=&quot;/public/images/varia.jpg&quot; /&gt;&lt;/td&gt;
+		&lt;td&gt;Richard (P)&lt;br /&gt; &lt;img src=&quot;/public/images/richard.jpg&quot; alt=&quot;Richard&quot; /&gt;&lt;/td&gt;
+		&lt;td&gt;Yeonhwa (M)&lt;br /&gt; &lt;img src=&quot;/public/images/yeonhwa.jpg&quot; /&gt;&lt;/td&gt;
+		&lt;td&gt;Jade (P)&lt;br /&gt; &lt;img src=&quot;/public/images/jade.jpg&quot; /&gt;&lt;/td&gt;
+		&lt;td&gt;Ahk C (P)&lt;br /&gt; &lt;img src=&quot;/public/images/ahkchungwang.jpg&quot; /&gt;&lt;/td&gt;
+		&lt;td&gt;Varia (P)&lt;br /&gt; &lt;img src=&quot;/public/images/varia.jpg&quot; /&gt;&lt;/td&gt;
 	&lt;/tr&gt;
 	&lt;tr&gt;
 		&lt;td&gt;#15&lt;/td&gt;
-		&lt;td&gt;Markon&lt;br /&gt; &lt;img src=&quot;/public/images/markon.jpg&quot; /&gt;&lt;/td&gt;
-		&lt;td&gt;LeeJiyeon&lt;br /&gt; &lt;img src=&quot;/public/images/leejiyeon.jpg&quot; /&gt;&lt;/td&gt;
-		&lt;td&gt;Lily&lt;br /&gt; &lt;img src=&quot;/public/images/lily.jpg&quot; /&gt;&lt;/td&gt;
-		&lt;td&gt;Varia&lt;br /&gt; &lt;img src=&quot;/public/images/varia.jpg&quot; /&gt;&lt;/td&gt;
-		&lt;td&gt;Dice&lt;br /&gt; &lt;img src=&quot;/public/images/dice.jpg&quot; /&gt;&lt;/td&gt;
+		&lt;td&gt;Markon (M)&lt;br /&gt; &lt;img src=&quot;/public/images/markon.jpg&quot; /&gt;&lt;/td&gt;
+		&lt;td&gt;Lee J (M)&lt;br /&gt; &lt;img src=&quot;/public/images/leejiyeon.jpg&quot; /&gt;&lt;/td&gt;
+		&lt;td&gt;Lily (P)&lt;br /&gt; &lt;img src=&quot;/public/images/lily.jpg&quot; /&gt;&lt;/td&gt;
+		&lt;td&gt;Varia (P)&lt;br /&gt; &lt;img src=&quot;/public/images/varia.jpg&quot; /&gt;&lt;/td&gt;
+		&lt;td&gt;Dice (M)&lt;br /&gt; &lt;img src=&quot;/public/images/dice.jpg&quot; /&gt;&lt;/td&gt;
 	&lt;/tr&gt;
 	&lt;tr&gt;
 		&lt;td&gt;#16&lt;/td&gt;
-		&lt;td&gt;Grace&lt;br /&gt; &lt;img src=&quot;/public/images/grace.jpg&quot; /&gt;&lt;/td&gt;
-		&lt;td&gt;LeeJiyeon&lt;br /&gt; &lt;img src=&quot;/public/images/leejiyeon.jpg&quot; /&gt;&lt;/td&gt;
-		&lt;td&gt;Wolyung&lt;br /&gt; &lt;img src=&quot;/public/images/wolyung.jpg&quot; /&gt;&lt;/td&gt;
-		&lt;td&gt;Varia&lt;br /&gt; &lt;img src=&quot;/public/images/varia.jpg&quot; /&gt;&lt;/td&gt;
-		&lt;td&gt;Yeonhwa&lt;br /&gt; &lt;img src=&quot;/public/images/yeonhwa.jpg&quot; /&gt;&lt;/td&gt;
+		&lt;td&gt;Grace (P)&lt;br /&gt; &lt;img src=&quot;/public/images/grace.jpg&quot; /&gt;&lt;/td&gt;
+		&lt;td&gt;Lee J (M)&lt;br /&gt; &lt;img src=&quot;/public/images/leejiyeon.jpg&quot; /&gt;&lt;/td&gt;
+		&lt;td&gt;Wolyung (M)&lt;br /&gt; &lt;img src=&quot;/public/images/wolyung.jpg&quot; /&gt;&lt;/td&gt;
+		&lt;td&gt;Varia (P)&lt;br /&gt; &lt;img src=&quot;/public/images/varia.jpg&quot; /&gt;&lt;/td&gt;
+		&lt;td&gt;Yeonhwa (M)&lt;br /&gt; &lt;img src=&quot;/public/images/yeonhwa.jpg&quot; /&gt;&lt;/td&gt;
 	&lt;/tr&gt;
 	&lt;tr&gt;
 		&lt;td&gt;#17&lt;/td&gt;
-		&lt;td&gt;Grace&lt;br /&gt; &lt;img src=&quot;/public/images/grace.jpg&quot; /&gt;&lt;/td&gt;
-		&lt;td&gt;Dice&lt;br /&gt; &lt;img src=&quot;/public/images/dice.jpg&quot; /&gt;&lt;/td&gt;
-		&lt;td&gt;Gwen&lt;br /&gt; &lt;img src=&quot;/public/images/gwen.jpg&quot; /&gt;&lt;/td&gt;
-		&lt;td&gt;Iri&lt;br /&gt; &lt;img src=&quot;/public/images/iri.jpg&quot; /&gt;&lt;/td&gt;
-		&lt;td&gt;Scarlett&lt;br /&gt; &lt;img src=&quot;/public/images/scarlett.jpg&quot; /&gt;&lt;/td&gt;
+		&lt;td&gt;Grace (P)&lt;br /&gt; &lt;img src=&quot;/public/images/grace.jpg&quot; /&gt;&lt;/td&gt;
+		&lt;td&gt;Dice (M)&lt;br /&gt; &lt;img src=&quot;/public/images/dice.jpg&quot; /&gt;&lt;/td&gt;
+		&lt;td&gt;Gwen (P)&lt;br /&gt; &lt;img src=&quot;/public/images/gwen.jpg&quot; /&gt;&lt;/td&gt;
+		&lt;td&gt;Iri (M)&lt;br /&gt; &lt;img src=&quot;/public/images/iri.jpg&quot; /&gt;&lt;/td&gt;
+		&lt;td&gt;Scarlett (M)&lt;br /&gt; &lt;img src=&quot;/public/images/scarlett.jpg&quot; /&gt;&lt;/td&gt;
 	&lt;/tr&gt;
 	&lt;tr&gt;
 		&lt;td&gt;#18&lt;/td&gt;
-		&lt;td&gt;Richard&lt;br /&gt; &lt;img src=&quot;/public/images/richard.jpg&quot; alt=&quot;Richard&quot; /&gt;&lt;/td&gt;
-		&lt;td&gt;Yeonhwa&lt;br /&gt; &lt;img src=&quot;/public/images/yeonhwa.jpg&quot; /&gt;&lt;/td&gt;
-		&lt;td&gt;JaegalWoon&lt;br /&gt; &lt;img src=&quot;/public/images/jaegalwoon.jpg&quot; /&gt;&lt;/td&gt;
-		&lt;td&gt;Jade&lt;br /&gt; &lt;img src=&quot;/public/images/jade.jpg&quot; /&gt;&lt;/td&gt;
-		&lt;td&gt;Yeonhwa&lt;br /&gt; &lt;img src=&quot;/public/images/yeonhwa.jpg&quot; /&gt;&lt;/td&gt;
+		&lt;td&gt;Richard (P)&lt;br /&gt; &lt;img src=&quot;/public/images/richard.jpg&quot; alt=&quot;Richard&quot; /&gt;&lt;/td&gt;
+		&lt;td&gt;Lee J (M)&lt;br /&gt; &lt;img src=&quot;/public/images/leejiyeon.jpg&quot; /&gt;&lt;/td&gt;
+		&lt;td&gt;JaegalWoon (P)&lt;br /&gt; &lt;img src=&quot;/public/images/jaegalwoon.jpg&quot; /&gt;&lt;/td&gt;
+		&lt;td&gt;Jade (P)&lt;br /&gt; &lt;img src=&quot;/public/images/jade.jpg&quot; /&gt;&lt;/td&gt;
+		&lt;td&gt;Yeonhwa (M)&lt;br /&gt; &lt;img src=&quot;/public/images/yeonhwa.jpg&quot; /&gt;&lt;/td&gt;
 	&lt;/tr&gt;
 	&lt;tr&gt;
 		&lt;td&gt;#19&lt;/td&gt;
-		&lt;td&gt;AhkChungwang&lt;br /&gt; &lt;img src=&quot;/public/images/ahkchungwang.jpg&quot; /&gt;&lt;/td&gt;
-		&lt;td&gt;LeeJiyeon&lt;br /&gt; &lt;img src=&quot;/public/images/leejiyeon.jpg&quot; /&gt;&lt;/td&gt;
-		&lt;td&gt;Wolyung&lt;br /&gt; &lt;img src=&quot;/public/images/wolyung.jpg&quot; /&gt;&lt;/td&gt;
-		&lt;td&gt;JaegalWoon&lt;br /&gt; &lt;img src=&quot;/public/images/jaegalwoon.jpg&quot; /&gt;&lt;/td&gt;
-		&lt;td&gt;Aaren&lt;br /&gt; &lt;img src=&quot;/public/images/aaren.jpg&quot; /&gt;&lt;/td&gt;
+		&lt;td&gt;Ahk C (P)&lt;br /&gt; &lt;img src=&quot;/public/images/ahkchungwang.jpg&quot; /&gt;&lt;/td&gt;
+		&lt;td&gt;Lee J (M)&lt;br /&gt; &lt;img src=&quot;/public/images/leejiyeon.jpg&quot; /&gt;&lt;/td&gt;
+		&lt;td&gt;Wolyung (M)&lt;br /&gt; &lt;img src=&quot;/public/images/wolyung.jpg&quot; /&gt;&lt;/td&gt;
+		&lt;td&gt;JaegalWoon (P)&lt;br /&gt; &lt;img src=&quot;/public/images/jaegalwoon.jpg&quot; /&gt;&lt;/td&gt;
+		&lt;td&gt;Aaren (M)&lt;br /&gt; &lt;img src=&quot;/public/images/aaren.jpg&quot; /&gt;&lt;/td&gt;
 	&lt;/tr&gt;
 	&lt;tr&gt;
 		&lt;td&gt;#20&lt;/td&gt;
-		&lt;td&gt;Dean&lt;br /&gt; &lt;img src=&quot;/public/images/dean.jpg&quot; /&gt;&lt;/td&gt;
-		&lt;td&gt;LeeJiyeon&lt;br /&gt; &lt;img src=&quot;/public/images/leejiyeon.jpg&quot; /&gt;&lt;/td&gt;
-		&lt;td&gt;Grace&lt;br /&gt; &lt;img src=&quot;/public/images/grace.jpg&quot; /&gt;&lt;/td&gt;
-		&lt;td&gt;Claire&lt;br /&gt; &lt;img src=&quot;/public/images/claire.jpg&quot; /&gt;&lt;/td&gt;
-		&lt;td&gt;Yeonhwa&lt;br /&gt; &lt;img src=&quot;/public/images/yeonhwa.jpg&quot; /&gt;&lt;/td&gt;
+		&lt;td&gt;Dean (P)&lt;br /&gt; &lt;img src=&quot;/public/images/dean.jpg&quot; /&gt;&lt;/td&gt;
+		&lt;td&gt;Lee J (M)&lt;br /&gt; &lt;img src=&quot;/public/images/leejiyeon.jpg&quot; /&gt;&lt;/td&gt;
+		&lt;td&gt;Grace (P)&lt;br /&gt; &lt;img src=&quot;/public/images/grace.jpg&quot; /&gt;&lt;/td&gt;
+		&lt;td&gt;Claire (M)&lt;br /&gt; &lt;img src=&quot;/public/images/claire.jpg&quot; /&gt;&lt;/td&gt;
+		&lt;td&gt;Yeonhwa (M)&lt;br /&gt; &lt;img src=&quot;/public/images/yeonhwa.jpg&quot; /&gt;&lt;/td&gt;
 	&lt;/tr&gt;
 
 &lt;/table&gt;
+
+&lt;p&gt;(M) = Magic attack. (P) = Physical attack. It’s interesting to look to see if a team is balanced half Physical half Magic attacks. I believe the way it works is that a hero either attacks as M or P, and all heroes have a M and P defense rating. So someone with a high magic attack will easily kill someone with a low magic defense.&lt;/p&gt;
 
 &lt;p&gt;While there are some commonalities I’m amazed at how differ so many builds are. What seems typical is to have Richard + LeeJiyeon + DPS, and whatever else. But there are a few builds that are totally different.&lt;/p&gt;
 
@@ -198,12 +200,12 @@
 	&lt;tr&gt;
 		&lt;td&gt;&lt;img src=&quot;/public/images/richard.jpg&quot; width=&quot;30px&quot; style=&quot;float:left&quot; alt=&quot;Richard&quot; /&gt;&amp;nbsp;&amp;nbsp;Richard &lt;/td&gt;
 		&lt;td&gt;Def Tank&lt;/td&gt;
-		&lt;td&gt;10&lt;/td&gt;
+		&lt;td&gt;9&lt;/td&gt;
 	&lt;/tr&gt;
 	&lt;tr&gt;
 		&lt;td&gt;&lt;img src=&quot;/public/images/yeonhwa.jpg&quot; width=&quot;30px&quot; style=&quot;float:left&quot; /&gt;&amp;nbsp;&amp;nbsp;Yeonhwa &lt;/td&gt;
 		&lt;td&gt;Team buffer/supporter&lt;/td&gt;
-		&lt;td&gt;10&lt;/td&gt;
+		&lt;td&gt;9&lt;/td&gt;
 	&lt;/tr&gt;
 	&lt;tr&gt;
 		&lt;td&gt;&lt;img src=&quot;/public/images/aaren.jpg&quot; width=&quot;30px&quot; style=&quot;float:left&quot; /&gt;&amp;nbsp;&amp;nbsp;Aaren &lt;/td&gt;
@@ -229,6 +231,26 @@
 		&lt;td&gt;&lt;img src=&quot;/public/images/lily.jpg&quot; width=&quot;30px&quot; style=&quot;float:left&quot; /&gt;&amp;nbsp;&amp;nbsp;Lily &lt;/td&gt;
 		&lt;td&gt;DPS&lt;/td&gt;
 		&lt;td&gt;5&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td&gt;&lt;img src=&quot;/public/images/grace.jpg&quot; width=&quot;30px&quot; style=&quot;float:left&quot; /&gt;&amp;nbsp;&amp;nbsp;Grace &lt;/td&gt;
+		&lt;td&gt;Off tank/DPS&lt;/td&gt;
+		&lt;td&gt;4&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td&gt;&lt;img src=&quot;/public/images/iri.jpg&quot; width=&quot;30px&quot; style=&quot;float:left&quot; /&gt;&amp;nbsp;&amp;nbsp;Iri &lt;/td&gt;
+		&lt;td&gt;Off tank/DPS&lt;/td&gt;
+		&lt;td&gt;4&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td&gt;&lt;img src=&quot;/public/images/ahkchungwang.jpg&quot; width=&quot;30px&quot; style=&quot;float:left&quot; /&gt;&amp;nbsp;&amp;nbsp;AhkChungwang &lt;/td&gt;
+		&lt;td&gt;Off tank/DPS&lt;/td&gt;
+		&lt;td&gt;4&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td&gt;&lt;img src=&quot;/public/images/scarlett.jpg&quot; width=&quot;30px&quot; style=&quot;float:left&quot; /&gt;&amp;nbsp;&amp;nbsp;Scarlett &lt;/td&gt;
+		&lt;td&gt;Healer/DPS&lt;/td&gt;
+		&lt;td&gt;4&lt;/td&gt;
 	&lt;/tr&gt;
 &lt;/table&gt;</content><author><name>Dark Wraith</name></author><summary type="html">If you go to Compete &amp;gt; Colosseum then click rank then choose master then click the little (i) on each rank you can see what people’s squads consist of. Now this is just their PVP squad, but I have a strong suspicion that this is also their main squad for doing raids and such too. This gives us a great glimpse into what some of the top squads are made of and let’s us understand what makes a good squad.</summary></entry><entry><title type="html">Hero Comparisons</title><link href="https://swirlingpotion.com/elchronicle-hero-comparison/" rel="alternate" type="text/html" title="Hero Comparisons" /><published>2019-06-22T00:00:00-07:00</published><updated>2019-06-22T00:00:00-07:00</updated><id>https://swirlingpotion.com/elchronicle-hero-comparison</id><content type="html" xml:base="https://swirlingpotion.com/elchronicle-hero-comparison/">&lt;p&gt;I don’t know about you but I sometimes like seeing things side by side to see how they compare before making a decision on who to use. Here’s some notes I took when comparing heroes.&lt;/p&gt;
 
@@ -407,9 +429,13 @@
 
 &lt;p&gt;Dean is a great tank and has pretty good damage output too. Maybe the best damage output for the defensive tanks. He’ll need to be paired with a solid healer.&lt;/p&gt;
 
-&lt;p&gt;Jango has the highest natural HP, and high defense, and can self heal with traits. But he’s a low damage dealer. Will need to pair him with some high damage dealer who can dispatch a foe quickly.&lt;/p&gt;
+&lt;p&gt;Jango has the highest natural HP, and high defense, and can self heal with traits. But he’s a low damage dealer. Will need to pair him with some high damage dealers who can dispatch a foe quickly.&lt;/p&gt;
 
 &lt;p&gt;But really all the tanks seem to be great. I’ve played around with a bunch of them and if you focus on them, level them up, evolve them, awaken them, and get them some excellent gear, they will all perform wonderfully.&lt;/p&gt;
+
+&lt;p&gt;Looking at the &lt;a href=&quot;/elchronicle-squad-builds/&quot;&gt;squads of the top PVP players&lt;/a&gt; you see that Richard is the most popular tank.&lt;/p&gt;
+
+&lt;p&gt;I reckon that Jango is a little harder to get fully evolved because his pieces don’t seem to be very abundant. There are a lot of places that Richard and Dean hero pieces drop but I have not found a single farmable place to get Jango pieces.&lt;/p&gt;
 
 &lt;h2 id=&quot;yeryungsuhwa-vs-aaren-vs-yeonhwa&quot;&gt;YeryungSuhwa vs Aaren vs Yeonhwa&lt;/h2&gt;
 
@@ -440,7 +466,7 @@
 		&lt;td&gt;Skill 3&lt;/td&gt;
 		&lt;td&gt;AoE buff (&lt;span class=&quot;highlight-orange&quot;&gt;crit%&lt;/span&gt; + &lt;span class=&quot;highlight-orange&quot;&gt;atk&lt;/span&gt;)&lt;/td&gt;
 		&lt;td&gt;AoE buff (&lt;span class=&quot;highlight-orange&quot;&gt;atk&lt;/span&gt; + &lt;span class=&quot;highlight-orange&quot;&gt;atk spd&lt;/span&gt;)&lt;/td&gt;
-		&lt;td&gt;AoE DoT + debuf (&lt;span class=&quot;highlight-blue&quot;&gt;-mov spd&lt;/span&gt; + &lt;span class=&quot;highlight-blue&quot;&gt;stun&lt;/span&gt;)&lt;/td&gt;
+		&lt;td&gt;&lt;span class=&quot;highlight-red&quot;&gt;AoE DoT&lt;/span&gt; + debuf (&lt;span class=&quot;highlight-blue&quot;&gt;-mov spd&lt;/span&gt; + &lt;span class=&quot;highlight-blue&quot;&gt;stun&lt;/span&gt;)&lt;/td&gt;
 	&lt;/tr&gt;
 	&lt;tr&gt;
 		&lt;td&gt;Passive 1&lt;/td&gt;
@@ -470,7 +496,7 @@
 		&lt;td&gt;Trait 2&lt;/td&gt;
 		&lt;td&gt;&lt;span class=&quot;highlight-green&quot;&gt;10% heal&lt;/span&gt; to atkd ally&lt;/td&gt;
 		&lt;td&gt;&lt;span class=&quot;highlight-white&quot;&gt;Barrier&lt;/span&gt; to atkd ally&lt;/td&gt;
-		&lt;td&gt;&lt;span class=&quot;highlight-blue&quot;&gt;Stun enemy&lt;/span&gt; + &lt;span class=&quot;highlight-yellow&quot;&gt;def&lt;/span&gt; for allies&lt;/td&gt;
+		&lt;td&gt;&lt;span class=&quot;highlight-blue&quot;&gt;Stun enemy&lt;/span&gt; + &lt;span class=&quot;highlight-blue&quot;&gt;def&lt;/span&gt; debuf&lt;/td&gt;
 	&lt;/tr&gt;
 	&lt;tr&gt;
 		&lt;td&gt;Weapon&lt;/td&gt;
@@ -478,9 +504,17 @@
 		&lt;td&gt;Buff dmgd ally (&lt;span class=&quot;highlight-orange&quot;&gt;atk %&lt;/span&gt;)&lt;/td&gt;
 		&lt;td&gt;30% bonus to self &lt;span class=&quot;highlight-orange&quot;&gt;skill 1 dmg&lt;/span&gt;+ &lt;span class=&quot;highlight-green&quot;&gt;15% AoE heal&lt;/span&gt;&lt;/td&gt;
 	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td&gt;W1 Passive&lt;/td&gt;
+		&lt;td&gt;Allies buff (&lt;span class=&quot;highlight-orange&quot;&gt;phys atk&lt;/span&gt;)&lt;/td&gt;
+		&lt;td&gt;Allies buff (&lt;span class=&quot;highlight-orange&quot;&gt;mag atk&lt;/span&gt;)&lt;/td&gt;
+		&lt;td&gt;Allies buff (&lt;span class=&quot;highlight-orange&quot;&gt;atk&lt;/span&gt;)&lt;/td&gt;
+	&lt;/tr&gt;
 &lt;/table&gt;
 
 &lt;p&gt;Hard to say who is best here. Yeonhwa seems built more for defense with her +def and stuns, while Yeryung and Aaren help improve the damage output of the team with their +atk and +crit buffs.&lt;/p&gt;
+
+&lt;p&gt;If you’ve got some high DPS assassins in your party, they may be squishy because of that, and Yeonhwa can help keep them alive with her buffs. So if your team is dying a lot she’s a good choice.&lt;/p&gt;
 
 &lt;p&gt;Aaren and Yeonhwa have 2 heals. These are considered weak healers as their heals are mostly single targetted and small compared to Lee or Dice who do big AoE heals.&lt;/p&gt;
 
@@ -636,21 +670,27 @@
 
 &lt;p&gt;Squad limited to: &lt;code class=&quot;highlighter-rouge&quot;&gt;Just Lily&lt;/code&gt;&lt;/p&gt;
 
-&lt;p&gt;In this battle you get Scarlett on your side. She’s the little snow/frost wizard. It’s important to know what her skills are:&lt;/p&gt;
+&lt;p&gt;In this battle you get Scarlett on your side. She’s the little snow/frost wizard.&lt;/p&gt;
 
-&lt;ul&gt;
-  &lt;li&gt;When she jumps on a snowball and rolls it, it will freeze anyone she touches. Great time to jump in and attack whoever is frozen.&lt;/li&gt;
-  &lt;li&gt;When she turns into a snowman, if you go near her you’ll heal up.&lt;/li&gt;
-  &lt;li&gt;When she casts a circle around you, you’ll heal a little and get a buff.&lt;/li&gt;
-&lt;/ul&gt;
+&lt;strike&gt;
+It's important to know what Scarlett's skills are:
 
-&lt;p&gt;Now it’s important to know how this &lt;code class=&quot;highlighter-rouge&quot;&gt;thief boss&lt;/code&gt; attacks. He throws fire bombs at you, which hurt really bad, taking off 20% or more of your life. But, the trick to his fire bombs is just to run away. They only go so far and then they explode on the ground. And you can outrun them if you’re quick.&lt;/p&gt;
+* When she jumps on a snowball and rolls it, it will freeze anyone she touches. Great time to jump in and attack whoever is frozen.
+* When she turns into a snowman, if you go near her you'll heal up.
+* When she casts a circle around you, you'll heal a little and get a buff. 
 
-&lt;p&gt;First kill the two brutes by grouping them and dashing around them with your first skill.&lt;/p&gt;
 
-&lt;p&gt;Let Scarlett take the aggro and tank the thief boss. She’s got tons of hp and heals herself so she’s fine. The problem is though she doesn’t hold aggro very well. So watch for things like her rolling snowball and when he’s frozen jump that guy and stab him as hard as you can.&lt;/p&gt;
+Now it's important to know how this `thief boss` attacks. He throws fire bombs at you, which hurt really bad, taking off 20% or more of your life. But, the trick to his fire bombs is just to run away. They only go so far and then they explode on the ground. And you can outrun them if you're quick.
 
-&lt;p&gt;As the thief’s life goes down more enemies will spawn. Just stay out of combat, running around in big circles and going invisible. Then pick off anyone who’s on the outside with a quick dash attack, then go back to running around.&lt;/p&gt;
+
+First kill the two brutes by grouping them and dashing around them with your first skill.
+
+Let Scarlett take the aggro and tank the thief boss. She's got tons of hp and heals herself so she's fine. The problem is though she doesn't hold aggro very well. So watch for things like her rolling snowball and when he's frozen jump that guy and stab him as hard as you can.
+
+As the thief's life goes down more enemies will spawn. Just stay out of combat, running around in big circles and going invisible. Then pick off anyone who's on the outside with a quick dash attack, then go back to running around.
+&lt;/strike&gt;
+&lt;p&gt;&lt;br /&gt;
+In June 2019 side quests changed and the strategy now is to go as crazy as you can focusing on the thief boss. Attack him with everything you got, stay on him, tank him if you have to, ignore everyone else just go full thief.&lt;/p&gt;
 
 &lt;p&gt;Victory is accomplished once the thief boss dies.&lt;/p&gt;
 
@@ -662,13 +702,13 @@
 
 &lt;p&gt;Squad limited to: &lt;code class=&quot;highlighter-rouge&quot;&gt;Just Lily&lt;/code&gt;&lt;/p&gt;
 
-&lt;p&gt;Well. You face off here against a &lt;code class=&quot;highlighter-rouge&quot;&gt;Big Ghoul&lt;/code&gt;. Each time you kill one of his &lt;code class=&quot;highlighter-rouge&quot;&gt;little ghouls&lt;/code&gt; they just come right back. Big Ghoul is easy to kite since he slowly hops around and you can see where he’s going and be ready to attack him.&lt;/p&gt;
+&lt;p&gt;Well. You face off here against a &lt;code class=&quot;highlighter-rouge&quot;&gt;Big Ghoul&lt;/code&gt;. After about 20 seconds &lt;code class=&quot;highlighter-rouge&quot;&gt;Thomas&lt;/code&gt; spawns. &lt;strong&gt;If Thomas dies you fail.&lt;/strong&gt; Thomas will somehow generate a lot of aggro and the ghouls all will attack him. Thomas doesn’t do a shred of damage so he’s a real liability. Because of this you have sort of a timer before he dies and you fail the mission. So you better have your attack power up for this one.&lt;/p&gt;
 
-&lt;p&gt;After about 20 seconds &lt;code class=&quot;highlighter-rouge&quot;&gt;Thomas&lt;/code&gt; spawns. &lt;strong&gt;If Thomas dies you fail.&lt;/strong&gt; Thomas will somehow generate a lot of aggro and the ghouls all will attack him. Thomas doesn’t do a shred of damage so he’s a real liability. Because of this you have sort of a timer before he dies and you fail the mission. So you better have your attack power up for this one.&lt;/p&gt;
+&lt;p&gt;After you kill about 5 mini-ghouls or possibly when the Big Ghoul gets to 60%, a big ogre will spawn at the top of the stairs. And if you kill that ogre, 2 more ogres will spawn. At some point some cannons spawn too which are aimed at you.&lt;/p&gt;
 
-&lt;p&gt;After you kill about 5 mini-ghouls or possibly when the Big Ghoul gets to 60%, a big ogre will spawn at the top of the stairs. And if you kill that ogre, 2 more ogres will spawn.&lt;/p&gt;
+&lt;p&gt;Tactic: just aggresively go after the big ghoul. Ignore everything else. Stealth, attack, attack attack attack, stealth and repeat. Sneaking in extra attacks wherever you can maybe even tanking for a bit.&lt;/p&gt;
 
-&lt;p&gt;Kill the big ghoul for victory. It’s not easy so really power up Lily before doing it. Get to to 19k+ power.&lt;/p&gt;
+&lt;p&gt;Kill the big ghoul for victory. It’s not easy so prepare to try it a bunch of times.&lt;/p&gt;
 
 &lt;p&gt;Good luck.&lt;/p&gt;
 
@@ -891,7 +931,15 @@
 
 &lt;h2 id=&quot;equipment&quot;&gt;Equipment&lt;/h2&gt;
 
-&lt;p&gt;See the guide on &lt;a href=&quot;/elchronicle-equipment/&quot;&gt;equipment&lt;/a&gt; to equip your heroes.&lt;/p&gt;</content><author><name>Dark Wraith</name></author><summary type="html">There are over 30 heroes in El Chronicle to choose from. Each hero has a unique set of skills and abilities and uses.</summary></entry><entry><title type="html">Equipment Tips and Strategies</title><link href="https://swirlingpotion.com/elchronicle-equipment/" rel="alternate" type="text/html" title="Equipment Tips and Strategies" /><published>2019-06-10T00:00:00-07:00</published><updated>2019-06-10T00:00:00-07:00</updated><id>https://swirlingpotion.com/elchronicle-equipment</id><content type="html" xml:base="https://swirlingpotion.com/elchronicle-equipment/">&lt;p&gt;Random tips, ideas, and strategies about the equipment in El Chronicle.&lt;/p&gt;
+&lt;p&gt;See the guide on &lt;a href=&quot;/elchronicle-equipment/&quot;&gt;equipment&lt;/a&gt; to equip your heroes.&lt;/p&gt;
+
+&lt;h2 id=&quot;comparison&quot;&gt;Comparison&lt;/h2&gt;
+
+&lt;p&gt;See the &lt;a href=&quot;/elchronicle-hero-comparison/&quot;&gt;hero comparisons&lt;/a&gt; for some analysis of heroes.&lt;/p&gt;
+
+&lt;h2 id=&quot;squads&quot;&gt;Squads&lt;/h2&gt;
+
+&lt;p&gt;See the &lt;a href=&quot;/elchronicle-squad-builds/&quot;&gt;squad builds&lt;/a&gt; of some other players to see what people are using.&lt;/p&gt;</content><author><name>Dark Wraith</name></author><summary type="html">There are over 30 heroes in El Chronicle to choose from. Each hero has a unique set of skills and abilities and uses.</summary></entry><entry><title type="html">Equipment Tips and Strategies</title><link href="https://swirlingpotion.com/elchronicle-equipment/" rel="alternate" type="text/html" title="Equipment Tips and Strategies" /><published>2019-06-10T00:00:00-07:00</published><updated>2019-06-10T00:00:00-07:00</updated><id>https://swirlingpotion.com/elchronicle-equipment</id><content type="html" xml:base="https://swirlingpotion.com/elchronicle-equipment/">&lt;p&gt;Random tips, ideas, and strategies about the equipment in El Chronicle.&lt;/p&gt;
 
 &lt;p&gt;Equipment as obtained from rewards in battle, raiding, doing challenges, completing requests, crafting, and the shop.&lt;/p&gt;
 
@@ -1101,7 +1149,7 @@
 
 &lt;p&gt;There are 4 shops &lt;code class=&quot;highlighter-rouge&quot;&gt;summon&lt;/code&gt;, &lt;code class=&quot;highlighter-rouge&quot;&gt;wandering&lt;/code&gt;, &lt;code class=&quot;highlighter-rouge&quot;&gt;honor&lt;/code&gt;, &lt;code class=&quot;highlighter-rouge&quot;&gt;champion&lt;/code&gt;, &lt;code class=&quot;highlighter-rouge&quot;&gt;raid&lt;/code&gt;, &lt;code class=&quot;highlighter-rouge&quot;&gt;costume&lt;/code&gt;, and &lt;code class=&quot;highlighter-rouge&quot;&gt;mileage&lt;/code&gt;.&lt;/p&gt;
 
-&lt;p&gt;The summon shop gives you a free chance to get a good item for one of the heroes selected each day. Make sure to take this free pull daily and choose heroes you really want new equipment for. Some players recommend saving your crystals to buy the 10x summon card pulls. A few of these can really help gear up your squad as it gives you T3-T6 equipment and runes.&lt;/p&gt;
+&lt;p&gt;The summon shop gives you a free chance to get a good item for one of the heroes selected each day. Make sure to take this free pull daily and choose heroes you really want new equipment for. Some players recommend saving your crystals to buy the 10x summon card pulls. A few of these can really help gear up your squad as it gives you T3-T6 equipment and runes. I too recommend saving your crystals for these 10x pulls as they can quickly equip your heroes. But this is expensive so make sure to know what you want in your squad before doing this or else you might end up with equipment for a hero you end up not liking. So I recommend waiting until you get a few heroes to 6 stars before doing the 10x pulls on crystals. At this point you will have probably decided on which squad you like the most and need help getting passed some stuff.&lt;/p&gt;
 
 &lt;p&gt;The wandering shop lets you buy ingredients with crystals.&lt;/p&gt;
 
