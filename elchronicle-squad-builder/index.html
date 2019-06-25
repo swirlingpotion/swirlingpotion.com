@@ -141,6 +141,8 @@
 
 <p>Note: this evaluation is not an accurate evaluation of your team. It’s just to help conceptualize where your teams strengths and weaknesses are and to give you a <strong>very rough</strong> idea how your team is doing.</p>
 
+<p>Check out some <a href="/elchronicle-squad-builds/">sample squad builds</a> here.</p>
+
 <p><br /><br />
 Click a hero below to add it to your squad.</p>
 
@@ -239,13 +241,9 @@ Click a hero below to add it to your squad.</p>
       		}
 	      	$(this).css('border', "solid 2px red");
 	      	$(this).addClass('chosen');
-	      	$('.squadrow>td:nth-child('+child+')').html("<img id='"+this.id+"' src='/public/images/"+this.id+".jpg'/><br>"+this.id);
+	      	$('.squadrow>td:nth-child('+child+')').html("<img id='"+this.id+"' src='/public/images/"+this.id+".jpg' width='100px'/><br>"+this.id);
 	      	$('.squadrow>td:nth-child('+child+')').attr('id', 'selected'+this.id);	
 	      	heroes++;
-
-
-
-
 
       	}
       });
@@ -427,9 +425,9 @@ Click a hero below to add it to your squad.</p>
       			dps = dps + 5;
       		}
       		if (squad[i] == 'jaegalmageon') {
-      			dps = dps + 40;
-      			tank = tank + 5;
-      			buff = buff + 3;
+      			dps = dps + 25;
+      			tank = tank + 30;
+      			buff = buff + 35;
       		}
 
 

@@ -4,7 +4,7 @@
  <title>Swirling Potion</title>
  <link href="https://swirlingpotion.com/atom.xml" rel="self"/>
  <link href="https://swirlingpotion.com/"/>
- <updated>2019-06-25T10:47:57-07:00</updated>
+ <updated>2019-06-25T11:43:29-07:00</updated>
  <id>https://swirlingpotion.com</id>
  <author>
    <name>Dark Wraith</name>
@@ -69,6 +69,8 @@
 &lt;p&gt;When building a squad, click evaluate too see how they fair in each category. A well formed team should be at least 50% in tank, dps, heals. From there you can decide if you want to help support the team more with a buffer/debuffer or go heavy on DPS.&lt;/p&gt;
 
 &lt;p&gt;Note: this evaluation is not an accurate evaluation of your team. It’s just to help conceptualize where your teams strengths and weaknesses are and to give you a &lt;strong&gt;very rough&lt;/strong&gt; idea how your team is doing.&lt;/p&gt;
+
+&lt;p&gt;Check out some &lt;a href=&quot;/elchronicle-squad-builds/&quot;&gt;sample squad builds&lt;/a&gt; here.&lt;/p&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;br /&gt;
 Click a hero below to add it to your squad.&lt;/p&gt;
@@ -168,13 +170,9 @@ Click a hero below to add it to your squad.&lt;/p&gt;
       		}
 	      	$(this).css('border', &quot;solid 2px red&quot;);
 	      	$(this).addClass('chosen');
-	      	$('.squadrow&gt;td:nth-child('+child+')').html(&quot;&lt;img id='&quot;+this.id+&quot;' src='/public/images/&quot;+this.id+&quot;.jpg'/&gt;&lt;br&gt;&quot;+this.id);
+	      	$('.squadrow&gt;td:nth-child('+child+')').html(&quot;&lt;img id='&quot;+this.id+&quot;' src='/public/images/&quot;+this.id+&quot;.jpg' width='100px'/&gt;&lt;br&gt;&quot;+this.id);
 	      	$('.squadrow&gt;td:nth-child('+child+')').attr('id', 'selected'+this.id);	
 	      	heroes++;
-
-
-
-
 
       	}
       });
@@ -356,9 +354,9 @@ Click a hero below to add it to your squad.&lt;/p&gt;
       			dps = dps + 5;
       		}
       		if (squad[i] == 'jaegalmageon') {
-      			dps = dps + 40;
-      			tank = tank + 5;
-      			buff = buff + 3;
+      			dps = dps + 25;
+      			tank = tank + 30;
+      			buff = buff + 35;
       		}
 
 

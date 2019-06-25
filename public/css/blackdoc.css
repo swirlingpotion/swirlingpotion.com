@@ -482,7 +482,9 @@ img {
 }
 
 
-
+.hero {
+    word-wrap: break-word;
+}
 
 .progress-container {
   background-color: #333;
