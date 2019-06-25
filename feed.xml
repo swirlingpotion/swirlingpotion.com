@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="https://swirlingpotion.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://swirlingpotion.com/" rel="alternate" type="text/html" /><updated>2019-06-25T11:43:29-07:00</updated><id>https://swirlingpotion.com/</id><title type="html">Swirling Potion</title><subtitle>Drink this.</subtitle><author><name>Dark Wraith</name></author><entry><title type="html">Squad Builder</title><link href="https://swirlingpotion.com/elchronicle-squad-builder/" rel="alternate" type="text/html" title="Squad Builder" /><published>2019-06-23T00:00:00-07:00</published><updated>2019-06-23T00:00:00-07:00</updated><id>https://swirlingpotion.com/elchronicle-squad-builder</id><content type="html" xml:base="https://swirlingpotion.com/elchronicle-squad-builder/">&lt;p&gt;A big part of playing El Chronicle is squad building. Trying new heroes and seeing how they fair in the group. This tool can help you conceptualize a squad.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="https://swirlingpotion.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://swirlingpotion.com/" rel="alternate" type="text/html" /><updated>2019-06-25T14:02:00-07:00</updated><id>https://swirlingpotion.com/</id><title type="html">Swirling Potion</title><subtitle>Drink this.</subtitle><author><name>Dark Wraith</name></author><entry><title type="html">Squad Builder</title><link href="https://swirlingpotion.com/elchronicle-squad-builder/" rel="alternate" type="text/html" title="Squad Builder" /><published>2019-06-23T00:00:00-07:00</published><updated>2019-06-23T00:00:00-07:00</updated><id>https://swirlingpotion.com/elchronicle-squad-builder</id><content type="html" xml:base="https://swirlingpotion.com/elchronicle-squad-builder/">&lt;p&gt;A big part of playing El Chronicle is squad building. Trying new heroes and seeing how they fair in the group. This tool can help you conceptualize a squad.&lt;/p&gt;
 
 &lt;table&gt;
 	&lt;tr class=&quot;squadrow&quot;&gt;
@@ -151,7 +151,7 @@ Click a hero below to add it to your squad.&lt;/p&gt;
       		}
 	      	$(this).css('border', &quot;solid 2px red&quot;);
 	      	$(this).addClass('chosen');
-	      	$('.squadrow&gt;td:nth-child('+child+')').html(&quot;&lt;img id='&quot;+this.id+&quot;' src='/public/images/&quot;+this.id+&quot;.jpg' width='100px'/&gt;&lt;br&gt;&quot;+this.id);
+	      	$('.squadrow&gt;td:nth-child('+child+')').html(&quot;&lt;img id='&quot;+this.id+&quot;' src='/public/images/&quot;+this.id+&quot;.jpg' width='100px'/&gt;&lt;br&gt;&quot;+this.id.substring(0,8));
 	      	$('.squadrow&gt;td:nth-child('+child+')').attr('id', 'selected'+this.id);	
 	      	heroes++;
 

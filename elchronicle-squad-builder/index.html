@@ -241,7 +241,7 @@ Click a hero below to add it to your squad.</p>
       		}
 	      	$(this).css('border', "solid 2px red");
 	      	$(this).addClass('chosen');
-	      	$('.squadrow>td:nth-child('+child+')').html("<img id='"+this.id+"' src='/public/images/"+this.id+".jpg' width='100px'/><br>"+this.id);
+	      	$('.squadrow>td:nth-child('+child+')').html("<img id='"+this.id+"' src='/public/images/"+this.id+".jpg' width='100px'/><br>"+this.id.substring(0,8));
 	      	$('.squadrow>td:nth-child('+child+')').attr('id', 'selected'+this.id);	
 	      	heroes++;
 

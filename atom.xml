@@ -4,7 +4,7 @@
  <title>Swirling Potion</title>
  <link href="https://swirlingpotion.com/atom.xml" rel="self"/>
  <link href="https://swirlingpotion.com/"/>
- <updated>2019-06-25T11:43:29-07:00</updated>
+ <updated>2019-06-25T14:02:00-07:00</updated>
  <id>https://swirlingpotion.com</id>
  <author>
    <name>Dark Wraith</name>
@@ -170,7 +170,7 @@ Click a hero below to add it to your squad.&lt;/p&gt;
       		}
 	      	$(this).css('border', &quot;solid 2px red&quot;);
 	      	$(this).addClass('chosen');
-	      	$('.squadrow&gt;td:nth-child('+child+')').html(&quot;&lt;img id='&quot;+this.id+&quot;' src='/public/images/&quot;+this.id+&quot;.jpg' width='100px'/&gt;&lt;br&gt;&quot;+this.id);
+	      	$('.squadrow&gt;td:nth-child('+child+')').html(&quot;&lt;img id='&quot;+this.id+&quot;' src='/public/images/&quot;+this.id+&quot;.jpg' width='100px'/&gt;&lt;br&gt;&quot;+this.id.substring(0,8));
 	      	$('.squadrow&gt;td:nth-child('+child+')').attr('id', 'selected'+this.id);	
 	      	heroes++;
 
