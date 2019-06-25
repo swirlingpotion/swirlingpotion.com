@@ -480,3 +480,21 @@ img {
 .highlight-gold {
     color: #FFD700;
 }
+
+
+
+
+.progress-container {
+  background-color: #333;
+  border-radius: 13px;
+  /* (height of inner div) / 2 + padding */
+  padding: 3px;
+}
+
+.progress-meter {
+  background-color: orange;
+  width: 0%;
+  /* Adjust with JavaScript */
+  height: 10px;
+  border-radius: 10px;
+}

@@ -1,0 +1,496 @@
+<!DOCTYPE html>
+<html lang="en-us">
+
+  <head>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+  <link rel="canonical" href="https://www.swirlingpotion.com" />
+
+
+  <!-- Enable responsiveness on mobile devices-->
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+
+  <title>
+    
+      Squad Builder &middot; Swirling Potion
+    
+  </title>
+
+  <!-- CSS -->
+  <link rel="stylesheet" href="/public/css/poole.css">
+  <link rel="stylesheet" href="/public/css/syntax.css">
+  <link rel="stylesheet" href="/public/css/blackdoc.css">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=PT+Sans:400,400italic,700|Abril+Fatface">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=EB+Garamond">
+  <style>
+
+  </style>
+  <!-- Icons -->
+  <link rel="shortcut icon" href="/public/favicon.ico">
+
+  <!-- RSS -->
+  <link rel="alternate" type="application/rss+xml" title="RSS" href="/atom.xml">
+</head>
+
+
+  <body>
+
+    <div class="sidebar">
+  <div class="container sidebar-sticky">
+    <div class="sidebar-about">
+      <h4>
+        <a href="/">
+          <img src="/public/images/potion.jpg" class="sidebar-img" alt="Potion" width="30px">Swirling Potion
+        </a>
+      </h4>
+      <br><br>
+    </div>
+
+    <nav class="sidebar-nav">
+      <p class="lead">Drink this.</p>
+      <p><a href="/elchronicle">El Chronicle</a></p>
+      <ul>
+      
+        
+          <li><a href="/elchronicle-squad-builder/">Squad Builder</a></li>
+        
+      
+        
+          <li><a href="/elchronicle-squad-builds/">Squad Builds</a></li>
+        
+      
+        
+          <li><a href="/elchronicle-hero-comparison/">Hero Comparisons</a></li>
+        
+      
+        
+          <li><a href="/elchronicle-runes/">Rune Guide</a></li>
+        
+      
+        
+          <li><a href="/elchronicle-dailies/">Daily Objectives</a></li>
+        
+      
+      <li><a href="/elchronicle">More posts >></a></li>
+      </ul>
+
+
+      <hr>
+    </nav>
+
+    <p>&copy; 2019. All rights reserved.</p>
+    <h6>-Zinjinni</h6>
+  </div>
+</div>
+
+
+    <div class="content container">
+      <div class="post">
+  <h1 class="post-title">El Chronicle <br> Squad Builder</h1>
+  <span class="post-date">23 Jun 2019</span>
+  <p>A big part of playing El Chronicle is squad building. Trying new heroes and seeing how they fair in the group. This tool can help you conceptualize a squad.</p>
+
+<table>
+	<tr class="squadrow">
+		<td class="hero" width="20%" height="200px"></td>
+		<td class="hero" width="20%" height="200px"></td>
+		<td class="hero" width="20%" height="200px"></td>
+		<td class="hero" width="20%" height="200px"></td>
+		<td class="hero" width="20%" height="200px"></td>
+	</tr>
+</table>
+
+<p><button class="evaluate">Evaluate</button> <!-- <button class="clear">Clear</button> --></p>
+
+<table>
+	<tr>
+		<td width="10%">Tanking:</td>
+		<td>
+			<div class="progress-container">
+ 				<div class="progress-meter" id="tankbar"></div>
+			</div>
+		</td>
+	</tr>
+	<tr>
+		<td>Healing:</td>
+		<td>
+			<div class="progress-container">
+			  <div class="progress-meter" id="healbar"></div>
+			</div>
+		</td>
+	</tr>
+	<tr>
+		<td>DPS:</td>
+		<td>
+			<div class="progress-container">
+			  <div class="progress-meter" id="dpsbar"></div>
+			</div>
+		</td>
+	</tr>
+	<tr>
+		<td>Buffs/Debuff/Support:</td>
+		<td>
+			<div class="progress-container">
+			  <div class="progress-meter" id="buffbar"></div>
+			</div>
+		</td>
+	</tr>
+</table>
+
+<p>When building a squad, click evaluate too see how they fair in each category. A well formed team should be at least 50% in tank, dps, heals. From there you can decide if you want to help support the team more with a buffer/debuffer or go heavy on DPS.</p>
+
+<p>Note: this evaluation is not an accurate evaluation of your team. It’s just to help conceptualize where your teams strengths and weaknesses are and to give you a <strong>very rough</strong> idea how your team is doing.</p>
+
+<p><br /><br />
+Click a hero below to add it to your squad.</p>
+
+<p>Tanks:<br />
+<img class="selectable" id="dean" src="/public/images/dean.jpg" alt="Dean" width="100px" />
+<img class="selectable" id="richard" src="/public/images/richard.jpg" alt="Richard" width="100px" />
+<img class="selectable" id="mubu" src="/public/images/mubu.jpg" width="100px" />
+<img class="selectable" id="markon" src="/public/images/markon.jpg" width="100px" />
+<img class="selectable" id="paenggeumbo" src="/public/images/paenggeumbo.jpg" width="100px" />
+<img class="selectable" id="reinhardt" src="/public/images/reinhardt.jpg" width="100px" />
+<img class="selectable" id="jango" src="/public/images/jango.jpg" width="100px" />
+<img class="selectable" id="ahkchungwang" src="/public/images/ahkchungwang.jpg" width="100px" />
+<img class="selectable" id="kael" src="/public/images/kael.jpg" width="100px" />
+<img class="selectable" id="baeklicheon" src="/public/images/baeklicheon.jpg" width="100px" />
+<img class="selectable" id="grace" src="/public/images/grace.jpg" width="100px" /></p>
+
+<p>Assassins:<br />
+<img class="selectable" id="gwen" src="/public/images/gwen.jpg" width="100px" />
+<img class="selectable" id="jade" src="/public/images/jade.jpg" width="100px" />
+<img class="selectable" id="isha" src="/public/images/isha.jpg" width="100px" />
+<img class="selectable" id="julia" src="/public/images/julia.jpg" width="100px" />
+<img class="selectable" id="maseolin" src="/public/images/maseolin.jpg" width="100px" />
+<img class="selectable" id="lily" src="/public/images/lily.jpg" width="100px" />
+<img class="selectable" id="wolyung" src="/public/images/wolyung.jpg" width="100px" />
+<img class="selectable" id="jaegalwoon" src="/public/images/jaegalwoon.jpg" width="100px" />
+<img class="selectable" id="varia" src="/public/images/varia.jpg" width="100px" /></p>
+
+<p>Supporters:<br />
+<img class="selectable" id="leejiyeon" src="/public/images/leejiyeon.jpg" width="100px" />
+<img class="selectable" id="dice" src="/public/images/dice.jpg" width="100px" />
+<img class="selectable" id="claire" src="/public/images/claire.jpg" width="100px" />
+<img class="selectable" id="aaren" src="/public/images/aaren.jpg" width="100px" />
+<img class="selectable" id="yeryungsuhwa" src="/public/images/yeryungsuhwa.jpg" width="100px" />
+<img class="selectable" id="hwangbopae" src="/public/images/hwangbopae.jpg" width="100px" /></p>
+
+<p>Specialists:<br />
+<img class="selectable" id="iri" src="/public/images/iri.jpg" width="100px" />
+<img class="selectable" id="scarlett" src="/public/images/scarlett.jpg" width="100px" />
+<img class="selectable" id="occasio" src="/public/images/occasio.jpg" width="100px" />
+<img class="selectable" id="maeho" src="/public/images/maeho.jpg" width="100px" />
+<img class="selectable" id="aqua" src="/public/images/aqua.jpg" width="100px" />
+<img class="selectable" id="yeonhwa" src="/public/images/yeonhwa.jpg" width="100px" />
+<img class="selectable" id="jaegalmageon" src="/public/images/jaegalmageon.jpg" width="100px" /></p>
+
+<p><span class="chosen"></span></p>
+
+<script src="https://code.jquery.com/jquery-3.0.0.min.js" type="text/javascript"></script>
+
+<script>
+    $(document).ready(function(){
+      var heroes = 0;
+      var squad = new Array("0", "0", "0", "0", "0");
+
+      $(".selectable").click(function(){
+
+      	// remove hero from squad
+      	if ($(this).hasClass("chosen")) {
+      		for (var i = squad.length - 1; i >= 0; i--) {
+      			if (squad[i] == this.id) {
+      				var col = i + 1;
+      				$('.squadrow>td:nth-child('+col+')').html("");
+	      			$('.squadrow>td:nth-child('+col+')').removeAttr('id', this.id);	
+	      			squad[i] = "0";
+      			}
+      		}
+	      	$(this).css('border', ""); 
+	      	$(this).removeClass('chosen');
+	      	heroes--; 
+	      	return;
+      	}
+
+      	// don't let duplicate heroes
+      	for (var i = squad.length - 1; i >= 0; i--) {
+      		if (squad[i] == this.id) {
+      			return;
+      		}
+      	}
+
+      	// assign hero to slot
+      	if (heroes < 5) {
+      		if (squad[0] == "0") {
+      			var child = 1; 
+      			squad[0] = this.id;     			
+      		} else if (squad[1] == "0") {
+      			var child = 2; 
+      			squad[1] = this.id;
+      		} else if (squad[2] == "0") {
+      			var child = 3; 
+      			squad[2] = this.id;
+      		} else if (squad[3] == "0") {
+      			var child = 4; 
+      			squad[3] = this.id;
+      		} else if (squad[4] == "0") {
+      			var child = 5; 
+      			squad[4] = this.id;
+      		}
+	      	$(this).css('border', "solid 2px red");
+	      	$(this).addClass('chosen');
+	      	$('.squadrow>td:nth-child('+child+')').html("<img id='"+this.id+"' src='/public/images/"+this.id+".jpg'/><br>"+this.id);
+	      	$('.squadrow>td:nth-child('+child+')').attr('id', 'selected'+this.id);	
+	      	heroes++;
+
+
+
+
+
+      	}
+      });
+
+      // remove hero from squad
+      $(".hero").click(function(){
+      	if (this.id == "") {
+      		return;
+      	}
+
+      	var index = $(this).index();
+      	squad[index] = "0";
+
+      	var name = this.id.substring(8); //remove 'selected'
+      	$(this).removeAttr('id', this.id);
+        $(this).html('');
+      	$('#'+name).css('border', ""); 
+      	$('#'+name).removeAttr('class', 'selected');
+      	heroes--; 
+      });           
+
+      // clear all heroes
+      $(".clear").click(function(){
+      	for (var i = squad.length - 1; i >= 0; i--) {
+      		squad[i] = "0";
+      	}
+      	heroes = 0;
+
+      	$('.hero').html("");
+      	// $('.hero').attr('id', 'selected'+this.id);	
+
+      	$('.selectable').css('border', ""); 
+      	$('.selectable').removeAttr('class', 'selected');
+      });      
+
+      // evaluate team 
+      $(".evaluate").click(function(){
+      	//update progress bars
+      	var tank = 0;
+      	var dps = 0;
+      	var heal = 0;
+      	var buff = 0;
+      	for (var i = squad.length - 1; i >= 0; i--) {
+      		if (squad[i] == 'dean') {
+      			tank = tank + 40;
+      			dps = dps + 10;
+      		}
+      		if (squad[i] == 'richard') {
+      			tank = tank + 40;
+      			dps = dps + 10;
+      			buff = buff + 5;
+      		}
+      		if (squad[i] == 'mubu') {
+      			tank = tank + 40;
+      			dps = dps + 10;
+      			heal = heal + 5;
+      		}
+      		if (squad[i] == 'paenggeumbo') {
+      			tank = tank + 40;
+      			dps = dps + 10;
+      		}
+      		if (squad[i] == 'jango') {
+      			tank = tank + 40;
+      			dps = dps + 5;
+      			buff = buff + 3;
+      		}
+      		if (squad[i] == 'reinhardt') {
+      			tank = tank + 40;
+      			dps = dps + 10;
+      		}
+      		if (squad[i] == 'markon') {
+      			tank = tank + 40;
+      			dps = dps + 10;
+      			buff = buff + 5;
+      		}
+
+      		if (squad[i] == 'ahkchungwang') {
+      			tank = tank + 30;
+      			dps = dps + 30;
+      			buff = buff + 3;
+      		}
+      		if (squad[i] == 'kael') {
+      			tank = tank + 30;
+      			dps = dps + 30;
+      		}
+      		if (squad[i] == 'baeklicheon') {
+      			tank = tank + 30;
+      			dps = dps + 30;
+      			heal = heal + 5;
+      		}
+      		if (squad[i] == 'grace') {
+      			tank = tank + 30;
+      			dps = dps + 30;
+      		}
+      		if (squad[i] == 'iri') {
+      			tank = tank + 30;
+      			dps = dps + 30;
+      		}
+
+
+      		if (squad[i] == 'gwen') {
+      			dps = dps + 40;
+      		}
+      		if (squad[i] == 'jade') {
+      			dps = dps + 40;
+      		}
+      		if (squad[i] == 'isha') {
+      			dps = dps + 40;
+      		}
+      		if (squad[i] == 'julia') {
+      			dps = dps + 40;
+      		}
+      		if (squad[i] == 'maseolin') {
+      			dps = dps + 40;
+      		}
+      		if (squad[i] == 'lily') {
+      			dps = dps + 40;
+      		}
+      		if (squad[i] == 'wolyung') {
+      			dps = dps + 40;
+      		}
+      		if (squad[i] == 'jaegalwoon') {
+      			dps = dps + 40;
+      			buff = buff + 3;
+      		}
+      		if (squad[i] == 'varia') {
+      			dps = dps + 40;
+      		}
+
+      		if (squad[i] == 'leejiyeon') {
+      			heal = heal + 40;
+      			dps = dps + 5;
+      			buff = buff + 3;
+      		}
+      		if (squad[i] == 'dice') {
+      			heal = heal + 35;
+      			buff = buff + 5;
+      			dps = dps + 5;
+      		}
+      		if (squad[i] == 'claire') {
+      			dps = dps + 10;
+      			heal = heal + 20;
+      			dps = dps + 5;
+      			buff = buff + 3;
+      		}
+      		if (squad[i] == 'aaren') {
+      			buff = buff + 40;
+      			heal = heal + 10;
+      			dps = dps + 5;
+      		}
+      		if (squad[i] == 'yeryungsuhwa') {
+      			buff = buff + 40;
+      			dps = dps + 10;
+      		}
+      		if (squad[i] == 'hwangbopae') {
+      			buff = buff + 10;
+      			dps = dps + 10;
+      		}
+      		if (squad[i] == 'scarlett') {
+      			heal = heal + 20;
+      			buff = buff + 10;
+      			dps = dps + 20;
+      		}
+      		if (squad[i] == 'occasio') {
+      			dps = dps + 40;
+      			heal = heal + 3;
+      			buff = buff + 3;
+      		}
+      		if (squad[i] == 'maeho') {
+      			dps = dps + 40;
+      			buff = buff + 5;
+      		}
+      		if (squad[i] == 'aqua') {
+      			dps = dps + 40;
+      		}
+      		if (squad[i] == 'yeonhwa') {
+      			buff = buff + 40;
+      			heal = heal + 10;
+      			dps = dps + 5;
+      		}
+      		if (squad[i] == 'jaegalmageon') {
+      			dps = dps + 40;
+      			tank = tank + 5;
+      			buff = buff + 3;
+      		}
+
+
+      	}
+      	if (tank > 100) { tank = 100; }
+      	if (dps > 100) { dps = 100; }
+      	if (heal > 100) { heal = 100; }
+      	if (buff > 100) { buff = 100; }
+      	$('#tankbar').css('width', tank+"%");	      			
+      	$('#dpsbar').css('width', dps+"%");	      			
+      	$('#healbar').css('width', heal+"%");	      			
+      	$('#buffbar').css('width', buff+"%");	      			
+
+      	// var dps = Math.round($("#dpsbar").width() / $('#dpsbar').parent().width() * 100);
+      	// dps = dps + 30;
+      	// if (dps > 100) { dps = 100; }
+      	// $('#dpsbar').css('width', dps+"%");
+      });
+
+
+    });
+</script>
+
+
+</div>
+
+<div class="related">
+  <h2>Related Posts</h2>
+  <ul class="related-posts">
+    
+      <li>
+        <h3>
+          <a href="/elchronicle-squad-builds/">
+            El Chronicle - Squad Builds
+            <small>22 Jun 2019</small>
+          </a>
+        </h3>
+      </li>
+    
+      <li>
+        <h3>
+          <a href="/elchronicle-hero-comparison/">
+            El Chronicle - Hero Comparisons
+            <small>22 Jun 2019</small>
+          </a>
+        </h3>
+      </li>
+    
+      <li>
+        <h3>
+          <a href="/elchronicle-runes/">
+            El Chronicle - Rune Guide
+            <small>18 Jun 2019</small>
+          </a>
+        </h3>
+      </li>
+    
+  </ul>
+</div>
+
+    </div>
+
+  </body>
+</html>
