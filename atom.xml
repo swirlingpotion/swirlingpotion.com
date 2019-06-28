@@ -4,7 +4,7 @@
  <title>Swirling Potion</title>
  <link href="https://swirlingpotion.com/atom.xml" rel="self"/>
  <link href="https://swirlingpotion.com/"/>
- <updated>2019-06-25T14:02:00-07:00</updated>
+ <updated>2019-06-27T22:09:19-07:00</updated>
  <id>https://swirlingpotion.com</id>
  <author>
    <name>Dark Wraith</name>
@@ -65,6 +65,8 @@
 		&lt;/td&gt;
 	&lt;/tr&gt;
 &lt;/table&gt;
+
+&lt;p&gt;(P) = does physical damage. (M) = does magic damage.&lt;/p&gt;
 
 &lt;p&gt;When building a squad, click evaluate too see how they fair in each category. A well formed team should be at least 50% in tank, dps, heals. From there you can decide if you want to help support the team more with a buffer/debuffer or go heavy on DPS.&lt;/p&gt;
 
@@ -215,151 +217,188 @@ Click a hero below to add it to your squad.&lt;/p&gt;
       	var dps = 0;
       	var heal = 0;
       	var buff = 0;
+      	var attacktype = &quot;&quot;;
       	for (var i = squad.length - 1; i &gt;= 0; i--) {
       		if (squad[i] == 'dean') {
       			tank = tank + 40;
       			dps = dps + 10;
+      			attacktype = &quot;(P)&quot;;
       		}
       		if (squad[i] == 'richard') {
       			tank = tank + 40;
       			dps = dps + 10;
       			buff = buff + 5;
+      			attacktype = &quot;(P)&quot;;
       		}
       		if (squad[i] == 'mubu') {
       			tank = tank + 40;
       			dps = dps + 10;
       			heal = heal + 5;
+	      		attacktype = &quot;(M)&quot;;
       		}
       		if (squad[i] == 'paenggeumbo') {
       			tank = tank + 40;
       			dps = dps + 10;
+	      		attacktype = &quot;(P)&quot;;
       		}
       		if (squad[i] == 'jango') {
       			tank = tank + 40;
       			dps = dps + 5;
       			buff = buff + 3;
+	      		attacktype = &quot;(P)&quot;;
       		}
       		if (squad[i] == 'reinhardt') {
       			tank = tank + 40;
       			dps = dps + 10;
+	      		attacktype = &quot;(P)&quot;;
       		}
       		if (squad[i] == 'markon') {
       			tank = tank + 40;
       			dps = dps + 10;
       			buff = buff + 5;
+	      		attacktype = &quot;(M)&quot;;
       		}
-
       		if (squad[i] == 'ahkchungwang') {
       			tank = tank + 30;
       			dps = dps + 30;
       			buff = buff + 3;
+	      		attacktype = &quot;(P)&quot;;
       		}
       		if (squad[i] == 'kael') {
       			tank = tank + 30;
       			dps = dps + 30;
+	      		attacktype = &quot;(P)&quot;;
       		}
       		if (squad[i] == 'baeklicheon') {
       			tank = tank + 30;
       			dps = dps + 30;
       			heal = heal + 5;
+	      		attacktype = &quot;(M)&quot;;
       		}
       		if (squad[i] == 'grace') {
       			tank = tank + 30;
       			dps = dps + 30;
+	      		attacktype = &quot;(P)&quot;;
       		}
       		if (squad[i] == 'iri') {
       			tank = tank + 30;
       			dps = dps + 30;
+	      		attacktype = &quot;(M)&quot;;
       		}
-
-
       		if (squad[i] == 'gwen') {
       			dps = dps + 40;
+	      		attacktype = &quot;(P)&quot;;
       		}
       		if (squad[i] == 'jade') {
       			dps = dps + 40;
+	      		attacktype = &quot;(P)&quot;;
       		}
       		if (squad[i] == 'isha') {
       			dps = dps + 40;
+	      		attacktype = &quot;(P)&quot;;
       		}
       		if (squad[i] == 'julia') {
       			dps = dps + 40;
+	      		attacktype = &quot;(P)&quot;;
       		}
       		if (squad[i] == 'maseolin') {
       			dps = dps + 40;
+	      		attacktype = &quot;(M)&quot;;
       		}
       		if (squad[i] == 'lily') {
       			dps = dps + 40;
+	      		attacktype = &quot;(P)&quot;;
       		}
       		if (squad[i] == 'wolyung') {
       			dps = dps + 40;
+	      		attacktype = &quot;(M)&quot;;
       		}
       		if (squad[i] == 'jaegalwoon') {
       			dps = dps + 40;
       			buff = buff + 3;
+	      		attacktype = &quot;(P)&quot;;
       		}
       		if (squad[i] == 'varia') {
       			dps = dps + 40;
+	      		attacktype = &quot;(P)&quot;;
       		}
-
       		if (squad[i] == 'leejiyeon') {
       			heal = heal + 40;
       			dps = dps + 5;
       			buff = buff + 3;
+	      		attacktype = &quot;(M)&quot;;
       		}
       		if (squad[i] == 'dice') {
       			heal = heal + 35;
       			buff = buff + 5;
       			dps = dps + 5;
+	      		attacktype = &quot;(M)&quot;;
       		}
       		if (squad[i] == 'claire') {
       			dps = dps + 10;
       			heal = heal + 20;
       			dps = dps + 5;
       			buff = buff + 3;
+	      		attacktype = &quot;(M)&quot;;
       		}
       		if (squad[i] == 'aaren') {
       			buff = buff + 40;
       			heal = heal + 10;
       			dps = dps + 5;
+	      		attacktype = &quot;(M)&quot;;
       		}
       		if (squad[i] == 'yeryungsuhwa') {
       			buff = buff + 40;
       			dps = dps + 10;
+	      		attacktype = &quot;(M)&quot;;
       		}
       		if (squad[i] == 'hwangbopae') {
       			buff = buff + 10;
       			dps = dps + 10;
+	      		attacktype = &quot;(M)&quot;;
       		}
       		if (squad[i] == 'scarlett') {
       			heal = heal + 20;
       			buff = buff + 10;
       			dps = dps + 20;
+	      		attacktype = &quot;(M)&quot;;
       		}
       		if (squad[i] == 'occasio') {
       			dps = dps + 40;
       			heal = heal + 3;
       			buff = buff + 3;
+	      		attacktype = &quot;(M)&quot;;
       		}
       		if (squad[i] == 'maeho') {
       			dps = dps + 40;
       			buff = buff + 5;
+	      		attacktype = &quot;(M)&quot;;
       		}
       		if (squad[i] == 'aqua') {
       			dps = dps + 40;
+	      		attacktype = &quot;(P)&quot;;
       		}
       		if (squad[i] == 'yeonhwa') {
       			buff = buff + 40;
       			heal = heal + 10;
       			dps = dps + 5;
+	      		attacktype = &quot;(M)&quot;;
       		}
       		if (squad[i] == 'jaegalmageon') {
       			dps = dps + 25;
       			tank = tank + 30;
       			buff = buff + 35;
+	      		attacktype = &quot;(M)&quot;;
       		}
 
 
+      		// only add the M or P if nothing already there
+      		var col = i + 1;
+      		var lastchar = $('.squadrow&gt;td:nth-child('+col+')').html().slice(-1);;
+      		if ( (lastchar != ')') &amp;&amp; (lastchar != null) ) {
+      			$('.squadrow&gt;td:nth-child('+col+')').append(&quot;&lt;br&gt;&quot;+attacktype);
+      		}
+	
       	}
       	if (tank &gt; 100) { tank = 100; }
       	if (dps &gt; 100) { dps = 100; }
@@ -1190,13 +1229,23 @@ In June 2019 side quests changed and the strategy now is to go as crazy as you c
 
 &lt;h2 id=&quot;best-heroes&quot;&gt;Best Heroes&lt;/h2&gt;
 
-&lt;p&gt;What heroes are great? What heroes should I work on? Nobody knows yet. The game is too new to know. So for now they are all great so pick one you like and gets you excited to play. If you can’t decide, a good strategy is to work on Dean, Gwen, Claire, and JaeglWoon since these are your starter heroes and there seems to be plenty of hero pieces for them to help you upgrade, and these heroes are great.&lt;/p&gt;
+&lt;p&gt;What heroes are great? What heroes should I work on? I don’t think we know yet. Many high level players will say whoever you focus on is who will be great. And it’s really hard to max out a hero so there’s always room to improve someone.&lt;/p&gt;
 
-&lt;p&gt;Now with that said, if you can score a hero specific weapon in the early-mid game, that hero will have significant strength over your other heroes. So I would use that hero to carry you through missions. You can get hero specific weapons through the daily free summon shop, or from crafting.&lt;/p&gt;
+&lt;p&gt;Some notable heroes:&lt;/p&gt;
 
-&lt;p&gt;In fact what most high level players use is the hero they have the best gear for. You can get them some pretty sweet gear in the summon shop, using crystals to summon a 10 pack. And if you&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Dean&lt;/strong&gt; is your starting hero. He’s a great tank, has a high damage output for a tank, and his hero pieces are plentiful, so it’s easy to upgrade him. This is a great one to use early on all the way through the game.&lt;/p&gt;
 
-&lt;p&gt;So the best heroes are simply the ones you put the most effort into. The better equipment, higher level, most evolved heroes will do much better than heroes with significantly less combat power. And in the late game it’s really hard to max a hero out to max level and max gear. There’s always a little more you can do. So really, find ones you love their style and gameplay and choose them to gear up on and they’ll be great.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;LeeJiyeon&lt;/strong&gt; is one of the most used heroes. That is because she’s an exceptional healer, doing huge AoE heals. Not to mention she’s good at staying alive and can produce a recognizable amount of damage.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Yeonhwa&lt;/strong&gt; and &lt;strong&gt;Aaren&lt;/strong&gt; are two support heroes. They can significantly buff your team and debuff enemies. A lot of high level players put one or the other in their squad to help keep your squishy assassins alive and help the battle as a support hero. See a &lt;a href=&quot;/elchronicle-hero-comparison/&quot;&gt;comparison&lt;/a&gt; of the two at the bottom of that page.&lt;/p&gt;
+
+&lt;h2 id=&quot;who-to-pick&quot;&gt;Who to pick&lt;/h2&gt;
+
+&lt;p&gt;Pick a hero you think is cool. They look cool, have cool moves, whatever. Because once you find someone you like, you can then form a squad to make them work. Look at the &lt;a href=&quot;/elchronicle-squad-builder/&quot;&gt;squad builder&lt;/a&gt; to help decide how to balance a squad.&lt;/p&gt;
+
+&lt;p&gt;To give a hero an early to mid game advantage, craft the hero weapon for them. This is the weapon that goes in the bottom left slot. For about 100 hero pieces, 500k gold, and 90k raid points you can make one. Or you can get lucky and summon one from the summon shop. This weapon gives the hero a new skill as well as a whole bunch of great stats. You’ll see significant improvement when you get one.&lt;/p&gt;
+
+&lt;p&gt;Your best hero is the hero with the best equipment, highest level, and most upgraded/evolved/awoken. And just when players start reaching the highest levels the game devs increase the caps. So there’s alway room to improve the heroes.&lt;/p&gt;
 
 &lt;p&gt;It’s a significant investment to get a hero all the way to awakened 1. So play around with a bunch at 4 or 5 star to see how they fair and if you like them enough to invest in them.&lt;/p&gt;
 
@@ -1218,9 +1267,13 @@ In June 2019 side quests changed and the strategy now is to go as crazy as you c
 
 &lt;p&gt;So you might as well go nuts and recruit every hero from the Inn when you get a chance. Don’t worry about bad heroes interrupting your adventures. First I’ve noticed that the top heroes join in on those interrupts, not level 1s. Second, there’s more benefits to having a bunch of heroes.&lt;/p&gt;
 
+&lt;p&gt;See some &lt;a href=&quot;/elchronicle-squad-builds/&quot;&gt;sample squad builds&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Try playing with the &lt;a href=&quot;/elchronicle-squad-builder/&quot;&gt;squad builder&lt;/a&gt;.&lt;/p&gt;
+
 &lt;h2 id=&quot;types-of-heroes&quot;&gt;Types of Heroes&lt;/h2&gt;
 
-&lt;p&gt;There are 4 types of heroes. Warrior, DPS (Assassins), Supporter, and Specialist. Warriors are tanks, they are who you want to get hit during battle as they should have a lot of HP and def. Assassins are going to do the most damage, taking down targets quickly. And Supporters and Specialists are a mix. They might be healers, buffers, offensive tanks, or some mix of that.&lt;/p&gt;
+&lt;p&gt;There are 4 types of heroes. Warrior, Assassins, Supporter, and Specialist. Warriors are tanks, they are who you want to get hit during battle as they should have a lot of HP and def. Assassins are going to do the most damage, taking down targets quickly. And Supporters and Specialists are a mix. They might be healers, buffers, offensive tanks, or some mix of that.&lt;/p&gt;
 
 &lt;h4 id=&quot;tanks&quot;&gt;Tanks&lt;/h4&gt;
 

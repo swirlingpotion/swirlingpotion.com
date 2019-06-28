@@ -137,6 +137,8 @@
 	</tr>
 </table>
 
+<p>(P) = does physical damage. (M) = does magic damage.</p>
+
 <p>When building a squad, click evaluate too see how they fair in each category. A well formed team should be at least 50% in tank, dps, heals. From there you can decide if you want to help support the team more with a buffer/debuffer or go heavy on DPS.</p>
 
 <p>Note: this evaluation is not an accurate evaluation of your team. It’s just to help conceptualize where your teams strengths and weaknesses are and to give you a <strong>very rough</strong> idea how your team is doing.</p>
@@ -286,151 +288,188 @@ Click a hero below to add it to your squad.</p>
       	var dps = 0;
       	var heal = 0;
       	var buff = 0;
+      	var attacktype = "";
       	for (var i = squad.length - 1; i >= 0; i--) {
       		if (squad[i] == 'dean') {
       			tank = tank + 40;
       			dps = dps + 10;
+      			attacktype = "(P)";
       		}
       		if (squad[i] == 'richard') {
       			tank = tank + 40;
       			dps = dps + 10;
       			buff = buff + 5;
+      			attacktype = "(P)";
       		}
       		if (squad[i] == 'mubu') {
       			tank = tank + 40;
       			dps = dps + 10;
       			heal = heal + 5;
+	      		attacktype = "(M)";
       		}
       		if (squad[i] == 'paenggeumbo') {
       			tank = tank + 40;
       			dps = dps + 10;
+	      		attacktype = "(P)";
       		}
       		if (squad[i] == 'jango') {
       			tank = tank + 40;
       			dps = dps + 5;
       			buff = buff + 3;
+	      		attacktype = "(P)";
       		}
       		if (squad[i] == 'reinhardt') {
       			tank = tank + 40;
       			dps = dps + 10;
+	      		attacktype = "(P)";
       		}
       		if (squad[i] == 'markon') {
       			tank = tank + 40;
       			dps = dps + 10;
       			buff = buff + 5;
+	      		attacktype = "(M)";
       		}
-
       		if (squad[i] == 'ahkchungwang') {
       			tank = tank + 30;
       			dps = dps + 30;
       			buff = buff + 3;
+	      		attacktype = "(P)";
       		}
       		if (squad[i] == 'kael') {
       			tank = tank + 30;
       			dps = dps + 30;
+	      		attacktype = "(P)";
       		}
       		if (squad[i] == 'baeklicheon') {
       			tank = tank + 30;
       			dps = dps + 30;
       			heal = heal + 5;
+	      		attacktype = "(M)";
       		}
       		if (squad[i] == 'grace') {
       			tank = tank + 30;
       			dps = dps + 30;
+	      		attacktype = "(P)";
       		}
       		if (squad[i] == 'iri') {
       			tank = tank + 30;
       			dps = dps + 30;
+	      		attacktype = "(M)";
       		}
-
-
       		if (squad[i] == 'gwen') {
       			dps = dps + 40;
+	      		attacktype = "(P)";
       		}
       		if (squad[i] == 'jade') {
       			dps = dps + 40;
+	      		attacktype = "(P)";
       		}
       		if (squad[i] == 'isha') {
       			dps = dps + 40;
+	      		attacktype = "(P)";
       		}
       		if (squad[i] == 'julia') {
       			dps = dps + 40;
+	      		attacktype = "(P)";
       		}
       		if (squad[i] == 'maseolin') {
       			dps = dps + 40;
+	      		attacktype = "(M)";
       		}
       		if (squad[i] == 'lily') {
       			dps = dps + 40;
+	      		attacktype = "(P)";
       		}
       		if (squad[i] == 'wolyung') {
       			dps = dps + 40;
+	      		attacktype = "(M)";
       		}
       		if (squad[i] == 'jaegalwoon') {
       			dps = dps + 40;
       			buff = buff + 3;
+	      		attacktype = "(P)";
       		}
       		if (squad[i] == 'varia') {
       			dps = dps + 40;
+	      		attacktype = "(P)";
       		}
-
       		if (squad[i] == 'leejiyeon') {
       			heal = heal + 40;
       			dps = dps + 5;
       			buff = buff + 3;
+	      		attacktype = "(M)";
       		}
       		if (squad[i] == 'dice') {
       			heal = heal + 35;
       			buff = buff + 5;
       			dps = dps + 5;
+	      		attacktype = "(M)";
       		}
       		if (squad[i] == 'claire') {
       			dps = dps + 10;
       			heal = heal + 20;
       			dps = dps + 5;
       			buff = buff + 3;
+	      		attacktype = "(M)";
       		}
       		if (squad[i] == 'aaren') {
       			buff = buff + 40;
       			heal = heal + 10;
       			dps = dps + 5;
+	      		attacktype = "(M)";
       		}
       		if (squad[i] == 'yeryungsuhwa') {
       			buff = buff + 40;
       			dps = dps + 10;
+	      		attacktype = "(M)";
       		}
       		if (squad[i] == 'hwangbopae') {
       			buff = buff + 10;
       			dps = dps + 10;
+	      		attacktype = "(M)";
       		}
       		if (squad[i] == 'scarlett') {
       			heal = heal + 20;
       			buff = buff + 10;
       			dps = dps + 20;
+	      		attacktype = "(M)";
       		}
       		if (squad[i] == 'occasio') {
       			dps = dps + 40;
       			heal = heal + 3;
       			buff = buff + 3;
+	      		attacktype = "(M)";
       		}
       		if (squad[i] == 'maeho') {
       			dps = dps + 40;
       			buff = buff + 5;
+	      		attacktype = "(M)";
       		}
       		if (squad[i] == 'aqua') {
       			dps = dps + 40;
+	      		attacktype = "(P)";
       		}
       		if (squad[i] == 'yeonhwa') {
       			buff = buff + 40;
       			heal = heal + 10;
       			dps = dps + 5;
+	      		attacktype = "(M)";
       		}
       		if (squad[i] == 'jaegalmageon') {
       			dps = dps + 25;
       			tank = tank + 30;
       			buff = buff + 35;
+	      		attacktype = "(M)";
       		}
 
 
+      		// only add the M or P if nothing already there
+      		var col = i + 1;
+      		var lastchar = $('.squadrow>td:nth-child('+col+')').html().slice(-1);;
+      		if ( (lastchar != ')') && (lastchar != null) ) {
+      			$('.squadrow>td:nth-child('+col+')').append("<br>"+attacktype);
+      		}
+	
       	}
       	if (tank > 100) { tank = 100; }
       	if (dps > 100) { dps = 100; }
