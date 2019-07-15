@@ -4,13 +4,92 @@
  <title>Swirling Potion</title>
  <link href="https://swirlingpotion.com/atom.xml" rel="self"/>
  <link href="https://swirlingpotion.com/"/>
- <updated>2019-06-27T22:09:19-07:00</updated>
+ <updated>2019-07-15T16:17:06-07:00</updated>
  <id>https://swirlingpotion.com</id>
  <author>
    <name>Dark Wraith</name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>Hero JaegleMageon</title>
+   <link href="https://swirlingpotion.com/elchronicle-jaegalmageon/"/>
+   <updated>2019-07-15T00:00:00-07:00</updated>
+   <id>https://swirlingpotion.com/elchronicle-jaegalmageon</id>
+   <content type="html">&lt;p&gt;What is Jaegalmageon? A support hero? Yes. A tank? Yes. A DPS? Yes. When built right, he can do it all.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/public/images/mageon.png&quot; width=&quot;400px&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The thing about Mageon is that he needs a lot of investment to make him good. Given the right equipment and awakened, he can really shine though.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/public/images/jaegalmageon3.png&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Jaice who has the top Mageon on USEast explained how to use him properly. First let’s examine his skillset.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Skills&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Exploitation Pentacle&lt;/strong&gt; is an AoE DoT. Enemies within the pentagram get damaged over time and have reduced attack %. Heroes within the pentagram gain increased attack %.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Summon Tyrant&lt;/strong&gt; summons a ghoul to fight with you. The ghoul is a tank. It taunts and has a nice attack.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Dark Pentacle&lt;/strong&gt; Another AoE DoT. When this one is complete it causes fear.&lt;/p&gt;
+
+&lt;p&gt;There’s also a notable trait which will fear the closest 2 enemies, and upon awakening he will have a passive skill that does a mapwide defense debuff to all enemies.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Build&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;The first step to a good Mageon is to focus on his skill cooldowns. Because here’s his secret. He can bring his spell cooldowns low enough to have multiple demons summoned at once and pretty much spam fear.&lt;/p&gt;
+
+&lt;p&gt;And the easiest place to do that is with runes.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/public/images/breezerune.png&quot; height=&quot;400px&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;It’s worth investing in these runes.&lt;/p&gt;
+
+&lt;p&gt;Rack up some honor, go to honor shop and purchase some breeze runes. You’re looking for a SS T4 evasion + cooldown breeze rune. That’s ideal for him.&lt;/p&gt;
+
+&lt;p&gt;Just one of these maxed out at T4 alone will allow you to have 2 ghouls up at once for a second. Then expand your rune slots to allow you wear multiples and keep piling on the runes. And in the mean time upgrade the tiers of the runes to T5 which gives you more. Eventually you can have 3 T5 runes giving you a full 24.6% cooldown reduction. Now your Mageon is starting to show potential. Summoning ghouls that last 29 seconds every 23 seconds.&lt;/p&gt;
+
+&lt;p&gt;But don’t stop there, you can look for rings and weapons with cooldown too.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/public/images/mageonstaff.png&quot; height=&quot;400px&quot; /&gt;
+&lt;img src=&quot;/public/images/mageonring.png&quot; height=&quot;400px&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Eventually you can build your Mageon to look like this:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/public/images/jaegalmageon2.png&quot; height=&quot;400px&quot; /&gt;
+&lt;img src=&quot;/public/images/jaegalmageon4.png&quot; height=&quot;400px&quot; /&gt;
+&lt;img src=&quot;/public/images/jaegalmageon5.png&quot; height=&quot;400px&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Look at that a whopping &lt;strong&gt;40.2%&lt;/strong&gt; skill cooldown!&lt;/p&gt;
+
+&lt;p&gt;On armor go for crit/crit dmg/def pen/skill dmg. Depends what you want though.&lt;/p&gt;
+
+&lt;p&gt;A great equipment set for him is the &lt;strong&gt;Furious Hydra Set&lt;/strong&gt;. Once you get him in that, his cooldown down, his unique weapon, and awakened, your JaegalMageon is now looking sharp.&lt;/p&gt;
+
+&lt;p&gt;Ultimately this makes JaegalMageon an offensive support hero. With all the crowd control he does and his decent attacks, you’ll see him putting up good numbers of damage on the board and your heroes lasting longer in battle. You could consider him a carry hero. Or if you played everquest he’s similar to an enchanter with all the mezzes, summons, and cc.&lt;/p&gt;
+
+&lt;h2 id=&quot;playstyle&quot;&gt;Playstyle&lt;/h2&gt;
+
+&lt;p&gt;With this build you can see:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;2 ghouls up at once. Both taunting and jumping around. This offers some pretty good crowd control. Keeping enemies off precious heroes.&lt;/li&gt;
+  &lt;li&gt;Quickly casting DoT attacks which can do significant damage if the full DoT completes.&lt;/li&gt;
+  &lt;li&gt;Will be constantly fearing enemies, which offers great crowd control. Reducing the need for heals or heroes getting hit.&lt;/li&gt;
+  &lt;li&gt;His awakening passive reduces defense for enemies on the whole map. (Some say this only goes into effect when he’s the leader)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;squad&quot;&gt;Squad&lt;/h2&gt;
+
+&lt;p&gt;If searching for that perfect ring or weapon for Mageon you’ll need a LOT of 10x summons. If you do that, you won’t be able to get a lot of equipment for other specialists or even offensive tankers (since they share the same category for summoning as Mageon). So you may want to not choose other specialists or offensive tankers in your Mageon party.&lt;/p&gt;
+
+&lt;p&gt;Other than that, go for the classic tank + dps + healer + mageon + your choice.&lt;/p&gt;
+
+&lt;p&gt;Thanks Jaice from USEast for helping me write this guide.&lt;/p&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Squad Builder</title>
@@ -77,14 +156,16 @@
 &lt;p&gt;&lt;br /&gt;&lt;br /&gt;
 Click a hero below to add it to your squad.&lt;/p&gt;
 
-&lt;p&gt;Tanks:&lt;br /&gt;
+&lt;p&gt;Defensive Tanks:&lt;br /&gt;
 &lt;img class=&quot;selectable&quot; id=&quot;dean&quot; src=&quot;/public/images/dean.jpg&quot; alt=&quot;Dean&quot; width=&quot;100px&quot; /&gt;
 &lt;img class=&quot;selectable&quot; id=&quot;richard&quot; src=&quot;/public/images/richard.jpg&quot; alt=&quot;Richard&quot; width=&quot;100px&quot; /&gt;
 &lt;img class=&quot;selectable&quot; id=&quot;mubu&quot; src=&quot;/public/images/mubu.jpg&quot; width=&quot;100px&quot; /&gt;
 &lt;img class=&quot;selectable&quot; id=&quot;markon&quot; src=&quot;/public/images/markon.jpg&quot; width=&quot;100px&quot; /&gt;
 &lt;img class=&quot;selectable&quot; id=&quot;paenggeumbo&quot; src=&quot;/public/images/paenggeumbo.jpg&quot; width=&quot;100px&quot; /&gt;
 &lt;img class=&quot;selectable&quot; id=&quot;reinhardt&quot; src=&quot;/public/images/reinhardt.jpg&quot; width=&quot;100px&quot; /&gt;
-&lt;img class=&quot;selectable&quot; id=&quot;jango&quot; src=&quot;/public/images/jango.jpg&quot; width=&quot;100px&quot; /&gt;
+&lt;img class=&quot;selectable&quot; id=&quot;jango&quot; src=&quot;/public/images/jango.jpg&quot; width=&quot;100px&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Offensive Tanks:&lt;br /&gt;
 &lt;img class=&quot;selectable&quot; id=&quot;ahkchungwang&quot; src=&quot;/public/images/ahkchungwang.jpg&quot; width=&quot;100px&quot; /&gt;
 &lt;img class=&quot;selectable&quot; id=&quot;kael&quot; src=&quot;/public/images/kael.jpg&quot; width=&quot;100px&quot; /&gt;
 &lt;img class=&quot;selectable&quot; id=&quot;baeklicheon&quot; src=&quot;/public/images/baeklicheon.jpg&quot; width=&quot;100px&quot; /&gt;
@@ -1239,6 +1320,40 @@ In June 2019 side quests changed and the strategy now is to go as crazy as you c
 
 &lt;p&gt;&lt;strong&gt;Yeonhwa&lt;/strong&gt; and &lt;strong&gt;Aaren&lt;/strong&gt; are two support heroes. They can significantly buff your team and debuff enemies. A lot of high level players put one or the other in their squad to help keep your squishy assassins alive and help the battle as a support hero. See a &lt;a href=&quot;/elchronicle-hero-comparison/&quot;&gt;comparison&lt;/a&gt; of the two at the bottom of that page.&lt;/p&gt;
 
+&lt;h2 id=&quot;easy-heroes-vs-hard-heroes&quot;&gt;Easy Heroes vs Hard Heroes&lt;/h2&gt;
+
+&lt;p&gt;Hero pieces don’t drop at the same rate for all heroes. Some heroes get an abundant amount of hero pieces just by adventuring naturally, while other heroes have no pieces drop and you have to seek alternative ways to find them. Heros that have a low drop rate on hero pieces are harder to evolve. If you consider that you need about 2,000 hero pieces to max one to 6 stars then another 1500 pieces to awaken them, that’s a lot of pieces. And if you have a hard time finding those pieces that hero will progress slower than others.&lt;/p&gt;
+
+&lt;p&gt;High drop rate hero pieces (these heroes come across pieces very easily):&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Dean&lt;/li&gt;
+  &lt;li&gt;LeeJiyeon&lt;/li&gt;
+  &lt;li&gt;Claire&lt;/li&gt;
+  &lt;li&gt;Gwen&lt;/li&gt;
+  &lt;li&gt;JaegalWoon&lt;/li&gt;
+  &lt;li&gt;Maeho&lt;/li&gt;
+  &lt;li&gt;Aaren&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Low/no drop rate hero pieces (these heroes will only find pieces by doing unique hero quests, side story, buy from the shop, or daily mission):&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Jango&lt;/li&gt;
+  &lt;li&gt;Aqua&lt;/li&gt;
+  &lt;li&gt;YeryungSuhwa&lt;/li&gt;
+  &lt;li&gt;Mubu&lt;/li&gt;
+  &lt;li&gt;MaSeolin&lt;/li&gt;
+  &lt;li&gt;Isha&lt;/li&gt;
+  &lt;li&gt;Wolyung&lt;/li&gt;
+  &lt;li&gt;Scarlett&lt;/li&gt;
+  &lt;li&gt;Jade&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The rest of the heroes have a medium drop rate.&lt;/p&gt;
+
+&lt;p&gt;The other thing to keep in mind when picking a squad is that you want to save up your gems to do a 10x summon from the summon shop. This is where you will be potentially getting T6 items for your squad. But you can only choose 1 hero from each category to summon equipment for. So if your squad is made of 4 assassins let’s say, you will have a hard time getting equipment for all of them, since you can only pick 1 assassin at a time to do the summon shop on.&lt;/p&gt;
+
 &lt;h2 id=&quot;who-to-pick&quot;&gt;Who to pick&lt;/h2&gt;
 
 &lt;p&gt;Pick a hero you think is cool. They look cool, have cool moves, whatever. Because once you find someone you like, you can then form a squad to make them work. Look at the &lt;a href=&quot;/elchronicle-squad-builder/&quot;&gt;squad builder&lt;/a&gt; to help decide how to balance a squad.&lt;/p&gt;
@@ -1384,11 +1499,33 @@ In June 2019 side quests changed and the strategy now is to go as crazy as you c
 
 &lt;h2 id=&quot;upgrading&quot;&gt;Upgrading&lt;/h2&gt;
 
-&lt;p&gt;Before you can Evolve a hero you have to upgrade them to the max. To upgrade a hero you need hero pieces. These can be acquired through adventuring, achievements, or bought in a shop.&lt;/p&gt;
+&lt;p&gt;Before you can Evolve a hero you have to upgrade them to the max. To upgrade a hero you need hero pieces. These can be acquired through adventuring, achievements, side quests, or bought in a shop.&lt;/p&gt;
 
 &lt;p&gt;Under your hero, click upgrade. If you have enough pieces and gold you can upgrade them. Each +1 they are upgraded their base stats rise and they become buffer.&lt;/p&gt;
 
-&lt;p&gt;A quick way to get a bunch of hero pieces is to complete that heroes challenges. Go to Event &amp;gt; Achievement &amp;gt; Challenge and select the hero. Here you will see a bunch of quests for them to do which rewards you with hero pieces.&lt;/p&gt;
+&lt;p&gt;Places to farm hero pieces:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Event &amp;gt; Achievement &amp;gt; Challenge. Select the hero and complete these quests.&lt;/li&gt;
+  &lt;li&gt;Inn &amp;gt; Request Center &amp;gt; Side Story. Select hero and complete these quests.&lt;/li&gt;
+  &lt;li&gt;Challenge &amp;gt; Mission &amp;gt; Hero Battle. Whatever hero you use to battle with you will get those hero pieces.&lt;/li&gt;
+  &lt;li&gt;Raid &amp;gt; Raid Station. Some raids give hero pieces. Not all hero pieces drop here.&lt;/li&gt;
+  &lt;li&gt;Once you get to Forbidden Prison you can see repeatable stages that drop hero pieces. Not all hero pieces drop here.&lt;/li&gt;
+  &lt;li&gt;Buy hero pieces from the Honor and Raid shop.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Once you collect hero pieces you can use them to upgrade your hero.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;To max a 1 star hero: 5 pieces / 2.5k gold&lt;/li&gt;
+  &lt;li&gt;To max a 2 star hero: 24 pieces / 15k gold&lt;/li&gt;
+  &lt;li&gt;To max a 3 star hero: 100 pieces / 100k gold&lt;/li&gt;
+  &lt;li&gt;To max a 4 star hero: 288 pieces / 420k gold&lt;/li&gt;
+  &lt;li&gt;To max a 5 star hero: ? pieces&lt;/li&gt;
+  &lt;li&gt;To max a 6 star hero: 1200 pieces / 1.7M gold&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Hero pieces are also used in upgrading skills after level 40, crafting armor, and awakening a hero.&lt;/p&gt;
 
 &lt;h2 id=&quot;evolving&quot;&gt;Evolving&lt;/h2&gt;
 
@@ -1404,15 +1541,19 @@ In June 2019 side quests changed and the strategy now is to go as crazy as you c
   &lt;li&gt;6 stars - gain 3rd passive skill&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;&lt;strong&gt;Vines&lt;/strong&gt; and &lt;strong&gt;Tearblooms&lt;/strong&gt; are farmable from many of the adventure missions. The other ingredients are farmable in later missions but only will allow you to do it a few times a day. You may also get ingredients from the challenge missions. Stock up on all ingredients because upgrading is really expensive.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Vines&lt;/strong&gt; and &lt;strong&gt;Tearblooms&lt;/strong&gt; are easily farmable from many of the adventure missions. The other ingredients are farmable in later missions but only will allow you to do it a few times a day. You may also get ingredients from the challenge missions. Stock up on all ingredients because upgrading is really expensive.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Cost to evolve 1 star to 2 star: 10k&lt;/li&gt;
+  &lt;li&gt;Cost to evolve 2 star to 3 star: 30k&lt;/li&gt;
+  &lt;li&gt;Cost to evolve 3 star to 4 star: 90k&lt;/li&gt;
+  &lt;li&gt;Cost to evolve 4 star to 5 star: 300k&lt;/li&gt;
+  &lt;li&gt;Cost to evolve 5 star to 6 star: 900k&lt;/li&gt;
+&lt;/ul&gt;
 
 &lt;h2 id=&quot;awakening&quot;&gt;Awakening&lt;/h2&gt;
 
 &lt;p&gt;After a hero reaches 6 stars they can be awakened. There are 3 stages to awakening W1, W2, and W3. This is extremely expensive to accomplish and will take quite a while. But awakened heroes will gain more in base stats, be allowed to level higher (up to 80), and open more abilities.&lt;/p&gt;
-
-&lt;h2 id=&quot;hero-challenges&quot;&gt;Hero Challenges&lt;/h2&gt;
-
-&lt;p&gt;A great way to get upgrade pieces for heroes is to do the Hero Challenges. you Can find this under the &lt;code class=&quot;highlighter-rouge&quot;&gt;Event&lt;/code&gt; &amp;gt; &lt;code class=&quot;highlighter-rouge&quot;&gt;Achievement&lt;/code&gt; &amp;gt; &lt;code class=&quot;highlighter-rouge&quot;&gt;Challenges&lt;/code&gt; menu. You can earn hundreds of hero pieces, hundreds of thousands of gold, and tons of upgrade materials. In this is such a great place that whenever I get a new hero from the Inn I’ll run them through 3 or 4 challenges to quickly get them starred up. A few quick exp potions a suit of armor and they are ready to join the squad.&lt;/p&gt;
 
 &lt;h2 id=&quot;side-quests&quot;&gt;Side Quests&lt;/h2&gt;
 
@@ -1433,6 +1574,10 @@ In June 2019 side quests changed and the strategy now is to go as crazy as you c
 &lt;h2 id=&quot;squads&quot;&gt;Squads&lt;/h2&gt;
 
 &lt;p&gt;See the &lt;a href=&quot;/elchronicle-squad-builds/&quot;&gt;squad builds&lt;/a&gt; of some other players to see what people are using.&lt;/p&gt;
+
+&lt;h2 id=&quot;squad-builder&quot;&gt;Squad Builder&lt;/h2&gt;
+
+&lt;p&gt;See the &lt;a href=&quot;/elchronicle-squad-builder/&quot;&gt;squad builder&lt;/a&gt; to try playing around with building a squad.&lt;/p&gt;
 
 </content>
  </entry>

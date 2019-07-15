@@ -1,4 +1,74 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="https://swirlingpotion.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://swirlingpotion.com/" rel="alternate" type="text/html" /><updated>2019-06-27T22:09:19-07:00</updated><id>https://swirlingpotion.com/</id><title type="html">Swirling Potion</title><subtitle>Drink this.</subtitle><author><name>Dark Wraith</name></author><entry><title type="html">Squad Builder</title><link href="https://swirlingpotion.com/elchronicle-squad-builder/" rel="alternate" type="text/html" title="Squad Builder" /><published>2019-06-23T00:00:00-07:00</published><updated>2019-06-23T00:00:00-07:00</updated><id>https://swirlingpotion.com/elchronicle-squad-builder</id><content type="html" xml:base="https://swirlingpotion.com/elchronicle-squad-builder/">&lt;p&gt;A big part of playing El Chronicle is squad building. Trying new heroes and seeing how they fair in the group. This tool can help you conceptualize a squad.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="https://swirlingpotion.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://swirlingpotion.com/" rel="alternate" type="text/html" /><updated>2019-07-15T16:17:06-07:00</updated><id>https://swirlingpotion.com/</id><title type="html">Swirling Potion</title><subtitle>Drink this.</subtitle><author><name>Dark Wraith</name></author><entry><title type="html">Hero JaegleMageon</title><link href="https://swirlingpotion.com/elchronicle-jaegalmageon/" rel="alternate" type="text/html" title="Hero JaegleMageon" /><published>2019-07-15T00:00:00-07:00</published><updated>2019-07-15T00:00:00-07:00</updated><id>https://swirlingpotion.com/elchronicle-jaegalmageon</id><content type="html" xml:base="https://swirlingpotion.com/elchronicle-jaegalmageon/">&lt;p&gt;What is Jaegalmageon? A support hero? Yes. A tank? Yes. A DPS? Yes. When built right, he can do it all.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/public/images/mageon.png&quot; width=&quot;400px&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The thing about Mageon is that he needs a lot of investment to make him good. Given the right equipment and awakened, he can really shine though.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/public/images/jaegalmageon3.png&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Jaice who has the top Mageon on USEast explained how to use him properly. First let’s examine his skillset.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Skills&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Exploitation Pentacle&lt;/strong&gt; is an AoE DoT. Enemies within the pentagram get damaged over time and have reduced attack %. Heroes within the pentagram gain increased attack %.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Summon Tyrant&lt;/strong&gt; summons a ghoul to fight with you. The ghoul is a tank. It taunts and has a nice attack.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Dark Pentacle&lt;/strong&gt; Another AoE DoT. When this one is complete it causes fear.&lt;/p&gt;
+
+&lt;p&gt;There’s also a notable trait which will fear the closest 2 enemies, and upon awakening he will have a passive skill that does a mapwide defense debuff to all enemies.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Build&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;The first step to a good Mageon is to focus on his skill cooldowns. Because here’s his secret. He can bring his spell cooldowns low enough to have multiple demons summoned at once and pretty much spam fear.&lt;/p&gt;
+
+&lt;p&gt;And the easiest place to do that is with runes.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/public/images/breezerune.png&quot; height=&quot;400px&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;It’s worth investing in these runes.&lt;/p&gt;
+
+&lt;p&gt;Rack up some honor, go to honor shop and purchase some breeze runes. You’re looking for a SS T4 evasion + cooldown breeze rune. That’s ideal for him.&lt;/p&gt;
+
+&lt;p&gt;Just one of these maxed out at T4 alone will allow you to have 2 ghouls up at once for a second. Then expand your rune slots to allow you wear multiples and keep piling on the runes. And in the mean time upgrade the tiers of the runes to T5 which gives you more. Eventually you can have 3 T5 runes giving you a full 24.6% cooldown reduction. Now your Mageon is starting to show potential. Summoning ghouls that last 29 seconds every 23 seconds.&lt;/p&gt;
+
+&lt;p&gt;But don’t stop there, you can look for rings and weapons with cooldown too.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/public/images/mageonstaff.png&quot; height=&quot;400px&quot; /&gt;
+&lt;img src=&quot;/public/images/mageonring.png&quot; height=&quot;400px&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Eventually you can build your Mageon to look like this:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/public/images/jaegalmageon2.png&quot; height=&quot;400px&quot; /&gt;
+&lt;img src=&quot;/public/images/jaegalmageon4.png&quot; height=&quot;400px&quot; /&gt;
+&lt;img src=&quot;/public/images/jaegalmageon5.png&quot; height=&quot;400px&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Look at that a whopping &lt;strong&gt;40.2%&lt;/strong&gt; skill cooldown!&lt;/p&gt;
+
+&lt;p&gt;On armor go for crit/crit dmg/def pen/skill dmg. Depends what you want though.&lt;/p&gt;
+
+&lt;p&gt;A great equipment set for him is the &lt;strong&gt;Furious Hydra Set&lt;/strong&gt;. Once you get him in that, his cooldown down, his unique weapon, and awakened, your JaegalMageon is now looking sharp.&lt;/p&gt;
+
+&lt;p&gt;Ultimately this makes JaegalMageon an offensive support hero. With all the crowd control he does and his decent attacks, you’ll see him putting up good numbers of damage on the board and your heroes lasting longer in battle. You could consider him a carry hero. Or if you played everquest he’s similar to an enchanter with all the mezzes, summons, and cc.&lt;/p&gt;
+
+&lt;h2 id=&quot;playstyle&quot;&gt;Playstyle&lt;/h2&gt;
+
+&lt;p&gt;With this build you can see:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;2 ghouls up at once. Both taunting and jumping around. This offers some pretty good crowd control. Keeping enemies off precious heroes.&lt;/li&gt;
+  &lt;li&gt;Quickly casting DoT attacks which can do significant damage if the full DoT completes.&lt;/li&gt;
+  &lt;li&gt;Will be constantly fearing enemies, which offers great crowd control. Reducing the need for heals or heroes getting hit.&lt;/li&gt;
+  &lt;li&gt;His awakening passive reduces defense for enemies on the whole map. (Some say this only goes into effect when he’s the leader)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;squad&quot;&gt;Squad&lt;/h2&gt;
+
+&lt;p&gt;If searching for that perfect ring or weapon for Mageon you’ll need a LOT of 10x summons. If you do that, you won’t be able to get a lot of equipment for other specialists or even offensive tankers (since they share the same category for summoning as Mageon). So you may want to not choose other specialists or offensive tankers in your Mageon party.&lt;/p&gt;
+
+&lt;p&gt;Other than that, go for the classic tank + dps + healer + mageon + your choice.&lt;/p&gt;
+
+&lt;p&gt;Thanks Jaice from USEast for helping me write this guide.&lt;/p&gt;</content><author><name>Dark Wraith</name></author><summary type="html">What is Jaegalmageon? A support hero? Yes. A tank? Yes. A DPS? Yes. When built right, he can do it all.</summary></entry><entry><title type="html">Squad Builder</title><link href="https://swirlingpotion.com/elchronicle-squad-builder/" rel="alternate" type="text/html" title="Squad Builder" /><published>2019-06-23T00:00:00-07:00</published><updated>2019-06-23T00:00:00-07:00</updated><id>https://swirlingpotion.com/elchronicle-squad-builder</id><content type="html" xml:base="https://swirlingpotion.com/elchronicle-squad-builder/">&lt;p&gt;A big part of playing El Chronicle is squad building. Trying new heroes and seeing how they fair in the group. This tool can help you conceptualize a squad.&lt;/p&gt;
 
 &lt;table&gt;
 	&lt;tr class=&quot;squadrow&quot;&gt;
@@ -58,14 +128,16 @@
 &lt;p&gt;&lt;br /&gt;&lt;br /&gt;
 Click a hero below to add it to your squad.&lt;/p&gt;
 
-&lt;p&gt;Tanks:&lt;br /&gt;
+&lt;p&gt;Defensive Tanks:&lt;br /&gt;
 &lt;img class=&quot;selectable&quot; id=&quot;dean&quot; src=&quot;/public/images/dean.jpg&quot; alt=&quot;Dean&quot; width=&quot;100px&quot; /&gt;
 &lt;img class=&quot;selectable&quot; id=&quot;richard&quot; src=&quot;/public/images/richard.jpg&quot; alt=&quot;Richard&quot; width=&quot;100px&quot; /&gt;
 &lt;img class=&quot;selectable&quot; id=&quot;mubu&quot; src=&quot;/public/images/mubu.jpg&quot; width=&quot;100px&quot; /&gt;
 &lt;img class=&quot;selectable&quot; id=&quot;markon&quot; src=&quot;/public/images/markon.jpg&quot; width=&quot;100px&quot; /&gt;
 &lt;img class=&quot;selectable&quot; id=&quot;paenggeumbo&quot; src=&quot;/public/images/paenggeumbo.jpg&quot; width=&quot;100px&quot; /&gt;
 &lt;img class=&quot;selectable&quot; id=&quot;reinhardt&quot; src=&quot;/public/images/reinhardt.jpg&quot; width=&quot;100px&quot; /&gt;
-&lt;img class=&quot;selectable&quot; id=&quot;jango&quot; src=&quot;/public/images/jango.jpg&quot; width=&quot;100px&quot; /&gt;
+&lt;img class=&quot;selectable&quot; id=&quot;jango&quot; src=&quot;/public/images/jango.jpg&quot; width=&quot;100px&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Offensive Tanks:&lt;br /&gt;
 &lt;img class=&quot;selectable&quot; id=&quot;ahkchungwang&quot; src=&quot;/public/images/ahkchungwang.jpg&quot; width=&quot;100px&quot; /&gt;
 &lt;img class=&quot;selectable&quot; id=&quot;kael&quot; src=&quot;/public/images/kael.jpg&quot; width=&quot;100px&quot; /&gt;
 &lt;img class=&quot;selectable&quot; id=&quot;baeklicheon&quot; src=&quot;/public/images/baeklicheon.jpg&quot; width=&quot;100px&quot; /&gt;
@@ -1160,6 +1232,40 @@ In June 2019 side quests changed and the strategy now is to go as crazy as you c
 
 &lt;p&gt;&lt;strong&gt;Yeonhwa&lt;/strong&gt; and &lt;strong&gt;Aaren&lt;/strong&gt; are two support heroes. They can significantly buff your team and debuff enemies. A lot of high level players put one or the other in their squad to help keep your squishy assassins alive and help the battle as a support hero. See a &lt;a href=&quot;/elchronicle-hero-comparison/&quot;&gt;comparison&lt;/a&gt; of the two at the bottom of that page.&lt;/p&gt;
 
+&lt;h2 id=&quot;easy-heroes-vs-hard-heroes&quot;&gt;Easy Heroes vs Hard Heroes&lt;/h2&gt;
+
+&lt;p&gt;Hero pieces don’t drop at the same rate for all heroes. Some heroes get an abundant amount of hero pieces just by adventuring naturally, while other heroes have no pieces drop and you have to seek alternative ways to find them. Heros that have a low drop rate on hero pieces are harder to evolve. If you consider that you need about 2,000 hero pieces to max one to 6 stars then another 1500 pieces to awaken them, that’s a lot of pieces. And if you have a hard time finding those pieces that hero will progress slower than others.&lt;/p&gt;
+
+&lt;p&gt;High drop rate hero pieces (these heroes come across pieces very easily):&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Dean&lt;/li&gt;
+  &lt;li&gt;LeeJiyeon&lt;/li&gt;
+  &lt;li&gt;Claire&lt;/li&gt;
+  &lt;li&gt;Gwen&lt;/li&gt;
+  &lt;li&gt;JaegalWoon&lt;/li&gt;
+  &lt;li&gt;Maeho&lt;/li&gt;
+  &lt;li&gt;Aaren&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Low/no drop rate hero pieces (these heroes will only find pieces by doing unique hero quests, side story, buy from the shop, or daily mission):&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Jango&lt;/li&gt;
+  &lt;li&gt;Aqua&lt;/li&gt;
+  &lt;li&gt;YeryungSuhwa&lt;/li&gt;
+  &lt;li&gt;Mubu&lt;/li&gt;
+  &lt;li&gt;MaSeolin&lt;/li&gt;
+  &lt;li&gt;Isha&lt;/li&gt;
+  &lt;li&gt;Wolyung&lt;/li&gt;
+  &lt;li&gt;Scarlett&lt;/li&gt;
+  &lt;li&gt;Jade&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The rest of the heroes have a medium drop rate.&lt;/p&gt;
+
+&lt;p&gt;The other thing to keep in mind when picking a squad is that you want to save up your gems to do a 10x summon from the summon shop. This is where you will be potentially getting T6 items for your squad. But you can only choose 1 hero from each category to summon equipment for. So if your squad is made of 4 assassins let’s say, you will have a hard time getting equipment for all of them, since you can only pick 1 assassin at a time to do the summon shop on.&lt;/p&gt;
+
 &lt;h2 id=&quot;who-to-pick&quot;&gt;Who to pick&lt;/h2&gt;
 
 &lt;p&gt;Pick a hero you think is cool. They look cool, have cool moves, whatever. Because once you find someone you like, you can then form a squad to make them work. Look at the &lt;a href=&quot;/elchronicle-squad-builder/&quot;&gt;squad builder&lt;/a&gt; to help decide how to balance a squad.&lt;/p&gt;
@@ -1305,11 +1411,33 @@ In June 2019 side quests changed and the strategy now is to go as crazy as you c
 
 &lt;h2 id=&quot;upgrading&quot;&gt;Upgrading&lt;/h2&gt;
 
-&lt;p&gt;Before you can Evolve a hero you have to upgrade them to the max. To upgrade a hero you need hero pieces. These can be acquired through adventuring, achievements, or bought in a shop.&lt;/p&gt;
+&lt;p&gt;Before you can Evolve a hero you have to upgrade them to the max. To upgrade a hero you need hero pieces. These can be acquired through adventuring, achievements, side quests, or bought in a shop.&lt;/p&gt;
 
 &lt;p&gt;Under your hero, click upgrade. If you have enough pieces and gold you can upgrade them. Each +1 they are upgraded their base stats rise and they become buffer.&lt;/p&gt;
 
-&lt;p&gt;A quick way to get a bunch of hero pieces is to complete that heroes challenges. Go to Event &amp;gt; Achievement &amp;gt; Challenge and select the hero. Here you will see a bunch of quests for them to do which rewards you with hero pieces.&lt;/p&gt;
+&lt;p&gt;Places to farm hero pieces:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Event &amp;gt; Achievement &amp;gt; Challenge. Select the hero and complete these quests.&lt;/li&gt;
+  &lt;li&gt;Inn &amp;gt; Request Center &amp;gt; Side Story. Select hero and complete these quests.&lt;/li&gt;
+  &lt;li&gt;Challenge &amp;gt; Mission &amp;gt; Hero Battle. Whatever hero you use to battle with you will get those hero pieces.&lt;/li&gt;
+  &lt;li&gt;Raid &amp;gt; Raid Station. Some raids give hero pieces. Not all hero pieces drop here.&lt;/li&gt;
+  &lt;li&gt;Once you get to Forbidden Prison you can see repeatable stages that drop hero pieces. Not all hero pieces drop here.&lt;/li&gt;
+  &lt;li&gt;Buy hero pieces from the Honor and Raid shop.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Once you collect hero pieces you can use them to upgrade your hero.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;To max a 1 star hero: 5 pieces / 2.5k gold&lt;/li&gt;
+  &lt;li&gt;To max a 2 star hero: 24 pieces / 15k gold&lt;/li&gt;
+  &lt;li&gt;To max a 3 star hero: 100 pieces / 100k gold&lt;/li&gt;
+  &lt;li&gt;To max a 4 star hero: 288 pieces / 420k gold&lt;/li&gt;
+  &lt;li&gt;To max a 5 star hero: ? pieces&lt;/li&gt;
+  &lt;li&gt;To max a 6 star hero: 1200 pieces / 1.7M gold&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Hero pieces are also used in upgrading skills after level 40, crafting armor, and awakening a hero.&lt;/p&gt;
 
 &lt;h2 id=&quot;evolving&quot;&gt;Evolving&lt;/h2&gt;
 
@@ -1325,15 +1453,19 @@ In June 2019 side quests changed and the strategy now is to go as crazy as you c
   &lt;li&gt;6 stars - gain 3rd passive skill&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;&lt;strong&gt;Vines&lt;/strong&gt; and &lt;strong&gt;Tearblooms&lt;/strong&gt; are farmable from many of the adventure missions. The other ingredients are farmable in later missions but only will allow you to do it a few times a day. You may also get ingredients from the challenge missions. Stock up on all ingredients because upgrading is really expensive.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Vines&lt;/strong&gt; and &lt;strong&gt;Tearblooms&lt;/strong&gt; are easily farmable from many of the adventure missions. The other ingredients are farmable in later missions but only will allow you to do it a few times a day. You may also get ingredients from the challenge missions. Stock up on all ingredients because upgrading is really expensive.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Cost to evolve 1 star to 2 star: 10k&lt;/li&gt;
+  &lt;li&gt;Cost to evolve 2 star to 3 star: 30k&lt;/li&gt;
+  &lt;li&gt;Cost to evolve 3 star to 4 star: 90k&lt;/li&gt;
+  &lt;li&gt;Cost to evolve 4 star to 5 star: 300k&lt;/li&gt;
+  &lt;li&gt;Cost to evolve 5 star to 6 star: 900k&lt;/li&gt;
+&lt;/ul&gt;
 
 &lt;h2 id=&quot;awakening&quot;&gt;Awakening&lt;/h2&gt;
 
 &lt;p&gt;After a hero reaches 6 stars they can be awakened. There are 3 stages to awakening W1, W2, and W3. This is extremely expensive to accomplish and will take quite a while. But awakened heroes will gain more in base stats, be allowed to level higher (up to 80), and open more abilities.&lt;/p&gt;
-
-&lt;h2 id=&quot;hero-challenges&quot;&gt;Hero Challenges&lt;/h2&gt;
-
-&lt;p&gt;A great way to get upgrade pieces for heroes is to do the Hero Challenges. you Can find this under the &lt;code class=&quot;highlighter-rouge&quot;&gt;Event&lt;/code&gt; &amp;gt; &lt;code class=&quot;highlighter-rouge&quot;&gt;Achievement&lt;/code&gt; &amp;gt; &lt;code class=&quot;highlighter-rouge&quot;&gt;Challenges&lt;/code&gt; menu. You can earn hundreds of hero pieces, hundreds of thousands of gold, and tons of upgrade materials. In this is such a great place that whenever I get a new hero from the Inn I’ll run them through 3 or 4 challenges to quickly get them starred up. A few quick exp potions a suit of armor and they are ready to join the squad.&lt;/p&gt;
 
 &lt;h2 id=&quot;side-quests&quot;&gt;Side Quests&lt;/h2&gt;
 
@@ -1353,7 +1485,11 @@ In June 2019 side quests changed and the strategy now is to go as crazy as you c
 
 &lt;h2 id=&quot;squads&quot;&gt;Squads&lt;/h2&gt;
 
-&lt;p&gt;See the &lt;a href=&quot;/elchronicle-squad-builds/&quot;&gt;squad builds&lt;/a&gt; of some other players to see what people are using.&lt;/p&gt;</content><author><name>Dark Wraith</name></author><summary type="html">There are over 30 heroes in El Chronicle to choose from. Each hero has a unique set of skills and abilities and uses.</summary></entry><entry><title type="html">Equipment Tips and Strategies</title><link href="https://swirlingpotion.com/elchronicle-equipment/" rel="alternate" type="text/html" title="Equipment Tips and Strategies" /><published>2019-06-10T00:00:00-07:00</published><updated>2019-06-10T00:00:00-07:00</updated><id>https://swirlingpotion.com/elchronicle-equipment</id><content type="html" xml:base="https://swirlingpotion.com/elchronicle-equipment/">&lt;p&gt;Random tips, ideas, and strategies about the equipment in El Chronicle.&lt;/p&gt;
+&lt;p&gt;See the &lt;a href=&quot;/elchronicle-squad-builds/&quot;&gt;squad builds&lt;/a&gt; of some other players to see what people are using.&lt;/p&gt;
+
+&lt;h2 id=&quot;squad-builder&quot;&gt;Squad Builder&lt;/h2&gt;
+
+&lt;p&gt;See the &lt;a href=&quot;/elchronicle-squad-builder/&quot;&gt;squad builder&lt;/a&gt; to try playing around with building a squad.&lt;/p&gt;</content><author><name>Dark Wraith</name></author><summary type="html">There are over 30 heroes in El Chronicle to choose from. Each hero has a unique set of skills and abilities and uses.</summary></entry><entry><title type="html">Equipment Tips and Strategies</title><link href="https://swirlingpotion.com/elchronicle-equipment/" rel="alternate" type="text/html" title="Equipment Tips and Strategies" /><published>2019-06-10T00:00:00-07:00</published><updated>2019-06-10T00:00:00-07:00</updated><id>https://swirlingpotion.com/elchronicle-equipment</id><content type="html" xml:base="https://swirlingpotion.com/elchronicle-equipment/">&lt;p&gt;Random tips, ideas, and strategies about the equipment in El Chronicle.&lt;/p&gt;
 
 &lt;p&gt;Equipment as obtained from rewards in battle, raiding, doing challenges, completing requests, crafting, and the shop.&lt;/p&gt;
 
@@ -1480,119 +1616,4 @@ In June 2019 side quests changed and the strategy now is to go as crazy as you c
 
 &lt;p&gt;The more you do alchemy the more slots you can open to create more things at once.&lt;/p&gt;
 
-&lt;p&gt;The more heroes you have the more stuff you can create in alchemy at once.&lt;/p&gt;</content><author><name>Dark Wraith</name></author><summary type="html">Official Alchemy Game Guide: https://global.elchronicle.io/archives/2229</summary></entry><entry><title type="html">New Player Guide</title><link href="https://swirlingpotion.com/elchronicle-guide/" rel="alternate" type="text/html" title="New Player Guide" /><published>2019-06-09T00:00:00-07:00</published><updated>2019-06-09T00:00:00-07:00</updated><id>https://swirlingpotion.com/elchronicle-guide</id><content type="html" xml:base="https://swirlingpotion.com/elchronicle-guide/">&lt;h2 id=&quot;game-description&quot;&gt;Game Description&lt;/h2&gt;
-
-&lt;p&gt;El Chronicle is a great game for mobile phones. It allows you collect and build up heroes, battle enemies, complete quests, earn loot, and conquer in PVP. The graphics are great, the sound is great (each hero has their own unique theme song), and the gameplay is great.&lt;/p&gt;
-
-&lt;p&gt;There are in app purchase options, which are really expensive ($10 for a costume, $30 for more gold or crystals), but none of it is required to still progress quickly through the game and feel satisfied playing it.&lt;/p&gt;
-
-&lt;p&gt;Within 1 to 2 months as a free player you can begin doing late game objectives. You can have all heroes acquired, gear up your team, awaken them and complete all scenarios in this time. The late game content allows players to level up to 70 (which is really hard to reach), and keep looking for better equipment, and try to kill harder raid bosses.&lt;/p&gt;
-
-&lt;p&gt;There is a PVP system which allows players to attack other players in an automated way. You can’t control your heros during PVP. This system lets you try out different strategies and hero combinations to attempt to rank higher on the ladder. Highest ranked players will get more rewards than lower ranked players.&lt;/p&gt;
-
-&lt;p&gt;At first you are allowed to use 3 heroes in your &lt;code class=&quot;highlighter-rouge&quot;&gt;squad&lt;/code&gt; which is your group. As the game progresses you can have 5 in your squad.&lt;/p&gt;
-
-&lt;p&gt;Your heroes have multiple stats. This includes, level, stars, upgrade value, hp/def/atk power, and all this adds up to total &lt;code class=&quot;highlighter-rouge&quot;&gt;combat power&lt;/code&gt;. Your combat power helps you guess if you can complete a battle or not. Gain exp (by finishing battles alive or drinking exp potions) to gain levels. Use hero pieces to upgrade your hero. Use ingredients to give your hero more stars. Each new star level gives the hero a new skill or tier or something. See &lt;a href=&quot;/elchronicle-heroes/&quot;&gt;heroes guide&lt;/a&gt; for more info.&lt;/p&gt;
-
-&lt;p&gt;Equipment can be obtained from battles, raids, and the shop. It will significantly boost your heroes combat power. Equipment can be crafted and upgraded. T4 equipment can be brought up to T5 and T6. But T1, T2, and T3 items cannot tier up. So if you find a T4 item early in the game, you can safely upgrade it because you may use it the whole game. Learn more about &lt;a href=&quot;/elchronicle-equipment/&quot;&gt;equipment here&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h2 id=&quot;gameplay&quot;&gt;Gameplay&lt;/h2&gt;
-
-&lt;p&gt;The game starts you out by going on adventures. You are given a battle in which you must complete. You get to pick who is in your squad. Upon winning the battle you are given exp for your party and your surviving heroes and rewards for completing it. Progress through the game by completing the adventures.&lt;/p&gt;
-
-&lt;p&gt;Story adventures can only be completed once. But there’s a little portal statue thing that you can visit called stages, and those battles you can do repeatedly. From the battle menu you can go right or left to choose older battles or newer ones and you can see what rewards there are for completing. This is a great way to farm for items you need or get a hero more exp.&lt;/p&gt;
-
-&lt;p&gt;If you complete a stage level with the 3 objectives of keep everyone alive and finish in 1:30 you get a bonus SS reward of some crystals. So it’s a good idea to go back and make sure all stages are SS cleared.&lt;/p&gt;
-
-&lt;p&gt;By the way ratings in the game go from D, C, B, A, S, and SS. Where SS is the highest rating. This applies to equipment and stage clearing.&lt;/p&gt;
-
-&lt;p&gt;You get 5 heroes near the beginning of the game to play with free. Dean, Gwen, JaeleWoon, Clair, and Maeho. These are great heroes to use the whole game if you want. Each hero is good, but with these you get a little added hero pieces to help you upgrade.&lt;/p&gt;
-
-&lt;p&gt;There are dozens more heroes. To get them visit the Inn &amp;gt; Heroes Lounge. As you progress through the game more heroes will show up in the Connect menu here. Find one you like and click connect. You now have to earn their favor for them to permanently join you. You earn their favor by greeting them, giving them gold, giving them ingredients, giving them food, or just giving them crystals. The most expensive heroes are 900 favor which can be earned in 4 days completely free by doing the free greet 10x a day. Oh yes, all of the allowances reset each night allowing you to do the methods again the next day. Learn more about &lt;a href=&quot;/elchronicle-heroes/&quot;&gt;heroes&lt;/a&gt; here.&lt;/p&gt;
-
-&lt;p&gt;A solid party consists of a tank, damage dealer, and healer. Each hero has its qualities so find one that suits you and you’re excited about and use it. They are all good. But if you can score a hero specific weapon for one, that hero will be significantly stronger than the others because the hero specific weapon gives another 2,000 combat power.&lt;/p&gt;
-
-&lt;p&gt;There are a lot of free things to get each day so make sure to pay attention to your &lt;a href=&quot;/elchronicle-dailies/&quot;&gt;daily objectives&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Join the highest level guild you can. The higher the level the more gold they earn a day which is free gold for you. Help the guild out by participating in raids. Whenever your party level goes up 5 levels consider quitting your guild and finding a higher level guild.&lt;/p&gt;
-
-&lt;h2 id=&quot;strategiesgeneral-tips&quot;&gt;Strategies/General Tips&lt;/h2&gt;
-
-&lt;p&gt;You’re going to need a lot of ingredients for evolving heroes. Stock up on them, farm them, grab them anywhere you can. The vine and tearbloom can be farmed from most lower level stages whenever you want. As you progress to higher stages you can find more places to farm ingredients but they will have limited repeatable runs.&lt;/p&gt;
-
-&lt;p&gt;Run through the adventures to further yourself in the game. As you adventure further you will unlock new heroes in the inn, collect more supplies for upgrades, and level up. New content will be unlocked as you progress through the adventures too. Such as raiding, pvp, and missions.&lt;/p&gt;
-
-&lt;p&gt;As you progress you will unlock Raids, Challenges, and Compete. You get a limited amount of raid tickets each day so use them up, you get great loot there which can equip your heroes and gives you raid points. PVP doesn’t use any energy and can earn you honor which you need. So all these extra things are worth doing when your heroes are big enough.&lt;/p&gt;
-
-&lt;p&gt;When your hero gets to around 18-20k combat power, have them do their side story. It’s fun and gives good rewards.&lt;/p&gt;
-
-&lt;p&gt;Eventually you get Lulu to give you additional loot.  Basically every 3 stage battles she will give you an extra bonus drop. Once she is there for 30 stage battles you have to reselect which perk you want. At first select her clapper as this will give you trait materials you will likely use before the other materials. Always keep her support on because this extra gold and perk is great over time.&lt;/p&gt;
-
-&lt;p&gt;The first time you do a level you will have to go through it manually. Then you will be able to full auto it once you complete it. If you complete it with an SS score, you can then auto it on repeat without any interaction. You can cancel your auto repeat by hitting the little door icon and you’ll get back the energy it says next to the door icon.&lt;/p&gt;
-
-&lt;p&gt;If you are having trouble passing a certain battle, go and improve your heroes. Upgrade their armor, give them better armor, level up their skills, upgrade them, evolve them, or give them more traits. Then try the battle again once you’re upgraded.&lt;/p&gt;
-
-&lt;p&gt;“Help I still can’t beat a certain level!” Ya just keep raising your combat power. Farm more items, upgrade and level up your heroes and try again. It might take you a few days to improve your heroes to pass a mission, or even a few weeks. That’s ok that’s part of the fun, feeling like it got hard but you got past it. Everything can be solved by just improving your heroes combat power.&lt;/p&gt;
-
-&lt;p&gt;Once you start a mission you are charged energy. But if you fail a mission you can retry it over and over without any extra energy cost.&lt;/p&gt;
-
-&lt;h2 id=&quot;resources&quot;&gt;Resources&lt;/h2&gt;
-
-&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;Gold&lt;/code&gt; comes and goes fast. In just a few weeks of playing you’ll be able to make a million gold in a day. When you run out of gold it sucks, but if you can just wait until tomorrow, chances are you’ll have enough for whatever you wanted. Do the &lt;a href=&quot;/elchronicle-dailies/&quot;&gt;Daily Objectives&lt;/a&gt; and you’ll be good. &lt;a href=&quot;https://www.youtube.com/watch?v=r0A3YAtwCJg&quot;&gt;Watch this video&lt;/a&gt; to see how it adds up quick. Strangely enough you don’t buy anything with gold. It’s used when upgrading heroes, evolving them, awakening them, upgrading equipment, crafting equipment, hiring mercenaries in raids, and gaining favor with new heroes in the inn.&lt;/p&gt;
-
-&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;Energy&lt;/code&gt; runs out quick. You get 1 more every 5 minutes. There is a daily quest which gives you an extra 240 energy so make sure to grab that and use it all up every day on your daily objectives.&lt;/p&gt;
-
-&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;Honor&lt;/code&gt; is used to buy things in the honor shop. You can get honor from the following places:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Compete &amp;gt; Colosseum&lt;/li&gt;
-  &lt;li&gt;Compete &amp;gt; Infinite Fortress&lt;/li&gt;
-  &lt;li&gt;Raid &amp;gt; World Boss&lt;/li&gt;
-  &lt;li&gt;Guild ranking rewards&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;Raid points&lt;/code&gt; are earned when completing raids. Raids also can grant guild points and subjugation scores. These are used to help your guild buy things and you can buy things to help you defeat world bosses.&lt;/p&gt;
-
-&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;Champion points&lt;/code&gt; are earned when ranking really high in either of the Compete areas.&lt;/p&gt;
-
-&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;Thread&lt;/code&gt; only acquired through in game purchases.&lt;/p&gt;
-
-&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;Mileage&lt;/code&gt; perhaps only through in game purchases.&lt;/p&gt;
-
-&lt;h2 id=&quot;shops&quot;&gt;Shops&lt;/h2&gt;
-
-&lt;p&gt;There are 4 shops &lt;code class=&quot;highlighter-rouge&quot;&gt;summon&lt;/code&gt;, &lt;code class=&quot;highlighter-rouge&quot;&gt;wandering&lt;/code&gt;, &lt;code class=&quot;highlighter-rouge&quot;&gt;honor&lt;/code&gt;, &lt;code class=&quot;highlighter-rouge&quot;&gt;champion&lt;/code&gt;, &lt;code class=&quot;highlighter-rouge&quot;&gt;raid&lt;/code&gt;, &lt;code class=&quot;highlighter-rouge&quot;&gt;costume&lt;/code&gt;, and &lt;code class=&quot;highlighter-rouge&quot;&gt;mileage&lt;/code&gt;.&lt;/p&gt;
-
-&lt;p&gt;The summon shop gives you a free chance to get a good item for one of the heroes selected each day. Make sure to take this free pull daily and choose heroes you really want new equipment for. Some players recommend saving your crystals to buy the 10x summon card pulls. A few of these can really help gear up your squad as it gives you T3-T6 equipment and runes. I too recommend saving your crystals for these 10x pulls as they can quickly equip your heroes. But this is expensive so make sure to know what you want in your squad before doing this or else you might end up with equipment for a hero you end up not liking. So I recommend waiting until you get a few heroes to 6 stars before doing the 10x pulls on crystals. At this point you will have probably decided on which squad you like the most and need help getting passed some stuff.&lt;/p&gt;
-
-&lt;p&gt;The wandering shop lets you buy ingredients with crystals.&lt;/p&gt;
-
-&lt;p&gt;The honor shop lets you buy ingredients with honor points. It’s recommended to use honor to buy ingredients for upgrades and crafting. Missing hero pieces, ingredients for alechemy, ingredients for evolving heroes. Or it’s not a bad idea to buy more energy or raid tickets or even gold here too. It’s just not advised to spend honor on items you can farm.&lt;/p&gt;
-
-&lt;p&gt;The champion shop lets you cash in your champion points for random equipment T4-T6. Champion points are awarded to the top 12% of PVP ranked players in the highest tier.&lt;/p&gt;
-
-&lt;p&gt;The raid shop lets you purchase ingredients used to craft equipment or cook food. When crafting equipment it may cost 100k in raid points to buy all the items. A lot of items used in crafting can only be purchased in the raid shop.&lt;/p&gt;
-
-&lt;p&gt;The costume shop lets you buy new outfits for your characters. Keep in mind your character gets a new outfit at 5 stars and again at Awakening 1. Thread for costumes can only be purchased for real money.&lt;/p&gt;
-
-&lt;p&gt;Mileage shop let’s you buy treasures. These are items your heroes can wear. I think mileage can only be purchased with real money. But treasures can be found in the summon shop and in certain raids.&lt;/p&gt;
-
-&lt;h2 id=&quot;friends&quot;&gt;Friends&lt;/h2&gt;
-
-&lt;p&gt;You can add friends from Community &amp;gt; Friends.&lt;/p&gt;
-
-&lt;p&gt;You can have 25 friends. You can automatelly be suggested friends here too.&lt;/p&gt;
-
-&lt;p&gt;When fighting raids you can hire mercs. If you see a little heart next to the hired merc that means they are a friend. If you use them they get 1 energy point.&lt;/p&gt;
-
-&lt;p&gt;So the more friends you have the more likely one of them will use your merc in a raid and you may get 1 energy point.&lt;/p&gt;
-
-&lt;h2 id=&quot;more-links&quot;&gt;More links&lt;/h2&gt;
-
-&lt;p&gt;Official game guide &lt;a href=&quot;https://global.elchronicle.io/archives/category/global/game-guide&quot;&gt;https://global.elchronicle.io/archives/category/global/game-guide&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Reddit &lt;a href=&quot;https://www.reddit.com/r/El_chronicle&quot;&gt;https://www.reddit.com/r/El_chronicle&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;YouTube Guides and Videos &lt;a href=&quot;https://www.youtube.com/user/SacredxForever/videos&quot;&gt;https://www.youtube.com/user/SacredxForever/videos&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Active discussions on Discord &lt;a href=&quot;https://discord.gg/Trg6qcS&quot;&gt;https://discord.gg/Trg6qcS&lt;/a&gt;&lt;/p&gt;</content><author><name>Dark Wraith</name></author><summary type="html">Game Description</summary></entry></feed>
+&lt;p&gt;The more heroes you have the more stuff you can create in alchemy at once.&lt;/p&gt;</content><author><name>Dark Wraith</name></author><summary type="html">Official Alchemy Game Guide: https://global.elchronicle.io/archives/2229</summary></entry></feed>
