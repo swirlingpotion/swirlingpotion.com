@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="https://swirlingpotion.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://swirlingpotion.com/" rel="alternate" type="text/html" /><updated>2019-07-15T16:46:44-07:00</updated><id>https://swirlingpotion.com/</id><title type="html">Swirling Potion</title><subtitle>Drink this.</subtitle><author><name>Dark Wraith</name></author><entry><title type="html">Hero JaegalMageon</title><link href="https://swirlingpotion.com/elchronicle-jaegalmageon/" rel="alternate" type="text/html" title="Hero JaegalMageon" /><published>2019-07-15T00:00:00-07:00</published><updated>2019-07-15T00:00:00-07:00</updated><id>https://swirlingpotion.com/elchronicle-jaegalmageon</id><content type="html" xml:base="https://swirlingpotion.com/elchronicle-jaegalmageon/">&lt;p&gt;What is Jaegalmageon? A support hero? Yes. A tank? Yes. A DPS? Yes. When built right, he can do it all.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="https://swirlingpotion.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://swirlingpotion.com/" rel="alternate" type="text/html" /><updated>2019-07-16T13:24:00-07:00</updated><id>https://swirlingpotion.com/</id><title type="html">Swirling Potion</title><subtitle>Drink this.</subtitle><author><name>Dark Wraith</name></author><entry><title type="html">Hero JaegalMageon</title><link href="https://swirlingpotion.com/elchronicle-jaegalmageon/" rel="alternate" type="text/html" title="Hero JaegalMageon" /><published>2019-07-15T00:00:00-07:00</published><updated>2019-07-15T00:00:00-07:00</updated><id>https://swirlingpotion.com/elchronicle-jaegalmageon</id><content type="html" xml:base="https://swirlingpotion.com/elchronicle-jaegalmageon/">&lt;p&gt;What is Jaegalmageon? A support hero? Yes. A tank? Yes. A DPS? Yes. When built right, he can do it all.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/public/images/mageon.png&quot; width=&quot;400px&quot; /&gt;&lt;/p&gt;
 
@@ -6,7 +6,7 @@
 
 &lt;p&gt;&lt;img src=&quot;/public/images/jaegalmageon3.png&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;Jaice who has the top Mageon on USEast explained how to use him properly. First let’s examine his skillset.&lt;/p&gt;
+&lt;p&gt;I sat down with Jaice, who has the top Mageon on USEast, to learn how to use this hero properly. First let’s examine his skillset.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Skills&lt;/strong&gt;&lt;/p&gt;
 
@@ -1430,14 +1430,14 @@ In June 2019 side quests changed and the strategy now is to go as crazy as you c
   &lt;li&gt;Buy hero pieces from the Honor and Raid shop.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;Once you collect hero pieces you can use them to upgrade your hero.&lt;/p&gt;
+&lt;p&gt;Once you collect hero pieces you can use them to upgrade your hero. &lt;strong&gt;Estimates&lt;/strong&gt; on how much upgrades will cost below.&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;To max a 1 star hero: 5 pieces / 2.5k gold&lt;/li&gt;
   &lt;li&gt;To max a 2 star hero: 24 pieces / 15k gold&lt;/li&gt;
   &lt;li&gt;To max a 3 star hero: 100 pieces / 100k gold&lt;/li&gt;
   &lt;li&gt;To max a 4 star hero: 288 pieces / 420k gold&lt;/li&gt;
-  &lt;li&gt;To max a 5 star hero: ? pieces&lt;/li&gt;
+  &lt;li&gt;To max a 5 star hero: 600 pieces / 1M gold&lt;/li&gt;
   &lt;li&gt;To max a 6 star hero: 1200 pieces / 1.7M gold&lt;/li&gt;
 &lt;/ul&gt;
 
@@ -1470,6 +1470,12 @@ In June 2019 side quests changed and the strategy now is to go as crazy as you c
 &lt;h2 id=&quot;awakening&quot;&gt;Awakening&lt;/h2&gt;
 
 &lt;p&gt;After a hero reaches 6 stars they can be awakened. There are 3 stages to awakening W1, W2, and W3. This is extremely expensive to accomplish and will take quite a while. But awakened heroes will gain more in base stats, be allowed to level higher (up to 80), and open more abilities.&lt;/p&gt;
+
+&lt;p&gt;To awaken a hero to W1 you need you need first to have 6 star +8 hero. Then 1500 hero pieces, 90 low grade crests for their class, and 2,000,000 gold. This will unlock the temple. Here you will face a battle where you get to choose a squad and the battle is rated at recommended 80k combat power. Once you defeat the temple your hero will be awakened.&lt;/p&gt;
+
+&lt;p&gt;An awakened hero gets a new passive skill as well as the ability to choose a 2nd passive skill. You may change your awakened skill as frequently as you want without penelty. So try a few and see which one works for you.&lt;/p&gt;
+
+&lt;p&gt;To see what other players have chosen for their awakened skills you can go to Hero &amp;gt; Hero Book &amp;gt; Rank. Then find the hero click the little &lt;em&gt;i&lt;/em&gt; on the bottom left and inspect their skills.&lt;/p&gt;
 
 &lt;h2 id=&quot;side-quests&quot;&gt;Side Quests&lt;/h2&gt;
 
