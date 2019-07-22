@@ -161,7 +161,8 @@ Click a hero below to add it to your squad.</p>
 <img class="selectable" id="ahkchungwang" src="/public/images/ahkchungwang.jpg" width="100px" />
 <img class="selectable" id="kael" src="/public/images/kael.jpg" width="100px" />
 <img class="selectable" id="baeklicheon" src="/public/images/baeklicheon.jpg" width="100px" />
-<img class="selectable" id="grace" src="/public/images/grace.jpg" width="100px" /></p>
+<img class="selectable" id="grace" src="/public/images/grace.jpg" width="100px" />
+<img class="selectable" id="irene" src="/public/images/irene.jpg" width="100px" /></p>
 
 <p>Assassins:<br />
 <img class="selectable" id="gwen" src="/public/images/gwen.jpg" width="100px" />
@@ -348,10 +349,15 @@ Click a hero below to add it to your squad.</p>
       			heal = heal + 5;
 	      		attacktype = "(M)";
       		}
-      		if (squad[i] == 'grace') {
+                  if (squad[i] == 'grace') {
+                        tank = tank + 30;
+                        dps = dps + 30;
+                        attacktype = "(P)";
+                  }
+      		if (squad[i] == 'irene') {
       			tank = tank + 30;
       			dps = dps + 30;
-	      		attacktype = "(P)";
+	      		attacktype = "(M)";
       		}
       		if (squad[i] == 'iri') {
       			tank = tank + 30;

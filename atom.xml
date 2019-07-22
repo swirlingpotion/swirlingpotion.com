@@ -4,7 +4,7 @@
  <title>Swirling Potion</title>
  <link href="https://swirlingpotion.com/atom.xml" rel="self"/>
  <link href="https://swirlingpotion.com/"/>
- <updated>2019-07-16T13:24:00-07:00</updated>
+ <updated>2019-07-21T21:26:27-07:00</updated>
  <id>https://swirlingpotion.com</id>
  <author>
    <name>Dark Wraith</name>
@@ -169,7 +169,8 @@ Click a hero below to add it to your squad.&lt;/p&gt;
 &lt;img class=&quot;selectable&quot; id=&quot;ahkchungwang&quot; src=&quot;/public/images/ahkchungwang.jpg&quot; width=&quot;100px&quot; /&gt;
 &lt;img class=&quot;selectable&quot; id=&quot;kael&quot; src=&quot;/public/images/kael.jpg&quot; width=&quot;100px&quot; /&gt;
 &lt;img class=&quot;selectable&quot; id=&quot;baeklicheon&quot; src=&quot;/public/images/baeklicheon.jpg&quot; width=&quot;100px&quot; /&gt;
-&lt;img class=&quot;selectable&quot; id=&quot;grace&quot; src=&quot;/public/images/grace.jpg&quot; width=&quot;100px&quot; /&gt;&lt;/p&gt;
+&lt;img class=&quot;selectable&quot; id=&quot;grace&quot; src=&quot;/public/images/grace.jpg&quot; width=&quot;100px&quot; /&gt;
+&lt;img class=&quot;selectable&quot; id=&quot;irene&quot; src=&quot;/public/images/irene.jpg&quot; width=&quot;100px&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Assassins:&lt;br /&gt;
 &lt;img class=&quot;selectable&quot; id=&quot;gwen&quot; src=&quot;/public/images/gwen.jpg&quot; width=&quot;100px&quot; /&gt;
@@ -356,10 +357,15 @@ Click a hero below to add it to your squad.&lt;/p&gt;
       			heal = heal + 5;
 	      		attacktype = &quot;(M)&quot;;
       		}
-      		if (squad[i] == 'grace') {
+                  if (squad[i] == 'grace') {
+                        tank = tank + 30;
+                        dps = dps + 30;
+                        attacktype = &quot;(P)&quot;;
+                  }
+      		if (squad[i] == 'irene') {
       			tank = tank + 30;
       			dps = dps + 30;
-	      		attacktype = &quot;(P)&quot;;
+	      		attacktype = &quot;(M)&quot;;
       		}
       		if (squad[i] == 'iri') {
       			tank = tank + 30;
@@ -1287,6 +1293,7 @@ In June 2019 side quests changed and the strategy now is to go as crazy as you c
 &lt;img src=&quot;/public/images/kael.jpg&quot; width=&quot;100px&quot; /&gt;
 &lt;img src=&quot;/public/images/baeklicheon.jpg&quot; width=&quot;100px&quot; /&gt;
 &lt;img src=&quot;/public/images/grace.jpg&quot; width=&quot;100px&quot; /&gt;
+&lt;img src=&quot;/public/images/irene.jpg&quot; width=&quot;100px&quot; /&gt;
 &lt;img src=&quot;/public/images/gwen.jpg&quot; width=&quot;100px&quot; /&gt;
 &lt;img src=&quot;/public/images/jade.jpg&quot; width=&quot;100px&quot; /&gt;
 &lt;img src=&quot;/public/images/isha.jpg&quot; width=&quot;100px&quot; /&gt;
@@ -1423,6 +1430,7 @@ In June 2019 side quests changed and the strategy now is to go as crazy as you c
 	&lt;div class=&quot;column&quot;&gt;Kael&lt;br /&gt; &lt;img src=&quot;/public/images/kael.jpg&quot; /&gt;&lt;/div&gt;
 	&lt;div class=&quot;column&quot;&gt;BaekLicheon&lt;br /&gt; &lt;img src=&quot;/public/images/baeklicheon.jpg&quot; /&gt;&lt;/div&gt;
 	&lt;div class=&quot;column&quot;&gt;Grace&lt;br /&gt; &lt;img src=&quot;/public/images/grace.jpg&quot; /&gt;&lt;/div&gt;
+	&lt;div class=&quot;column&quot;&gt;Irene&lt;br /&gt; &lt;img src=&quot;/public/images/irene.jpg&quot; /&gt;&lt;/div&gt;
 &lt;/div&gt;
 
 &lt;p&gt;It’s not clear who the best tanks are. Each are built pretty well. So find one you think looks cool has fun skills and is exciting to play. I personally like sticking with Dean since his hero pieces are more available in the game than other tanks.&lt;/p&gt;
@@ -1790,7 +1798,7 @@ In June 2019 side quests changed and the strategy now is to go as crazy as you c
 
 &lt;p&gt;When your hero gets to around 18-20k combat power, have them do their side story. It’s fun and gives good rewards.&lt;/p&gt;
 
-&lt;p&gt;Eventually you get Lulu to give you additional loot.  Basically every 3 stage battles she will give you an extra bonus drop. Once she is there for 30 stage battles you have to reselect which perk you want. At first select her clapper as this will give you trait materials you will likely use before the other materials. Always keep her support on because this extra gold and perk is great over time.&lt;/p&gt;
+&lt;p&gt;Eventually you get Lulu to give you additional loot.  Basically every 3 stage battles she will give you an extra bonus drop. Once she is there for 30 stage battles you have to reselect which perk you want. I suggest using the &lt;strong&gt;Megaphone Support&lt;/strong&gt; your entire gameplay. You may be tempted to use the clapper for trait tokens, but once you get to higher levels you can farm them fairly easily.&lt;/p&gt;
 
 &lt;p&gt;The first time you do a level you will have to go through it manually. Then you will be able to full auto it once you complete it. If you complete it with an SS score, you can then auto it on repeat without any interaction. You can cancel your auto repeat by hitting the little door icon and you’ll get back the energy it says next to the door icon.&lt;/p&gt;
 
@@ -1827,7 +1835,7 @@ In June 2019 side quests changed and the strategy now is to go as crazy as you c
 
 &lt;p&gt;There are 4 shops &lt;code class=&quot;highlighter-rouge&quot;&gt;summon&lt;/code&gt;, &lt;code class=&quot;highlighter-rouge&quot;&gt;wandering&lt;/code&gt;, &lt;code class=&quot;highlighter-rouge&quot;&gt;honor&lt;/code&gt;, &lt;code class=&quot;highlighter-rouge&quot;&gt;champion&lt;/code&gt;, &lt;code class=&quot;highlighter-rouge&quot;&gt;raid&lt;/code&gt;, &lt;code class=&quot;highlighter-rouge&quot;&gt;costume&lt;/code&gt;, and &lt;code class=&quot;highlighter-rouge&quot;&gt;mileage&lt;/code&gt;.&lt;/p&gt;
 
-&lt;p&gt;The summon shop gives you a free chance to get a good item for one of the heroes selected each day. Make sure to take this free pull daily and choose heroes you really want new equipment for. Some players recommend saving your crystals to buy the 10x summon card pulls. A few of these can really help gear up your squad as it gives you T3-T6 equipment and runes. I too recommend saving your crystals for these 10x pulls as they can quickly equip your heroes. But this is expensive so make sure to know what you want in your squad before doing this or else you might end up with equipment for a hero you end up not liking. So I recommend waiting until you get a few heroes to 6 stars before doing the 10x pulls on crystals. At this point you will have probably decided on which squad you like the most and need help getting passed some stuff.&lt;/p&gt;
+&lt;p&gt;The summon shop gives you a free chance to get a good item for one of the heroes selected each day. Make sure to take this free pull daily and choose heroes you really want new equipment for. Some players recommend saving your crystals to buy the 10x summon card pulls. (Note a summoning ticket is worth 250 crystals and can be combined with crystals to do a 10x summon.) A few of these can really help gear up your squad as it gives you T3-T6 equipment and runes. I too recommend saving your crystals for these 10x pulls as they can quickly equip your heroes. But this is expensive so make sure to know what you want in your squad before doing this or else you might end up with equipment for a hero you end up not liking. So I recommend waiting until you get a few heroes to 6 stars before doing the 10x pulls on crystals. At this point you will have probably decided on which squad you like the most and need help getting passed some stuff.&lt;/p&gt;
 
 &lt;p&gt;The wandering shop lets you buy ingredients with crystals.&lt;/p&gt;
 

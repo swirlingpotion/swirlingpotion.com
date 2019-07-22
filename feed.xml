@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="https://swirlingpotion.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://swirlingpotion.com/" rel="alternate" type="text/html" /><updated>2019-07-16T13:24:00-07:00</updated><id>https://swirlingpotion.com/</id><title type="html">Swirling Potion</title><subtitle>Drink this.</subtitle><author><name>Dark Wraith</name></author><entry><title type="html">Hero JaegalMageon</title><link href="https://swirlingpotion.com/elchronicle-jaegalmageon/" rel="alternate" type="text/html" title="Hero JaegalMageon" /><published>2019-07-15T00:00:00-07:00</published><updated>2019-07-15T00:00:00-07:00</updated><id>https://swirlingpotion.com/elchronicle-jaegalmageon</id><content type="html" xml:base="https://swirlingpotion.com/elchronicle-jaegalmageon/">&lt;p&gt;What is Jaegalmageon? A support hero? Yes. A tank? Yes. A DPS? Yes. When built right, he can do it all.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="https://swirlingpotion.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://swirlingpotion.com/" rel="alternate" type="text/html" /><updated>2019-07-21T21:26:27-07:00</updated><id>https://swirlingpotion.com/</id><title type="html">Swirling Potion</title><subtitle>Drink this.</subtitle><author><name>Dark Wraith</name></author><entry><title type="html">Hero JaegalMageon</title><link href="https://swirlingpotion.com/elchronicle-jaegalmageon/" rel="alternate" type="text/html" title="Hero JaegalMageon" /><published>2019-07-15T00:00:00-07:00</published><updated>2019-07-15T00:00:00-07:00</updated><id>https://swirlingpotion.com/elchronicle-jaegalmageon</id><content type="html" xml:base="https://swirlingpotion.com/elchronicle-jaegalmageon/">&lt;p&gt;What is Jaegalmageon? A support hero? Yes. A tank? Yes. A DPS? Yes. When built right, he can do it all.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/public/images/mageon.png&quot; width=&quot;400px&quot; /&gt;&lt;/p&gt;
 
@@ -141,7 +141,8 @@ Click a hero below to add it to your squad.&lt;/p&gt;
 &lt;img class=&quot;selectable&quot; id=&quot;ahkchungwang&quot; src=&quot;/public/images/ahkchungwang.jpg&quot; width=&quot;100px&quot; /&gt;
 &lt;img class=&quot;selectable&quot; id=&quot;kael&quot; src=&quot;/public/images/kael.jpg&quot; width=&quot;100px&quot; /&gt;
 &lt;img class=&quot;selectable&quot; id=&quot;baeklicheon&quot; src=&quot;/public/images/baeklicheon.jpg&quot; width=&quot;100px&quot; /&gt;
-&lt;img class=&quot;selectable&quot; id=&quot;grace&quot; src=&quot;/public/images/grace.jpg&quot; width=&quot;100px&quot; /&gt;&lt;/p&gt;
+&lt;img class=&quot;selectable&quot; id=&quot;grace&quot; src=&quot;/public/images/grace.jpg&quot; width=&quot;100px&quot; /&gt;
+&lt;img class=&quot;selectable&quot; id=&quot;irene&quot; src=&quot;/public/images/irene.jpg&quot; width=&quot;100px&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Assassins:&lt;br /&gt;
 &lt;img class=&quot;selectable&quot; id=&quot;gwen&quot; src=&quot;/public/images/gwen.jpg&quot; width=&quot;100px&quot; /&gt;
@@ -328,10 +329,15 @@ Click a hero below to add it to your squad.&lt;/p&gt;
       			heal = heal + 5;
 	      		attacktype = &quot;(M)&quot;;
       		}
-      		if (squad[i] == 'grace') {
+                  if (squad[i] == 'grace') {
+                        tank = tank + 30;
+                        dps = dps + 30;
+                        attacktype = &quot;(P)&quot;;
+                  }
+      		if (squad[i] == 'irene') {
       			tank = tank + 30;
       			dps = dps + 30;
-	      		attacktype = &quot;(P)&quot;;
+	      		attacktype = &quot;(M)&quot;;
       		}
       		if (squad[i] == 'iri') {
       			tank = tank + 30;
@@ -1199,6 +1205,7 @@ In June 2019 side quests changed and the strategy now is to go as crazy as you c
 &lt;img src=&quot;/public/images/kael.jpg&quot; width=&quot;100px&quot; /&gt;
 &lt;img src=&quot;/public/images/baeklicheon.jpg&quot; width=&quot;100px&quot; /&gt;
 &lt;img src=&quot;/public/images/grace.jpg&quot; width=&quot;100px&quot; /&gt;
+&lt;img src=&quot;/public/images/irene.jpg&quot; width=&quot;100px&quot; /&gt;
 &lt;img src=&quot;/public/images/gwen.jpg&quot; width=&quot;100px&quot; /&gt;
 &lt;img src=&quot;/public/images/jade.jpg&quot; width=&quot;100px&quot; /&gt;
 &lt;img src=&quot;/public/images/isha.jpg&quot; width=&quot;100px&quot; /&gt;
@@ -1335,6 +1342,7 @@ In June 2019 side quests changed and the strategy now is to go as crazy as you c
 	&lt;div class=&quot;column&quot;&gt;Kael&lt;br /&gt; &lt;img src=&quot;/public/images/kael.jpg&quot; /&gt;&lt;/div&gt;
 	&lt;div class=&quot;column&quot;&gt;BaekLicheon&lt;br /&gt; &lt;img src=&quot;/public/images/baeklicheon.jpg&quot; /&gt;&lt;/div&gt;
 	&lt;div class=&quot;column&quot;&gt;Grace&lt;br /&gt; &lt;img src=&quot;/public/images/grace.jpg&quot; /&gt;&lt;/div&gt;
+	&lt;div class=&quot;column&quot;&gt;Irene&lt;br /&gt; &lt;img src=&quot;/public/images/irene.jpg&quot; /&gt;&lt;/div&gt;
 &lt;/div&gt;
 
 &lt;p&gt;It’s not clear who the best tanks are. Each are built pretty well. So find one you think looks cool has fun skills and is exciting to play. I personally like sticking with Dean since his hero pieces are more available in the game than other tanks.&lt;/p&gt;
