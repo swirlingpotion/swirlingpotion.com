@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="https://swirlingpotion.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://swirlingpotion.com/" rel="alternate" type="text/html" /><updated>2019-07-21T21:26:27-07:00</updated><id>https://swirlingpotion.com/</id><title type="html">Swirling Potion</title><subtitle>Drink this.</subtitle><author><name>Dark Wraith</name></author><entry><title type="html">Hero JaegalMageon</title><link href="https://swirlingpotion.com/elchronicle-jaegalmageon/" rel="alternate" type="text/html" title="Hero JaegalMageon" /><published>2019-07-15T00:00:00-07:00</published><updated>2019-07-15T00:00:00-07:00</updated><id>https://swirlingpotion.com/elchronicle-jaegalmageon</id><content type="html" xml:base="https://swirlingpotion.com/elchronicle-jaegalmageon/">&lt;p&gt;What is Jaegalmageon? A support hero? Yes. A tank? Yes. A DPS? Yes. When built right, he can do it all.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="https://swirlingpotion.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://swirlingpotion.com/" rel="alternate" type="text/html" /><updated>2019-07-27T16:57:34-07:00</updated><id>https://swirlingpotion.com/</id><title type="html">Swirling Potion</title><subtitle>Drink this.</subtitle><author><name>Dark Wraith</name></author><entry><title type="html">Hero JaegalMageon</title><link href="https://swirlingpotion.com/elchronicle-jaegalmageon/" rel="alternate" type="text/html" title="Hero JaegalMageon" /><published>2019-07-15T00:00:00-07:00</published><updated>2019-07-15T00:00:00-07:00</updated><id>https://swirlingpotion.com/elchronicle-jaegalmageon</id><content type="html" xml:base="https://swirlingpotion.com/elchronicle-jaegalmageon/">&lt;p&gt;What is Jaegalmageon? A support hero? Yes. A tank? Yes. A DPS? Yes. When built right, he can do it all.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/public/images/mageon.png&quot; width=&quot;400px&quot; /&gt;&lt;/p&gt;
 
@@ -1542,9 +1542,36 @@ In June 2019 side quests changed and the strategy now is to go as crazy as you c
 
 &lt;p&gt;It’s possible to increase the grade but it’s very expensive. To increase the grade you need to &lt;a href=&quot;https://global.elchronicle.io/archives/4042&quot;&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;Transcend&lt;/code&gt;&lt;/a&gt; the item 3 times.&lt;/p&gt;
 
-&lt;h2 id=&quot;upgrades&quot;&gt;Upgrades&lt;/h2&gt;
+&lt;h2 id=&quot;natural-t6&quot;&gt;Natural T6&lt;/h2&gt;
 
-&lt;p&gt;Equipment can be upgraded in the &lt;code class=&quot;highlighter-rouge&quot;&gt;Workshop&lt;/code&gt;. When an item is upgrade to level &lt;code class=&quot;highlighter-rouge&quot;&gt;11&lt;/code&gt; it will gain a bonus stat. When an item is upgraded to level &lt;code class=&quot;highlighter-rouge&quot;&gt;21&lt;/code&gt; it will gain another bonus stat. T1 items cannot gain a bonus stat. A bonus stat is whole new effect the item provides such as HP or +DEF. Because of these bonus stats it’s good to try to upgrade equipment to level 11 or 21 to get these bonus stats.&lt;/p&gt;
+&lt;p&gt;T4 can be upgraded to T5, T6, and T7. But there are also natural occurring T6 armor. Here are the slots you can get a natural T6 for.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Head/Chest/Feet armor sets&lt;/li&gt;
+  &lt;li&gt;Hero unique weapon&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The other slots, such as regular weapon, accessory, and treasures do not have any natural T6 at this time. Which means if you get a good T4 for those slots you are safe to upgrade them up to the max.&lt;/p&gt;
+
+&lt;h2 id=&quot;leveling-gear-upupgrading-it&quot;&gt;Leveling Gear Up/Upgrading It&lt;/h2&gt;
+
+&lt;p&gt;You can level your equipment up by going to the workshop. You will need items to level up your equipment. The items required are: other equipment you aren’t going to use and upgrade stones. You get upgrade stones from higher level encounters.&lt;/p&gt;
+
+&lt;p&gt;The max level, and exp required to get an item to max:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;T1: lvl 15 - 10,000 exp&lt;/li&gt;
+  &lt;li&gt;T2: lvl 20 - 35,000 exp&lt;/li&gt;
+  &lt;li&gt;T3: lvl 30 - 150,000 exp&lt;/li&gt;
+  &lt;li&gt;T4: lvl 40 - 690,000 exp&lt;/li&gt;
+  &lt;li&gt;T5: lvl 45 - ?&lt;/li&gt;
+  &lt;li&gt;T6: lvl 50 - 1,550,000 exp&lt;/li&gt;
+  &lt;li&gt;T7: lvl 70 - ?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;First, I don’t have any T5 or T7 gear. Second, you can only reach these after upping the tier of T4 or T6 item to the next tier. And in order to do that you need to first max the level of the item. So really the amount of exp to max it will just be the difference between 40-45 or 50-70. I’m not sure how to calculate that.&lt;/p&gt;
+
+&lt;p&gt;Equipment can be upgraded in the &lt;code class=&quot;highlighter-rouge&quot;&gt;Workshop&lt;/code&gt;. When an item is upgrade to level &lt;code class=&quot;highlighter-rouge&quot;&gt;11&lt;/code&gt; it will gain a bonus stat. When an item is upgraded to level &lt;code class=&quot;highlighter-rouge&quot;&gt;21&lt;/code&gt; it will gain another bonus stat, and some items will have an extra stat at level 26. T1 items cannot gain a bonus stat. A bonus stat is whole new effect the item provides such as HP or +DEF. Because of these bonus stats it’s good to try to upgrade equipment to level 11 or 21 to get these bonus stats.&lt;/p&gt;
 
 &lt;p&gt;You upgrade armor by using other armor you aren’t using or an &lt;code class=&quot;highlighter-rouge&quot;&gt;upgrade stone&lt;/code&gt;. There are 3 types of &lt;code class=&quot;highlighter-rouge&quot;&gt;upgrade stones&lt;/code&gt;: low, medium and high. Upgrade stones can be created through &lt;a href=&quot;/elchronicle-alchemy/&quot;&gt;alchemy&lt;/a&gt;, or acquired through adventuring in the game. So with old equipment that you won’t use, especially T1 equipment, you can use it to upgrade the good equipment you have. This is preferred since the only other option is to sell it and it’s fairly easy to acquire gold in the game.&lt;/p&gt;
 
