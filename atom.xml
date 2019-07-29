@@ -4,13 +4,67 @@
  <title>Swirling Potion</title>
  <link href="https://swirlingpotion.com/atom.xml" rel="self"/>
  <link href="https://swirlingpotion.com/"/>
- <updated>2019-07-27T16:58:49-07:00</updated>
+ <updated>2019-07-29T16:44:31-07:00</updated>
  <id>https://swirlingpotion.com</id>
  <author>
    <name>Dark Wraith</name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>PVP</title>
+   <link href="https://swirlingpotion.com/elchronicel-pvp/"/>
+   <updated>2019-07-29T00:00:00-07:00</updated>
+   <id>https://swirlingpotion.com/elchronicel-pvp</id>
+   <content type="html">&lt;p&gt;There are two types of PVP matches in El Chronicle. Coliseum and Infinite Fortress.&lt;/p&gt;
+
+&lt;h2 id=&quot;coliseum&quot;&gt;Coliseum&lt;/h2&gt;
+
+&lt;h4 id=&quot;picking-squads&quot;&gt;Picking Squads&lt;/h4&gt;
+
+&lt;p&gt;First pick your squad. Click the squad button in bottom left. Then on the top left you see “Attack 1-3” and “Defense 1-3”. Pick a squad for each one. You might as well pick the exact same squad for each one until you get the ropes. Basically there are 3 options in case you want to quickly switch squads before a match without having to go back here and do it.&lt;/p&gt;
+
+&lt;p&gt;Your attack squad is what you use to attack with, your defense squad is what others will see when they attack you.&lt;/p&gt;
+
+&lt;p&gt;The Leader will get to use their skills right away while non-leaders will need to wait for their skills to cool down before using them.&lt;/p&gt;
+
+&lt;p&gt;The AI is still changing and there isn’t a good guide on how to do it yet. I personally like to concentrate all my power onto a single person and take someone out right away.&lt;/p&gt;
+
+&lt;p&gt;Your position matters a lot, and when you go to battle someone you can change position again then to see exactly who will be attacking who. You can move your players around to make the enemy change who they will attack first and who you will attack first. Basically if who you’re going to attack first is too far away you will change to a new target. Same with the enemy. So you can trick the enemy AI by moving your players. You can also block the enemy from getting to your squishier players right away.&lt;/p&gt;
+
+&lt;h4 id=&quot;ranks&quot;&gt;Ranks&lt;/h4&gt;
+
+&lt;p&gt;If you’re just starting out in the beginner rank, don’t stress too much about this. Just do your 3 daily fights for your daily quest and not worry about ranking up too much after. You can try but the rewards just aren’t worth the effort it takes to try to rank up. Your goal is to get into the Experienced rank where the rewards become much more significant. Even the last place person on the experienced rank gets 3,650 honor points which is more than the 1st place person in beginner.&lt;/p&gt;
+
+&lt;p&gt;Once you get to experienced rank, your goal is to get as many wins in as you can so you can start earning champion points. These will get you extra equipment.&lt;/p&gt;
+
+&lt;h4 id=&quot;strategies&quot;&gt;Strategies&lt;/h4&gt;
+
+&lt;p&gt;The PVP strategies are always evolving and what I say here is not golden, just observations at the time of writing.&lt;/p&gt;
+
+&lt;p&gt;Play around with moving your heroes around at each battle to figure out who the enemy will attack and who you will attack. You can have a good upper hand if the initial attack goes your way. And you can get the enemy to attack someone else if you move things around.&lt;/p&gt;
+
+&lt;p&gt;If you fight someone and lose, you can fight them again without any penalty if you lose again. So if you think you can beat them, try again because you have nothing to lose.&lt;/p&gt;
+
+&lt;p&gt;You will earn more points if you win a fight with someone who ranks higher than you. You will lose more points if you lose to someone who is lower rank than you.&lt;/p&gt;
+
+&lt;p&gt;If you Refresh Opponents, and you have unfought battles, all those unfought battles will be treated like losses and you will lose LP accordingly. So might as well fight everyone before refreshing opponents in case you get a lucky break.&lt;/p&gt;
+
+&lt;h2 id=&quot;infinite-fortress&quot;&gt;Infinite Fortress&lt;/h2&gt;
+
+&lt;p&gt;In this, you choose 3 heroes to try to see how far you can go with increasingly harder enemies. There may not be a end to it but some rumors say level 25 is the highest it goes.&lt;/p&gt;
+
+&lt;p&gt;There’s not a lot of strategy here. Just pick a healer/attacker/tanker and you’ll have a good shot.&lt;/p&gt;
+
+&lt;p&gt;Once a hero of yours dies, you can either choose a new hero to come in, or if you are doing auto a new one will automatically be chosen to come in.&lt;/p&gt;
+
+&lt;p&gt;The more points you earn the higher rank you get. The higher rank you get the more honor points and/or champion points you earn at the end of the day.&lt;/p&gt;
+
+&lt;p&gt;You may only compete in Infinite Fortress once daily. Every Monday morning the ranks are reset. So you really only need to do it on Monday, and you’ll earn honor points all week.&lt;/p&gt;
+
+</content>
+ </entry>
  
  <entry>
    <title>Hero JaegalMageon</title>
@@ -1834,6 +1888,10 @@ In June 2019 side quests changed and the strategy now is to go as crazy as you c
 &lt;p&gt;“Help I still can’t beat a certain level!” Ya just keep raising your combat power. Farm more items, upgrade and level up your heroes and try again. It might take you a few days to improve your heroes to pass a mission, or even a few weeks. That’s ok that’s part of the fun, feeling like it got hard but you got past it. Everything can be solved by just improving your heroes combat power.&lt;/p&gt;
 
 &lt;p&gt;Once you start a mission you are charged energy. But if you fail a mission you can retry it over and over without any extra energy cost.&lt;/p&gt;
+
+&lt;p&gt;If you aren’t doing auto, in a battle you can double tap an area of the map to make your whole squad go there except the hero you control. This is good for controlling the positioning of your squad.&lt;/p&gt;
+
+&lt;p&gt;If you aren’t doing auto in battle, you can click on an emey which highlights them in red, and the whole team will focus attacks on that enemy. This is very helpful for getting rid of adds quickly to focus on the boss. When a team concentrates their focus on one enemy at a time it makes the battle easier to manage and fast.&lt;/p&gt;
 
 &lt;h2 id=&quot;resources&quot;&gt;Resources&lt;/h2&gt;
 
