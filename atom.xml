@@ -4,7 +4,7 @@
  <title>Swirling Potion</title>
  <link href="https://swirlingpotion.com/atom.xml" rel="self"/>
  <link href="https://swirlingpotion.com/"/>
- <updated>2019-07-29T16:44:31-07:00</updated>
+ <updated>2019-08-01T09:27:28-07:00</updated>
  <id>https://swirlingpotion.com</id>
  <author>
    <name>Dark Wraith</name>
@@ -1715,10 +1715,10 @@ In June 2019 side quests changed and the strategy now is to go as crazy as you c
   &lt;li&gt;T1: lvl 15 - 10,000 exp&lt;/li&gt;
   &lt;li&gt;T2: lvl 20 - 35,000 exp&lt;/li&gt;
   &lt;li&gt;T3: lvl 30 - 150,000 exp&lt;/li&gt;
-  &lt;li&gt;T4: lvl 40 - 690,000 exp&lt;/li&gt;
-  &lt;li&gt;T5: lvl 45 - ?&lt;/li&gt;
-  &lt;li&gt;T6: lvl 50 - 1,550,000 exp&lt;/li&gt;
-  &lt;li&gt;T7: lvl 70 - ?&lt;/li&gt;
+  &lt;li&gt;T4: lvl 40 - 690,000 exp (138 low upgrade stones)&lt;/li&gt;
+  &lt;li&gt;T5: lvl 45 - 1.46m exp (292 low upgrade stones)&lt;/li&gt;
+  &lt;li&gt;T6: lvl 50 - 1.55m exp (310 low upgrade stones)&lt;/li&gt;
+  &lt;li&gt;T7: lvl 70 - 2.535m exp (507 low upgrade stones)&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;First, I don’t have any T5 or T7 gear. Second, you can only reach these after upping the tier of T4 or T6 item to the next tier. And in order to do that you need to first max the level of the item. So really the amount of exp to max it will just be the difference between 40-45 or 50-70. I’m not sure how to calculate that.&lt;/p&gt;
